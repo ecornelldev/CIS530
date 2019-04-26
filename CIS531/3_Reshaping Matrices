@@ -1,0 +1,97 @@
+
+
+Create two random 4x4 matrices. Compute and print the product of the two.
+
+a = np.random.random((4,4))
+b = np.random.random((4,4))
+print(np.matmul(a,b))
+# or
+print(a.dot(b))
+
+
+
+
+
+
+Create a random 3x2 matrix and a random 2x4 matrix. Compute and print the product of the two.
+a = np.random.random((3,2))
+b = np.random.random((2,4))
+print(np.matmul(a,b))
+# or
+print(a.dot(b))
+
+Note: the dot() function adapts to matrices of different dimensions. See the full documentation here: https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.dot.html
+
+
+
+
+
+Create a random 9x4 matrix. Compute and print the matrix scaled by 3.
+a = np.random.random((3,2))
+
+print(a.dot(3))
+Note: the dot() function must be used when multiplying a matrix by a scalar.
+
+
+
+
+
+
+Create a random 5x6 matrix and a random 6x1 vector. Compute and print the product of the two.
+a = np.random.random((5,6))
+b = np.random.random((6,1))
+print(a.dot(b))
+Note: the dot() function must be used when multiplying a matrix by a scalar.
+
+
+
+
+
+
+
+
+
+
+
+Create a random 5x3 matrix and a random 2x1 matrix. Attempt to compute and print the product of the two, and observe the response.
+
+a = np.random.random((5,3))
+b = np.random.random((2,1))
+print(a.dot(b))
+
+You should see "ValueError: shapes (5,3) and (2,1) not aligned: 3 (dim 1) != 2 (dim 0)"
+Remember, when multiplying two matrices, the number of columns in the first (3) must match the number of rows in the second (2).
+
+
+
+
+
+
+
+
+
+
+Create two row vectors, one of length 4, one of length 6. Compute and print the product of the two, first using dot(), then using outer().
+a = np.random.random((1,4))
+b = np.random.random((1,6))
+
+print(np.dot(a.T,b))
+print(np.outer(a, b))
+
+
+Note: Using the outer() function automatically transposes the first matrix before computing the product. dot() expects compatible dimensions, so the first matrix must be transposed before passing it as an argument.
+
+
+
+
+
+
+
+
+
+Create two column vectors, one of length 3, one of length 8. Compute and print the product of the two, first using dot(), then using outer().
+a = np.random.random((3,1))
+b = np.random.random((8,1))
+
+print(np.dot(a,b.T))
+print(np.outer(a, b))
