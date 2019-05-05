@@ -1,0 +1,398 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS534
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=fdce0da6485d9763ffbf44e4b0656e824bf3b52bc24b6eae
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-25530-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=fdce0da6485d9763ffbf44e4b0656e824bf3b52bc24b6eae
+[NotebookApp | WARNING] Notebook source/Regression Tree/python_HW7_CART_solution.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/source/Regression%20Tree/forest.jpg (127.0.0.1) 0.88ms
+[NotebookApp | INFO] Kernel started: 8cad9557-3685-4ee9-b8ad-b0633dc65c9e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8cad9557-3685-4ee9-b8ad-b0633dc65c9e
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 30.86ms referer=http://localhost:8888/notebooks/source/Regression%20Tree/python_HW7_CART_solution.ipynb
+[NotebookApp | INFO] Starting buffering for 8cad9557-3685-4ee9-b8ad-b0633dc65c9e:18699bed0d7a43f58d37cfa29235ec4e
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/source/Regression%20Tree/forest.jpg (127.0.0.1) 0.62ms
+[NotebookApp | INFO] Kernel started: f425515c-70cb-4c9b-8ddf-a973e6cf6965
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f425515c-70cb-4c9b-8ddf-a973e6cf6965
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 1.17ms referer=http://localhost:8888/notebooks/source/Regression%20Tree/Regression_tree.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/source/Regression%20Tree/forest.jpg (127.0.0.1) 0.98ms
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook source/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS534/source/Regression Tree/Regression_tree.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS534/source/Regression Tree/Regression_tree.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Starting buffering for f425515c-70cb-4c9b-8ddf-a973e6cf6965:dbbfceaae3934ba3b91e3cf479482336
+[NotebookApp | INFO] Kernel restarted: f425515c-70cb-4c9b-8ddf-a973e6cf6965
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f425515c-70cb-4c9b-8ddf-a973e6cf6965
+[NotebookApp | INFO] Restoring connection for f425515c-70cb-4c9b-8ddf-a973e6cf6965:dbbfceaae3934ba3b91e3cf479482336
+[NotebookApp | INFO] Replaying 8 buffered messages
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS534/source/./Regression Tree/forest.jpg -> /home/cheng/Desktop/CIS530/CIS534/release/./Regression Tree/forest.jpg
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS534/source/./Regression Tree/ion.mat -> /home/cheng/Desktop/CIS530/CIS534/release/./Regression Tree/ion.mat
+[NotebookApp | INFO] Updating/creating assignment 'Regression Tree': {}
+[NotebookApp | INFO] Converting notebook /home/cheng/Desktop/CIS530/CIS534/source/./Regression Tree/Regression_tree.ipynb
+[NotebookApp | ERROR] There was an error processing assignment: /home/cheng/Desktop/CIS530/CIS534/source/./Regression Tree
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbgrader/converters/base.py", line 293, in convert_notebooks
+        self.convert_single_notebook(notebook_filename)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbgrader/converters/base.py", line 249, in convert_single_notebook
+        output, resources = self.exporter.from_filename(notebook_filename, resources=resources)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 178, in from_filename
+        return self.from_file(f, resources=resources, **kw)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 196, in from_file
+        return self.from_notebook_node(nbformat.read(file_stream, as_version=4), resources=resources, **kw)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/notebook.py", line 32, in from_notebook_node
+        nb_copy, resources = super(NotebookExporter, self).from_notebook_node(nb, resources, **kw)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 138, in from_notebook_node
+        nb_copy, resources = self._preprocess(nb_copy, resources)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 315, in _preprocess
+        nbc, resc = preprocessor(nbc, resc)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/preprocessors/base.py", line 47, in __call__
+        return self.preprocess(nb, resources)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbgrader/preprocessors/clearsolutions.py", line 130, in preprocess
+        nb, resources = super(ClearSolutions, self).preprocess(nb, resources)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/preprocessors/base.py", line 69, in preprocess
+        nb.cells[index], resources = self.preprocess_cell(cell, resources, index)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbgrader/preprocessors/clearsolutions.py", line 149, in preprocess_cell
+        "Solution region detected in a non-solution cell; please make sure "
+    RuntimeError: Solution region detected in a non-solution cell; please make sure all solution regions are within solution cells.
+    
+[NotebookApp | WARNING] Removing failed assignment: /home/cheng/Desktop/CIS530/CIS534/release/Regression Tree
+[NotebookApp | ERROR] There was an error processing assignment 'Regression Tree' for student '.'
+[NotebookApp | ERROR] Please see the the above traceback for details on the specific errors on the above failures.
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS534/source/./Regression Tree/forest.jpg -> /home/cheng/Desktop/CIS530/CIS534/release/./Regression Tree/forest.jpg
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS534/source/./Regression Tree/ion.mat -> /home/cheng/Desktop/CIS530/CIS534/release/./Regression Tree/ion.mat
+[NotebookApp | INFO] Updating/creating assignment 'Regression Tree': {}
+[NotebookApp | INFO] Converting notebook /home/cheng/Desktop/CIS530/CIS534/source/./Regression Tree/Regression_tree.ipynb
+[NotebookApp | ERROR] There was an error processing assignment: /home/cheng/Desktop/CIS530/CIS534/source/./Regression Tree
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbgrader/converters/base.py", line 293, in convert_notebooks
+        self.convert_single_notebook(notebook_filename)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbgrader/converters/base.py", line 249, in convert_single_notebook
+        output, resources = self.exporter.from_filename(notebook_filename, resources=resources)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 178, in from_filename
+        return self.from_file(f, resources=resources, **kw)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 196, in from_file
+        return self.from_notebook_node(nbformat.read(file_stream, as_version=4), resources=resources, **kw)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/notebook.py", line 32, in from_notebook_node
+        nb_copy, resources = super(NotebookExporter, self).from_notebook_node(nb, resources, **kw)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 138, in from_notebook_node
+        nb_copy, resources = self._preprocess(nb_copy, resources)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 315, in _preprocess
+        nbc, resc = preprocessor(nbc, resc)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/preprocessors/base.py", line 47, in __call__
+        return self.preprocess(nb, resources)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbgrader/preprocessors/clearsolutions.py", line 130, in preprocess
+        nb, resources = super(ClearSolutions, self).preprocess(nb, resources)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/preprocessors/base.py", line 69, in preprocess
+        nb.cells[index], resources = self.preprocess_cell(cell, resources, index)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbgrader/preprocessors/clearsolutions.py", line 149, in preprocess_cell
+        "Solution region detected in a non-solution cell; please make sure "
+    RuntimeError: Solution region detected in a non-solution cell; please make sure all solution regions are within solution cells.
+    
+[NotebookApp | WARNING] Removing failed assignment: /home/cheng/Desktop/CIS530/CIS534/release/Regression Tree
+[NotebookApp | ERROR] There was an error processing assignment 'Regression Tree' for student '.'
+[NotebookApp | ERROR] Please see the the above traceback for details on the specific errors on the above failures.
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS534/source/./Regression Tree/forest.jpg -> /home/cheng/Desktop/CIS530/CIS534/release/./Regression Tree/forest.jpg
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS534/source/./Regression Tree/ion.mat -> /home/cheng/Desktop/CIS530/CIS534/release/./Regression Tree/ion.mat
+[NotebookApp | INFO] Updating/creating assignment 'Regression Tree': {}
+[NotebookApp | INFO] Converting notebook /home/cheng/Desktop/CIS530/CIS534/source/./Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Writing 23046 bytes to /home/cheng/Desktop/CIS530/CIS534/release/./Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] Notebook release/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/release/Regression%20Tree/forest.jpg (127.0.0.1) 0.62ms
+[NotebookApp | INFO] Kernel started: ae41d6f5-8d6c-4317-b547-f4c89fafe859
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ae41d6f5-8d6c-4317-b547-f4c89fafe859
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 1.00ms referer=http://localhost:8888/notebooks/release/Regression%20Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Starting buffering for f425515c-70cb-4c9b-8ddf-a973e6cf6965:dbbfceaae3934ba3b91e3cf479482336
+[NotebookApp | INFO] Starting buffering for ae41d6f5-8d6c-4317-b547-f4c89fafe859:b042dcb83090456bb5ad4a8314048b5b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS534
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=f5d937068bfaa90f134330072d8d1489502c97a086ea6f56
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-4786-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=f5d937068bfaa90f134330072d8d1489502c97a086ea6f56
+[NotebookApp | INFO] Creating new notebook in /source/Cross Validation
+[NotebookApp | INFO] Kernel started: db909eda-914d-4603-9e10-33525d2ba5a2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel db909eda-914d-4603-9e10-33525d2ba5a2
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/source/Regression%20Tree/forest.jpg (127.0.0.1) 0.60ms
+[NotebookApp | INFO] Kernel started: 7320745c-677f-4395-afd6-3e2bf0b793d8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7320745c-677f-4395-afd6-3e2bf0b793d8
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 4.61ms referer=http://localhost:8889/notebooks/source/Regression%20Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Creating new notebook in /source/Data Science in the Wild
+[NotebookApp | INFO] Kernel started: 33a3be4d-58fc-486b-b0ac-29f98ce7a9e2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 33a3be4d-58fc-486b-b0ac-29f98ce7a9e2
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | WARNING] Notebook release/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/release/Regression%20Tree/forest.jpg (127.0.0.1) 0.63ms
+[NotebookApp | INFO] Kernel started: 225f9da7-42e3-4bdf-b44f-aa368db0a839
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 225f9da7-42e3-4bdf-b44f-aa368db0a839
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 1.39ms referer=http://localhost:8889/notebooks/release/Regression%20Tree/Regression_tree.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/source/Regression%20Tree/forest.jpg (127.0.0.1) 0.64ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7320745c-677f-4395-afd6-3e2bf0b793d8
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 1.29ms referer=http://localhost:8889/notebooks/source/Regression%20Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Regression Tree/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /source/Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Starting buffering for 33a3be4d-58fc-486b-b0ac-29f98ce7a9e2:a3efa1478e6843db81674191daf0deb2
+[NotebookApp | INFO] Starting buffering for db909eda-914d-4603-9e10-33525d2ba5a2:8fd51a809bf3497984f65c470e1845ee
+[NotebookApp | INFO] Starting buffering for 225f9da7-42e3-4bdf-b44f-aa368db0a839:dff8ce209bd546dc8c0b270b7b8bcf30
+[NotebookApp | INFO] Starting buffering for 7320745c-677f-4395-afd6-3e2bf0b793d8:dc60066361b24cfd8b7b5892b85cceaa
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS534
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=acc5b3797d08d1baadab601ae27829182fff053ea619666e
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-6247-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=acc5b3797d08d1baadab601ae27829182fff053ea619666e
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS534/source/./Cross Validation/.nbgrader.log -> /home/cheng/Desktop/CIS530/CIS534/release/./Cross Validation/.nbgrader.log
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS534/source/./Cross Validation/helper.py -> /home/cheng/Desktop/CIS530/CIS534/release/./Cross Validation/helper.py
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS534/source/./Cross Validation/forest.jpg -> /home/cheng/Desktop/CIS530/CIS534/release/./Cross Validation/forest.jpg
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS534/source/./Cross Validation/ion.mat -> /home/cheng/Desktop/CIS530/CIS534/release/./Cross Validation/ion.mat
+[NotebookApp | INFO] Updating/creating assignment 'Cross Validation': {}
+[NotebookApp | INFO] Converting notebook /home/cheng/Desktop/CIS530/CIS534/source/./Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Writing 13294 bytes to /home/cheng/Desktop/CIS530/CIS534/release/./Cross Validation/Cross Validation.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS534/source/./Data Science in the Wild/attribute.txt -> /home/cheng/Desktop/CIS530/CIS534/release/./Data Science in the Wild/attribute.txt
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS534/source/./Data Science in the Wild/heart_disease_train.csv -> /home/cheng/Desktop/CIS530/CIS534/release/./Data Science in the Wild/heart_disease_train.csv
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS534/source/./Data Science in the Wild/helper.py -> /home/cheng/Desktop/CIS530/CIS534/release/./Data Science in the Wild/helper.py
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS534/source/./Data Science in the Wild/heart_disease_test.csv -> /home/cheng/Desktop/CIS530/CIS534/release/./Data Science in the Wild/heart_disease_test.csv
+[NotebookApp | INFO] Updating/creating assignment 'Data Science in the Wild': {}
+[NotebookApp | INFO] Converting notebook /home/cheng/Desktop/CIS530/CIS534/source/./Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Writing 7599 bytes to /home/cheng/Desktop/CIS530/CIS534/release/./Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] Notebook release/Regression Tree/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/release/Regression%20Tree/forest.jpg (127.0.0.1) 0.62ms
+[NotebookApp | INFO] Kernel started: 76a9058c-9e9b-45ce-89c6-22c03bb4541b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 76a9058c-9e9b-45ce-89c6-22c03bb4541b
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 4.49ms referer=http://localhost:8889/notebooks/release/Regression%20Tree/Regression_tree.ipynb
+[NotebookApp | WARNING] Notebook release/Cross Validation/Cross Validation.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 034b3320-c576-4456-b0d0-25aacdf7be51
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 034b3320-c576-4456-b0d0-25aacdf7be51
+[NotebookApp | WARNING] Notebook release/Data Science in the Wild/Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 8a80128f-c41e-4d7a-9a63-f3b97cd6e045
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8a80128f-c41e-4d7a-9a63-f3b97cd6e045
+[NotebookApp | INFO] Starting buffering for 8a80128f-c41e-4d7a-9a63-f3b97cd6e045:d3c3a5d813244201a843e21c93d2cd3a
+[NotebookApp | INFO] Starting buffering for 034b3320-c576-4456-b0d0-25aacdf7be51:68d1c105ec234908907a4ac52a86b675
+[NotebookApp | INFO] Starting buffering for 76a9058c-9e9b-45ce-89c6-22c03bb4541b:3204a659710548058b3c488994ffabf8
+[NotebookApp | INFO] Kernel started: 711e1648-717e-49ed-bde5-f5ff9711b19a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 711e1648-717e-49ed-bde5-f5ff9711b19a
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS534/source/Data Science in the Wild/Data Science in the Wild.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /source/Data Science in the Wild/Data Science in the Wild.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS534/source/Data Science in the Wild/Data Science in the Wild.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for 711e1648-717e-49ed-bde5-f5ff9711b19a:f9f2776a29cf4f158df6d6d85750811b
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Shutting down 4 kernels
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Kernel shutdown: 76a9058c-9e9b-45ce-89c6-22c03bb4541b
+[NotebookApp | INFO] Kernel shutdown: 034b3320-c576-4456-b0d0-25aacdf7be51
+[NotebookApp | INFO] Kernel shutdown: 8a80128f-c41e-4d7a-9a63-f3b97cd6e045
+[NotebookApp | INFO] Kernel shutdown: 711e1648-717e-49ed-bde5-f5ff9711b19a
