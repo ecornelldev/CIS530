@@ -1,0 +1,37 @@
+{
+ "sections": [
+  {
+   "id": "0c300b20-a6ac-a5e1-d6d1-11d86effd1b4",
+   "title": "Using Jupyter Notebooks",
+   "files": [
+    {
+     "path": "Regression_tree.ipynb",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Using-Jupyter-Notebooks-0c30.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [
+  ".guides/load.js"
+ ],
+ "lexikonTopic": "",
+ "suppressPageNumbering": true,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": true,
+ "hideSectionsToggle": true,
+ "hideBackToDashboard": true,
+ "protectLayout": true
+}

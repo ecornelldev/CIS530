@@ -1,0 +1,89 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(antenna-factor or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Linear Regression.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 1e595ff1-e869-4375-8c31-3add8c7b1186
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1e595ff1-e869-4375-8c31-3add8c7b1186
+[NotebookApp | INFO] Starting buffering for 1e595ff1-e869-4375-8c31-3add8c7b1186:817716548ebb48af82d6d17290db5c38
+[NotebookApp | INFO] Kernel restarted: 1e595ff1-e869-4375-8c31-3add8c7b1186
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1e595ff1-e869-4375-8c31-3add8c7b1186
+[NotebookApp | INFO] Restoring connection for 1e595ff1-e869-4375-8c31-3add8c7b1186:817716548ebb48af82d6d17290db5c38
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Linear Regression.ipynb
+[NotebookApp | INFO] Starting buffering for 1e595ff1-e869-4375-8c31-3add8c7b1186:817716548ebb48af82d6d17290db5c38
+[NotebookApp | INFO] Kernel restarted: 1e595ff1-e869-4375-8c31-3add8c7b1186
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1e595ff1-e869-4375-8c31-3add8c7b1186
+[NotebookApp | INFO] Restoring connection for 1e595ff1-e869-4375-8c31-3add8c7b1186:817716548ebb48af82d6d17290db5c38
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Linear Regression.ipynb
+[NotebookApp | INFO] Starting buffering for 1e595ff1-e869-4375-8c31-3add8c7b1186:817716548ebb48af82d6d17290db5c38
+[NotebookApp | INFO] Kernel restarted: 1e595ff1-e869-4375-8c31-3add8c7b1186
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1e595ff1-e869-4375-8c31-3add8c7b1186
+[NotebookApp | INFO] Restoring connection for 1e595ff1-e869-4375-8c31-3add8c7b1186:817716548ebb48af82d6d17290db5c38
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Starting buffering for 1e595ff1-e869-4375-8c31-3add8c7b1186:817716548ebb48af82d6d17290db5c38
+[NotebookApp | INFO] Kernel restarted: 1e595ff1-e869-4375-8c31-3add8c7b1186
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1e595ff1-e869-4375-8c31-3add8c7b1186
+[NotebookApp | INFO] Restoring connection for 1e595ff1-e869-4375-8c31-3add8c7b1186:817716548ebb48af82d6d17290db5c38
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Linear Regression.ipynb
+[NotebookApp | INFO] Saving file at /Linear Regression.ipynb
+[NotebookApp | INFO] Starting buffering for 1e595ff1-e869-4375-8c31-3add8c7b1186:817716548ebb48af82d6d17290db5c38
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 1e595ff1-e869-4375-8c31-3add8c7b1186
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(antenna-factor or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(antenna-factor or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(antenna-factor or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(lithium-iris or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Linear Regression.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 1f8ec9bd-8624-4e8e-a91c-7a5dfacc0053
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1f8ec9bd-8624-4e8e-a91c-7a5dfacc0053
+[NotebookApp | INFO] Starting buffering for 1f8ec9bd-8624-4e8e-a91c-7a5dfacc0053:d0c5b5763efd45948a51ca839bf598d2
+[NotebookApp | WARNING] Notebook Linear Regression.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1f8ec9bd-8624-4e8e-a91c-7a5dfacc0053
+[NotebookApp | INFO] Starting buffering for 1f8ec9bd-8624-4e8e-a91c-7a5dfacc0053:61b3e3407d6948d58bb45c73da374acb
+[NotebookApp | WARNING] Notebook Linear Regression.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1f8ec9bd-8624-4e8e-a91c-7a5dfacc0053
+[NotebookApp | INFO] Starting buffering for 1f8ec9bd-8624-4e8e-a91c-7a5dfacc0053:e802c649b61847c69e166c44247af10d
+[NotebookApp | WARNING] Notebook Linear Regression.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1f8ec9bd-8624-4e8e-a91c-7a5dfacc0053
+[NotebookApp | INFO] Starting buffering for 1f8ec9bd-8624-4e8e-a91c-7a5dfacc0053:5d0e2b040ac74f14aec2872191286933
+[NotebookApp | WARNING] Notebook Linear Regression.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1f8ec9bd-8624-4e8e-a91c-7a5dfacc0053
+[NotebookApp | INFO] Starting buffering for 1f8ec9bd-8624-4e8e-a91c-7a5dfacc0053:1ded416f334f428e871f3be89d602254
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(segment-region or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels

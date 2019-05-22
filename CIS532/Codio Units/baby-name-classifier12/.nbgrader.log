@@ -1,0 +1,788 @@
+[NotebookApp | DEBUG] Looking for nbgrader_config in /home/codio/workspace
+[NotebookApp | DEBUG] Loaded config file: /home/codio/workspace/nbgrader_config.py
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(project-carpet or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | DEBUG] Using contents: services/contents
+[NotebookApp | DEBUG] Path base/images/favicon-notebook.ico served from /usr/local/lib/python3.4/dist-packages/notebook/static/base/images/favicon-notebook.ico
+[NotebookApp | DEBUG] Path components/jquery-ui/themes/smoothness/jquery-ui.min.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/jquery-ui/themes/smoothness/jquery-ui.min.css
+[NotebookApp | DEBUG] Path components/jquery-typeahead/dist/jquery.typeahead.min.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/jquery-typeahead/dist/jquery.typeahead.min.css
+[NotebookApp | DEBUG] Path components/bootstrap-tour/build/css/bootstrap-tour.min.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/bootstrap-tour/build/css/bootstrap-tour.min.css
+[NotebookApp | DEBUG] Path components/codemirror/lib/codemirror.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/codemirror/lib/codemirror.css
+[NotebookApp | DEBUG] Path style/style.min.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/style/style.min.css
+[NotebookApp | DEBUG] Path notebook/css/override.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/notebook/css/override.css
+[NotebookApp | DEBUG] Path components/es6-promise/promise.min.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/es6-promise/promise.min.js
+[NotebookApp | DEBUG] Path components/preact/index.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/preact/index.js
+[NotebookApp | DEBUG] Path components/proptypes/index.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/proptypes/index.js
+[NotebookApp | DEBUG] Path components/preact-compat/index.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/preact-compat/index.js
+[NotebookApp | DEBUG] Path components/requirejs/require.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/requirejs/require.js
+[NotebookApp | DEBUG] Path base/images/logo.png served from /usr/local/lib/python3.4/dist-packages/notebook/static/base/images/logo.png
+[NotebookApp | DEBUG] Path components/text-encoding/lib/encoding.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/text-encoding/lib/encoding.js
+[NotebookApp | DEBUG] Path notebook/js/main.min.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/notebook/js/main.min.js
+[NotebookApp | DEBUG] Path components/MathJax/MathJax.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/MathJax.js
+[NotebookApp | DEBUG] Path custom.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/custom/custom.css
+[NotebookApp | DEBUG] Path components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js
+[NotebookApp | DEBUG] Path components/MathJax/config/Safe.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/config/Safe.js
+[NotebookApp | DEBUG] Path services/contents.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/services/contents.js
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/local/etc/jupyter/nbconfig/notebook.d/widgetsnbextension.json
+    	/usr/local/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/home/codio/.jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Found kernel python3 in /usr/local/share/jupyter/kernels
+[NotebookApp | DEBUG] Path components/MathJax/extensions/MathML/content-mathml.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/extensions/MathML/content-mathml.js
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/local/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/home/codio/.jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js
+[NotebookApp | DEBUG] Path components/font-awesome/fonts/fontawesome-webfont.woff2 served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/font-awesome/fonts/fontawesome-webfont.woff2
+[NotebookApp | DEBUG] Path validate_assignment/main.js served from /usr/share/jupyter/nbextensions/validate_assignment/main.js
+[NotebookApp | DEBUG] Path jupyter-js-widgets/extension.js served from /usr/local/share/jupyter/nbextensions/jupyter-js-widgets/extension.js
+[NotebookApp | DEBUG] Path custom.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/custom/custom.js
+[NotebookApp | DEBUG] Path components/MathJax/extensions/Safe.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/extensions/Safe.js
+[NotebookApp | DEBUG] Path create_assignment/main.js served from /usr/share/jupyter/nbextensions/create_assignment/main.js
+[NotebookApp | DEBUG] Serving kernel resource from: /usr/local/share/jupyter/kernels/python3
+[NotebookApp | DEBUG] Starting kernel: ['/usr/bin/python3', '-m', 'ipykernel_launcher', '-f', '/home/codio/.local/share/jupyter/runtime/kernel-b42e35e7-8695-45a3-9b6e-1aee40d5d4bf.json']
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:40865
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:60587
+[NotebookApp | INFO] Kernel started: b42e35e7-8695-45a3-9b6e-1aee40d5d4bf
+[NotebookApp | DEBUG] Kernel args: {'cwd': '/home/codio/workspace', 'kernel_name': 'python3'}
+[NotebookApp | DEBUG] Path create_assignment/create_assignment.css served from /usr/share/jupyter/nbextensions/create_assignment/create_assignment.css
+[NotebookApp | DEBUG] Initializing websocket connection /api/kernels/b42e35e7-8695-45a3-9b6e-1aee40d5d4bf/channels
+[NotebookApp | DEBUG] Requesting kernel info from b42e35e7-8695-45a3-9b6e-1aee40d5d4bf
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:53779
+[NotebookApp | DEBUG] activity on b42e35e7-8695-45a3-9b6e-1aee40d5d4bf: status
+[NotebookApp | DEBUG] activity on b42e35e7-8695-45a3-9b6e-1aee40d5d4bf: status
+[NotebookApp | DEBUG] activity on b42e35e7-8695-45a3-9b6e-1aee40d5d4bf: status
+[NotebookApp | DEBUG] Received kernel info: {'banner': "Python 3.4.3 (default, Nov 12 2018, 22:25:49) \nType 'copyright', 'credits' or 'license' for more information\nIPython 6.4.0 -- An enhanced Interactive Python. Type '?' for help.\n", 'help_links': [{'text': 'Python Reference', 'url': 'https://docs.python.org/3.4'}, {'text': 'IPython Reference', 'url': 'https://ipython.org/documentation.html'}, {'text': 'NumPy Reference', 'url': 'https://docs.scipy.org/doc/numpy/reference/'}, {'text': 'SciPy Reference', 'url': 'https://docs.scipy.org/doc/scipy/reference/'}, {'text': 'Matplotlib Reference', 'url': 'https://matplotlib.org/contents.html'}, {'text': 'SymPy Reference', 'url': 'http://docs.sympy.org/latest/index.html'}, {'text': 'pandas Reference', 'url': 'https://pandas.pydata.org/pandas-docs/stable/'}], 'implementation_version': '6.4.0', 'protocol_version': '5.1', 'implementation': 'ipython', 'language_info': {'file_extension': '.py', 'name': 'python', 'nbconvert_exporter': 'python', 'pygments_lexer': 'ipython3', 'mimetype': 'text/x-python', 'codemirror_mode': {'name': 'ipython', 'version': 3}, 'version': '3.4.3'}, 'status': 'ok'}
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b42e35e7-8695-45a3-9b6e-1aee40d5d4bf
+[NotebookApp | DEBUG] Opening websocket /api/kernels/b42e35e7-8695-45a3-9b6e-1aee40d5d4bf/channels
+[NotebookApp | DEBUG] Getting buffer for b42e35e7-8695-45a3-9b6e-1aee40d5d4bf
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:53779
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:60587
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:54747
+[NotebookApp | DEBUG] activity on b42e35e7-8695-45a3-9b6e-1aee40d5d4bf: status
+[NotebookApp | DEBUG] activity on b42e35e7-8695-45a3-9b6e-1aee40d5d4bf: status
+[NotebookApp | DEBUG] activity on b42e35e7-8695-45a3-9b6e-1aee40d5d4bf: status
+[NotebookApp | DEBUG] activity on b42e35e7-8695-45a3-9b6e-1aee40d5d4bf: status
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Italic.woff served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Italic.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Regular.woff served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Regular.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Bold/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Bold/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Bold.woff served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Bold.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Variants/Regular/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Variants/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Variants-Regular.woff served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Variants-Regular.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size2/Regular/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size2/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size2-Regular.woff served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size2-Regular.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size1/Regular/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size1/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size1-Regular.woff served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size1-Regular.woff
+[NotebookApp | DEBUG] Websocket closed b42e35e7-8695-45a3-9b6e-1aee40d5d4bf:0e67a7c0238749b7950e0d82ff2b3c44
+[NotebookApp | INFO] Starting buffering for b42e35e7-8695-45a3-9b6e-1aee40d5d4bf:0e67a7c0238749b7950e0d82ff2b3c44
+[NotebookApp | DEBUG] Clearing buffer for b42e35e7-8695-45a3-9b6e-1aee40d5d4bf
+[NotebookApp | DEBUG] Looking for nbgrader_config in /home/codio/workspace
+[NotebookApp | DEBUG] Loaded config file: /home/codio/workspace/nbgrader_config.py
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(friend-rubber or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | DEBUG] Using contents: services/contents
+[NotebookApp | DEBUG] Path base/images/favicon-notebook.ico served from /usr/local/lib/python3.4/dist-packages/notebook/static/base/images/favicon-notebook.ico
+[NotebookApp | DEBUG] Path components/jquery-ui/themes/smoothness/jquery-ui.min.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/jquery-ui/themes/smoothness/jquery-ui.min.css
+[NotebookApp | DEBUG] Path components/jquery-typeahead/dist/jquery.typeahead.min.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/jquery-typeahead/dist/jquery.typeahead.min.css
+[NotebookApp | DEBUG] Path components/bootstrap-tour/build/css/bootstrap-tour.min.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/bootstrap-tour/build/css/bootstrap-tour.min.css
+[NotebookApp | DEBUG] Path components/codemirror/lib/codemirror.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/codemirror/lib/codemirror.css
+[NotebookApp | DEBUG] Path style/style.min.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/style/style.min.css
+[NotebookApp | DEBUG] Path notebook/css/override.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/notebook/css/override.css
+[NotebookApp | DEBUG] Path components/es6-promise/promise.min.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/es6-promise/promise.min.js
+[NotebookApp | DEBUG] Path components/preact/index.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/preact/index.js
+[NotebookApp | DEBUG] Path components/proptypes/index.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/proptypes/index.js
+[NotebookApp | DEBUG] Path components/preact-compat/index.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/preact-compat/index.js
+[NotebookApp | DEBUG] Path components/requirejs/require.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/requirejs/require.js
+[NotebookApp | DEBUG] Path base/images/logo.png served from /usr/local/lib/python3.4/dist-packages/notebook/static/base/images/logo.png
+[NotebookApp | DEBUG] Path components/text-encoding/lib/encoding.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/text-encoding/lib/encoding.js
+[NotebookApp | DEBUG] Path notebook/js/main.min.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/notebook/js/main.min.js
+[NotebookApp | DEBUG] Path components/MathJax/MathJax.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/MathJax.js
+[NotebookApp | DEBUG] Path custom.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/custom/custom.css
+[NotebookApp | DEBUG] Path components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js
+[NotebookApp | DEBUG] Path components/MathJax/config/Safe.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/config/Safe.js
+[NotebookApp | DEBUG] Path services/contents.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/services/contents.js
+[NotebookApp | DEBUG] Found kernel python3 in /usr/local/share/jupyter/kernels
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/local/etc/jupyter/nbconfig/notebook.d/widgetsnbextension.json
+    	/usr/local/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/home/codio/.jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Path components/font-awesome/fonts/fontawesome-webfont.woff2 served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/font-awesome/fonts/fontawesome-webfont.woff2
+[NotebookApp | WARNING] Notebook NB_with_competitionv2.ipynb is not trusted
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/local/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/home/codio/.jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Path custom.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/custom/custom.js
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js
+[NotebookApp | DEBUG] Path components/MathJax/extensions/MathML/content-mathml.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/extensions/MathML/content-mathml.js
+[NotebookApp | DEBUG] Path jupyter-js-widgets/extension.js served from /usr/local/share/jupyter/nbextensions/jupyter-js-widgets/extension.js
+[NotebookApp | DEBUG] Path components/MathJax/extensions/Safe.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/extensions/Safe.js
+[NotebookApp | DEBUG] Path validate_assignment/main.js served from /usr/share/jupyter/nbextensions/validate_assignment/main.js
+[NotebookApp | DEBUG] Path create_assignment/main.js served from /usr/share/jupyter/nbextensions/create_assignment/main.js
+[NotebookApp | DEBUG] Serving kernel resource from: /usr/local/share/jupyter/kernels/python3
+[NotebookApp | DEBUG] Starting kernel: ['/usr/bin/python3', '-m', 'ipykernel_launcher', '-f', '/home/codio/.local/share/jupyter/runtime/kernel-2f55b55e-a2ba-4d23-b2ea-47dc5fb78237.json']
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:34195
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:43341
+[NotebookApp | INFO] Kernel started: 2f55b55e-a2ba-4d23-b2ea-47dc5fb78237
+[NotebookApp | DEBUG] Kernel args: {'kernel_name': 'python3', 'cwd': '/home/codio/workspace'}
+[NotebookApp | DEBUG] activity on 2f55b55e-a2ba-4d23-b2ea-47dc5fb78237: status
+[NotebookApp | DEBUG] Using contents: services/contents
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/local/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/home/codio/.jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Found kernel python3 in /usr/local/share/jupyter/kernels
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/local/etc/jupyter/nbconfig/notebook.d/widgetsnbextension.json
+    	/usr/local/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/home/codio/.jupyter/nbconfig/notebook.json
+[NotebookApp | WARNING] Notebook NB_with_competitionv2.ipynb is not trusted
+[NotebookApp | DEBUG] Path create_assignment/create_assignment.css served from /usr/share/jupyter/nbextensions/create_assignment/create_assignment.css
+[NotebookApp | DEBUG] Serving kernel resource from: /usr/local/share/jupyter/kernels/python3
+[NotebookApp | DEBUG] Initializing websocket connection /api/kernels/2f55b55e-a2ba-4d23-b2ea-47dc5fb78237/channels
+[NotebookApp | DEBUG] Requesting kernel info from 2f55b55e-a2ba-4d23-b2ea-47dc5fb78237
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:40565
+[NotebookApp | DEBUG] activity on 2f55b55e-a2ba-4d23-b2ea-47dc5fb78237: status
+[NotebookApp | DEBUG] activity on 2f55b55e-a2ba-4d23-b2ea-47dc5fb78237: status
+[NotebookApp | DEBUG] Received kernel info: {'implementation_version': '6.4.0', 'status': 'ok', 'help_links': [{'text': 'Python Reference', 'url': 'https://docs.python.org/3.4'}, {'text': 'IPython Reference', 'url': 'https://ipython.org/documentation.html'}, {'text': 'NumPy Reference', 'url': 'https://docs.scipy.org/doc/numpy/reference/'}, {'text': 'SciPy Reference', 'url': 'https://docs.scipy.org/doc/scipy/reference/'}, {'text': 'Matplotlib Reference', 'url': 'https://matplotlib.org/contents.html'}, {'text': 'SymPy Reference', 'url': 'http://docs.sympy.org/latest/index.html'}, {'text': 'pandas Reference', 'url': 'https://pandas.pydata.org/pandas-docs/stable/'}], 'protocol_version': '5.1', 'implementation': 'ipython', 'language_info': {'pygments_lexer': 'ipython3', 'mimetype': 'text/x-python', 'name': 'python', 'file_extension': '.py', 'version': '3.4.3', 'codemirror_mode': {'version': 3, 'name': 'ipython'}, 'nbconvert_exporter': 'python'}, 'banner': "Python 3.4.3 (default, Nov 12 2018, 22:25:49) \nType 'copyright', 'credits' or 'license' for more information\nIPython 6.4.0 -- An enhanced Interactive Python. Type '?' for help.\n"}
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f55b55e-a2ba-4d23-b2ea-47dc5fb78237
+[NotebookApp | DEBUG] Opening websocket /api/kernels/2f55b55e-a2ba-4d23-b2ea-47dc5fb78237/channels
+[NotebookApp | DEBUG] Getting buffer for 2f55b55e-a2ba-4d23-b2ea-47dc5fb78237
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:40565
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:43341
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:40255
+[NotebookApp | DEBUG] activity on 2f55b55e-a2ba-4d23-b2ea-47dc5fb78237: status
+[NotebookApp | DEBUG] activity on 2f55b55e-a2ba-4d23-b2ea-47dc5fb78237: status
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Italic.woff served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Italic.woff
+[NotebookApp | DEBUG] activity on 2f55b55e-a2ba-4d23-b2ea-47dc5fb78237: status
+[NotebookApp | DEBUG] activity on 2f55b55e-a2ba-4d23-b2ea-47dc5fb78237: status
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Regular.woff served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Regular.woff
+[NotebookApp | DEBUG] Websocket closed 2f55b55e-a2ba-4d23-b2ea-47dc5fb78237:3351d90bb53c402b8473955163a139d1
+[NotebookApp | INFO] Starting buffering for 2f55b55e-a2ba-4d23-b2ea-47dc5fb78237:3351d90bb53c402b8473955163a139d1
+[NotebookApp | DEBUG] Clearing buffer for 2f55b55e-a2ba-4d23-b2ea-47dc5fb78237
+[NotebookApp | DEBUG] Looking for nbgrader_config in /home/codio/workspace
+[NotebookApp | DEBUG] Loaded config file: /home/codio/workspace/nbgrader_config.py
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(radar-legend or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | DEBUG] Using contents: services/contents
+[NotebookApp | DEBUG] Path base/images/favicon-notebook.ico served from /usr/local/lib/python3.4/dist-packages/notebook/static/base/images/favicon-notebook.ico
+[NotebookApp | DEBUG] Path components/jquery-ui/themes/smoothness/jquery-ui.min.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/jquery-ui/themes/smoothness/jquery-ui.min.css
+[NotebookApp | DEBUG] Path components/jquery-typeahead/dist/jquery.typeahead.min.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/jquery-typeahead/dist/jquery.typeahead.min.css
+[NotebookApp | DEBUG] Path components/bootstrap-tour/build/css/bootstrap-tour.min.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/bootstrap-tour/build/css/bootstrap-tour.min.css
+[NotebookApp | DEBUG] Path components/codemirror/lib/codemirror.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/codemirror/lib/codemirror.css
+[NotebookApp | DEBUG] Path style/style.min.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/style/style.min.css
+[NotebookApp | DEBUG] Path notebook/css/override.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/notebook/css/override.css
+[NotebookApp | DEBUG] Path components/es6-promise/promise.min.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/es6-promise/promise.min.js
+[NotebookApp | DEBUG] Path components/preact/index.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/preact/index.js
+[NotebookApp | DEBUG] Path components/proptypes/index.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/proptypes/index.js
+[NotebookApp | DEBUG] Path components/preact-compat/index.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/preact-compat/index.js
+[NotebookApp | DEBUG] Path components/requirejs/require.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/requirejs/require.js
+[NotebookApp | DEBUG] Path base/images/logo.png served from /usr/local/lib/python3.4/dist-packages/notebook/static/base/images/logo.png
+[NotebookApp | DEBUG] Path components/text-encoding/lib/encoding.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/text-encoding/lib/encoding.js
+[NotebookApp | DEBUG] Path notebook/js/main.min.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/notebook/js/main.min.js
+[NotebookApp | DEBUG] Path custom.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/custom/custom.css
+[NotebookApp | DEBUG] Path components/MathJax/MathJax.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/MathJax.js
+[NotebookApp | DEBUG] Path components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js
+[NotebookApp | DEBUG] Path components/MathJax/config/Safe.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/config/Safe.js
+[NotebookApp | DEBUG] Path services/contents.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/services/contents.js
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/local/etc/jupyter/nbconfig/notebook.d/widgetsnbextension.json
+    	/usr/local/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/home/codio/.jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Path components/MathJax/extensions/MathML/content-mathml.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/extensions/MathML/content-mathml.js
+[NotebookApp | DEBUG] Found kernel python3 in /usr/local/share/jupyter/kernels
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/local/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/home/codio/.jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Path custom.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/custom/custom.js
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js
+[NotebookApp | DEBUG] Path components/font-awesome/fonts/fontawesome-webfont.woff2 served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/font-awesome/fonts/fontawesome-webfont.woff2
+[NotebookApp | WARNING] Notebook NB_with_competitionv2.ipynb is not trusted
+[NotebookApp | DEBUG] Path validate_assignment/main.js served from /usr/share/jupyter/nbextensions/validate_assignment/main.js
+[NotebookApp | DEBUG] Path create_assignment/main.js served from /usr/share/jupyter/nbextensions/create_assignment/main.js
+[NotebookApp | DEBUG] Path jupyter-js-widgets/extension.js served from /usr/local/share/jupyter/nbextensions/jupyter-js-widgets/extension.js
+[NotebookApp | DEBUG] Path components/MathJax/extensions/Safe.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/extensions/Safe.js
+[NotebookApp | DEBUG] Starting kernel: ['/usr/bin/python3', '-m', 'ipykernel_launcher', '-f', '/home/codio/.local/share/jupyter/runtime/kernel-554367c5-9d8b-48c8-a860-ab75a9732c00.json']
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:59691
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:46929
+[NotebookApp | INFO] Kernel started: 554367c5-9d8b-48c8-a860-ab75a9732c00
+[NotebookApp | DEBUG] Kernel args: {'kernel_name': 'python3', 'cwd': '/home/codio/workspace'}
+[NotebookApp | DEBUG] Serving kernel resource from: /usr/local/share/jupyter/kernels/python3
+[NotebookApp | DEBUG] Path create_assignment/create_assignment.css served from /usr/share/jupyter/nbextensions/create_assignment/create_assignment.css
+[NotebookApp | DEBUG] activity on 554367c5-9d8b-48c8-a860-ab75a9732c00: status
+[NotebookApp | DEBUG] Initializing websocket connection /api/kernels/554367c5-9d8b-48c8-a860-ab75a9732c00/channels
+[NotebookApp | DEBUG] Requesting kernel info from 554367c5-9d8b-48c8-a860-ab75a9732c00
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:42385
+[NotebookApp | DEBUG] activity on 554367c5-9d8b-48c8-a860-ab75a9732c00: status
+[NotebookApp | DEBUG] activity on 554367c5-9d8b-48c8-a860-ab75a9732c00: status
+[NotebookApp | DEBUG] Received kernel info: {'status': 'ok', 'implementation_version': '6.4.0', 'language_info': {'mimetype': 'text/x-python', 'pygments_lexer': 'ipython3', 'version': '3.4.3', 'file_extension': '.py', 'codemirror_mode': {'version': 3, 'name': 'ipython'}, 'nbconvert_exporter': 'python', 'name': 'python'}, 'banner': "Python 3.4.3 (default, Nov 12 2018, 22:25:49) \nType 'copyright', 'credits' or 'license' for more information\nIPython 6.4.0 -- An enhanced Interactive Python. Type '?' for help.\n", 'implementation': 'ipython', 'help_links': [{'url': 'https://docs.python.org/3.4', 'text': 'Python Reference'}, {'url': 'https://ipython.org/documentation.html', 'text': 'IPython Reference'}, {'url': 'https://docs.scipy.org/doc/numpy/reference/', 'text': 'NumPy Reference'}, {'url': 'https://docs.scipy.org/doc/scipy/reference/', 'text': 'SciPy Reference'}, {'url': 'https://matplotlib.org/contents.html', 'text': 'Matplotlib Reference'}, {'url': 'http://docs.sympy.org/latest/index.html', 'text': 'SymPy Reference'}, {'url': 'https://pandas.pydata.org/pandas-docs/stable/', 'text': 'pandas Reference'}], 'protocol_version': '5.1'}
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 554367c5-9d8b-48c8-a860-ab75a9732c00
+[NotebookApp | DEBUG] Opening websocket /api/kernels/554367c5-9d8b-48c8-a860-ab75a9732c00/channels
+[NotebookApp | DEBUG] Getting buffer for 554367c5-9d8b-48c8-a860-ab75a9732c00
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:42385
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:46929
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:50929
+[NotebookApp | DEBUG] activity on 554367c5-9d8b-48c8-a860-ab75a9732c00: status
+[NotebookApp | DEBUG] activity on 554367c5-9d8b-48c8-a860-ab75a9732c00: status
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Italic.woff served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Italic.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js
+[NotebookApp | DEBUG] activity on 554367c5-9d8b-48c8-a860-ab75a9732c00: status
+[NotebookApp | DEBUG] activity on 554367c5-9d8b-48c8-a860-ab75a9732c00: status
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Regular.woff served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Regular.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Bold/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Bold/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Bold.woff served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Bold.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Variants/Regular/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Variants/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Variants-Regular.woff served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Variants-Regular.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size2/Regular/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size2/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size2-Regular.woff served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size2-Regular.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size1/Regular/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size1/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size1-Regular.woff served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size1-Regular.woff
+[NotebookApp | DEBUG] Websocket closed 554367c5-9d8b-48c8-a860-ab75a9732c00:20e23006929f44169f9e79a524102964
+[NotebookApp | INFO] Starting buffering for 554367c5-9d8b-48c8-a860-ab75a9732c00:20e23006929f44169f9e79a524102964
+[NotebookApp | DEBUG] Clearing buffer for 554367c5-9d8b-48c8-a860-ab75a9732c00
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 554367c5-9d8b-48c8-a860-ab75a9732c00
+[NotebookApp | DEBUG] Looking for nbgrader_config in /home/codio/workspace
+[NotebookApp | DEBUG] Loaded config file: /home/codio/workspace/nbgrader_config.py
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(radar-legend or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | DEBUG] Using contents: services/contents
+[NotebookApp | DEBUG] Path base/images/favicon-notebook.ico served from /usr/local/lib/python3.4/dist-packages/notebook/static/base/images/favicon-notebook.ico
+[NotebookApp | DEBUG] Path components/jquery-ui/themes/smoothness/jquery-ui.min.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/jquery-ui/themes/smoothness/jquery-ui.min.css
+[NotebookApp | DEBUG] Path components/jquery-typeahead/dist/jquery.typeahead.min.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/jquery-typeahead/dist/jquery.typeahead.min.css
+[NotebookApp | DEBUG] Path components/bootstrap-tour/build/css/bootstrap-tour.min.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/bootstrap-tour/build/css/bootstrap-tour.min.css
+[NotebookApp | DEBUG] Path components/codemirror/lib/codemirror.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/codemirror/lib/codemirror.css
+[NotebookApp | DEBUG] Path style/style.min.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/style/style.min.css
+[NotebookApp | DEBUG] Path notebook/css/override.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/notebook/css/override.css
+[NotebookApp | DEBUG] Path components/es6-promise/promise.min.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/es6-promise/promise.min.js
+[NotebookApp | DEBUG] Path components/preact/index.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/preact/index.js
+[NotebookApp | DEBUG] Path components/proptypes/index.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/proptypes/index.js
+[NotebookApp | DEBUG] Path components/preact-compat/index.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/preact-compat/index.js
+[NotebookApp | DEBUG] Path components/requirejs/require.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/requirejs/require.js
+[NotebookApp | DEBUG] Path base/images/logo.png served from /usr/local/lib/python3.4/dist-packages/notebook/static/base/images/logo.png
+[NotebookApp | DEBUG] Path components/text-encoding/lib/encoding.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/text-encoding/lib/encoding.js
+[NotebookApp | DEBUG] Path notebook/js/main.min.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/notebook/js/main.min.js
+[NotebookApp | DEBUG] Using contents: services/contents
+[NotebookApp | DEBUG] Path components/MathJax/MathJax.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/MathJax.js
+[NotebookApp | DEBUG] Path custom.css served from /usr/local/lib/python3.4/dist-packages/notebook/static/custom/custom.css
+[NotebookApp | DEBUG] Path components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js
+[NotebookApp | DEBUG] Path components/MathJax/config/Safe.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/config/Safe.js
+[NotebookApp | DEBUG] Path services/contents.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/services/contents.js
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/local/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/home/codio/.jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Path components/MathJax/extensions/MathML/content-mathml.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/extensions/MathML/content-mathml.js
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/local/etc/jupyter/nbconfig/notebook.d/widgetsnbextension.json
+    	/usr/local/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/home/codio/.jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Found kernel python3 in /usr/local/share/jupyter/kernels
+[NotebookApp | DEBUG] Path custom.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/custom/custom.js
+[NotebookApp | DEBUG] Path jupyter-js-widgets/extension.js served from /usr/local/share/jupyter/nbextensions/jupyter-js-widgets/extension.js
+[NotebookApp | DEBUG] Path create_assignment/main.js served from /usr/share/jupyter/nbextensions/create_assignment/main.js
+[NotebookApp | DEBUG] Path components/font-awesome/fonts/fontawesome-webfont.woff2 served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/font-awesome/fonts/fontawesome-webfont.woff2
+[NotebookApp | DEBUG] Path validate_assignment/main.js served from /usr/share/jupyter/nbextensions/validate_assignment/main.js
+[NotebookApp | DEBUG] Path create_assignment/create_assignment.css served from /usr/share/jupyter/nbextensions/create_assignment/create_assignment.css
+[NotebookApp | WARNING] Notebook NB_with_competitionv2.ipynb is not trusted
+[NotebookApp | DEBUG] Path components/MathJax/extensions/Safe.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/extensions/Safe.js
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js
+[NotebookApp | DEBUG] Starting kernel: ['/usr/bin/python3', '-m', 'ipykernel_launcher', '-f', '/home/codio/.local/share/jupyter/runtime/kernel-ddfdfe02-39a8-44c1-8d95-a7eac462a964.json']
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:58191
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:48157
+[NotebookApp | INFO] Kernel started: ddfdfe02-39a8-44c1-8d95-a7eac462a964
+[NotebookApp | DEBUG] Kernel args: {'cwd': '/home/codio/workspace', 'kernel_name': 'python3'}
+[NotebookApp | DEBUG] Serving kernel resource from: /usr/local/share/jupyter/kernels/python3
+[NotebookApp | DEBUG] Initializing websocket connection /api/kernels/ddfdfe02-39a8-44c1-8d95-a7eac462a964/channels
+[NotebookApp | DEBUG] Requesting kernel info from ddfdfe02-39a8-44c1-8d95-a7eac462a964
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:47189
+[NotebookApp | DEBUG] activity on ddfdfe02-39a8-44c1-8d95-a7eac462a964: status
+[NotebookApp | DEBUG] activity on ddfdfe02-39a8-44c1-8d95-a7eac462a964: status
+[NotebookApp | DEBUG] activity on ddfdfe02-39a8-44c1-8d95-a7eac462a964: status
+[NotebookApp | DEBUG] Received kernel info: {'help_links': [{'text': 'Python Reference', 'url': 'https://docs.python.org/3.4'}, {'text': 'IPython Reference', 'url': 'https://ipython.org/documentation.html'}, {'text': 'NumPy Reference', 'url': 'https://docs.scipy.org/doc/numpy/reference/'}, {'text': 'SciPy Reference', 'url': 'https://docs.scipy.org/doc/scipy/reference/'}, {'text': 'Matplotlib Reference', 'url': 'https://matplotlib.org/contents.html'}, {'text': 'SymPy Reference', 'url': 'http://docs.sympy.org/latest/index.html'}, {'text': 'pandas Reference', 'url': 'https://pandas.pydata.org/pandas-docs/stable/'}], 'language_info': {'pygments_lexer': 'ipython3', 'file_extension': '.py', 'codemirror_mode': {'version': 3, 'name': 'ipython'}, 'nbconvert_exporter': 'python', 'version': '3.4.3', 'mimetype': 'text/x-python', 'name': 'python'}, 'banner': "Python 3.4.3 (default, Nov 12 2018, 22:25:49) \nType 'copyright', 'credits' or 'license' for more information\nIPython 6.4.0 -- An enhanced Interactive Python. Type '?' for help.\n", 'implementation': 'ipython', 'implementation_version': '6.4.0', 'protocol_version': '5.1', 'status': 'ok'}
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ddfdfe02-39a8-44c1-8d95-a7eac462a964
+[NotebookApp | DEBUG] Opening websocket /api/kernels/ddfdfe02-39a8-44c1-8d95-a7eac462a964/channels
+[NotebookApp | DEBUG] Getting buffer for ddfdfe02-39a8-44c1-8d95-a7eac462a964
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:47189
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:48157
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:43163
+[NotebookApp | DEBUG] activity on ddfdfe02-39a8-44c1-8d95-a7eac462a964: status
+[NotebookApp | DEBUG] activity on ddfdfe02-39a8-44c1-8d95-a7eac462a964: status
+[NotebookApp | DEBUG] activity on ddfdfe02-39a8-44c1-8d95-a7eac462a964: status
+[NotebookApp | DEBUG] activity on ddfdfe02-39a8-44c1-8d95-a7eac462a964: status
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Bold/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Bold/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Variants/Regular/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Variants/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size1/Regular/Main.js served from /usr/local/lib/python3.4/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size1/Regular/Main.js
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: ddfdfe02-39a8-44c1-8d95-a7eac462a964
+[NotebookApp | DEBUG] Looking for nbgrader_config in /home/codio/workspace
+[NotebookApp | DEBUG] Loaded config file: /home/codio/workspace/nbgrader_config.py
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(radar-legend or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | DEBUG] Initializing websocket connection /api/kernels/ddfdfe02-39a8-44c1-8d95-a7eac462a964/channels
+[NotebookApp | WARNING] 404 GET /api/kernels/ddfdfe02-39a8-44c1-8d95-a7eac462a964/channels?session_id=3bc96b0b97264a6783d66ed9e51db39c (192.168.10.205): Kernel does not exist: ddfdfe02-39a8-44c1-8d95-a7eac462a964
+[NotebookApp | DEBUG] Using contents: services/contents
+[NotebookApp | DEBUG] Path base/images/favicon.ico served from /usr/local/lib/python3.6/dist-packages/notebook/static/base/images/favicon.ico
+[NotebookApp | DEBUG] Path components/jquery-ui/themes/smoothness/jquery-ui.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/jquery-ui/themes/smoothness/jquery-ui.min.css
+[NotebookApp | DEBUG] Path components/jquery-typeahead/dist/jquery.typeahead.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/jquery-typeahead/dist/jquery.typeahead.min.css
+[NotebookApp | DEBUG] Path style/style.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/style/style.min.css
+[NotebookApp | DEBUG] Path components/es6-promise/promise.min.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/es6-promise/promise.min.js
+[NotebookApp | DEBUG] Path components/preact/index.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/preact/index.js
+[NotebookApp | DEBUG] Path components/proptypes/index.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/proptypes/index.js
+[NotebookApp | DEBUG] Path components/preact-compat/index.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/preact-compat/index.js
+[NotebookApp | DEBUG] Path components/requirejs/require.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/requirejs/require.js
+[NotebookApp | DEBUG] Path base/images/logo.png served from /usr/local/lib/python3.6/dist-packages/notebook/static/base/images/logo.png
+[NotebookApp | WARNING] 404 GET /api/kernels/ddfdfe02-39a8-44c1-8d95-a7eac462a964/channels?session_id=3bc96b0b97264a6783d66ed9e51db39c (192.168.10.205) 98.39ms referer=None
+[NotebookApp | DEBUG] Initializing websocket connection /api/kernels/ddfdfe02-39a8-44c1-8d95-a7eac462a964/channels
+[NotebookApp | WARNING] Replacing stale connection: ddfdfe02-39a8-44c1-8d95-a7eac462a964:3bc96b0b97264a6783d66ed9e51db39c
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | DEBUG] Looking for nbgrader_config in /home/codio/workspace
+[NotebookApp | DEBUG] Loaded config file: /home/codio/workspace/nbgrader_config.py
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(radar-legend or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | DEBUG] Looking for nbgrader_config in /home/codio/workspace
+[NotebookApp | DEBUG] Loaded config file: /home/codio/workspace/nbgrader_config.py
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(radar-legend or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | DEBUG] Using contents: services/contents
+[NotebookApp | DEBUG] Path base/images/favicon-notebook.ico served from /usr/local/lib/python3.6/dist-packages/notebook/static/base/images/favicon-notebook.ico
+[NotebookApp | DEBUG] Path components/jquery-ui/themes/smoothness/jquery-ui.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/jquery-ui/themes/smoothness/jquery-ui.min.css
+[NotebookApp | DEBUG] Path components/jquery-typeahead/dist/jquery.typeahead.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/jquery-typeahead/dist/jquery.typeahead.min.css
+[NotebookApp | DEBUG] Path components/bootstrap-tour/build/css/bootstrap-tour.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/bootstrap-tour/build/css/bootstrap-tour.min.css
+[NotebookApp | DEBUG] Path components/codemirror/lib/codemirror.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/codemirror/lib/codemirror.css
+[NotebookApp | DEBUG] Path style/style.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/style/style.min.css
+[NotebookApp | DEBUG] Path notebook/css/override.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/notebook/css/override.css
+[NotebookApp | DEBUG] Path components/es6-promise/promise.min.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/es6-promise/promise.min.js
+[NotebookApp | DEBUG] Path components/preact/index.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/preact/index.js
+[NotebookApp | DEBUG] Path components/proptypes/index.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/proptypes/index.js
+[NotebookApp | DEBUG] Path components/preact-compat/index.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/preact-compat/index.js
+[NotebookApp | DEBUG] Path components/requirejs/require.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/requirejs/require.js
+[NotebookApp | DEBUG] Path base/images/logo.png served from /usr/local/lib/python3.6/dist-packages/notebook/static/base/images/logo.png
+[NotebookApp | DEBUG] Path components/text-encoding/lib/encoding.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/text-encoding/lib/encoding.js
+[NotebookApp | DEBUG] Path notebook/js/main.min.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/notebook/js/main.min.js
+[NotebookApp | DEBUG] Path components/MathJax/MathJax.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/MathJax.js
+[NotebookApp | DEBUG] Path custom.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/custom/custom.css
+[NotebookApp | DEBUG] Path components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js
+[NotebookApp | DEBUG] Path components/MathJax/config/Safe.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/config/Safe.js
+[NotebookApp | DEBUG] Path services/contents.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/services/contents.js
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/local/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/home/codio/.jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Path components/MathJax/extensions/MathML/content-mathml.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/extensions/MathML/content-mathml.js
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/local/etc/jupyter/nbconfig/notebook.d/widgetsnbextension.json
+    	/usr/local/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/home/codio/.jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Found kernel python3 in /usr/local/share/jupyter/kernels
+[NotebookApp | WARNING] Notebook NB_with_competitionv2.ipynb is not trusted
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js
+[NotebookApp | DEBUG] Path jupyter-js-widgets/extension.js served from /usr/local/share/jupyter/nbextensions/jupyter-js-widgets/extension.js
+[NotebookApp | DEBUG] Path create_assignment/main.js served from /usr/share/jupyter/nbextensions/create_assignment/main.js
+[NotebookApp | DEBUG] Path custom.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/custom/custom.js
+[NotebookApp | DEBUG] Path validate_assignment/main.js served from /usr/share/jupyter/nbextensions/validate_assignment/main.js
+[NotebookApp | DEBUG] Path components/MathJax/extensions/Safe.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/extensions/Safe.js
+[NotebookApp | DEBUG] Starting kernel: ['/usr/bin/python3', '-m', 'ipykernel_launcher', '-f', '/home/codio/.local/share/jupyter/runtime/kernel-d021a133-51ac-4674-b077-c77d62b5dfdf.json']
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:45493
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:41177
+[NotebookApp | INFO] Kernel started: d021a133-51ac-4674-b077-c77d62b5dfdf
+[NotebookApp | DEBUG] Kernel args: {'kernel_name': 'python3', 'cwd': '/home/codio/workspace'}
+[NotebookApp | DEBUG] Path create_assignment/create_assignment.css served from /usr/share/jupyter/nbextensions/create_assignment/create_assignment.css
+[NotebookApp | DEBUG] activity on d021a133-51ac-4674-b077-c77d62b5dfdf: status
+[NotebookApp | DEBUG] Initializing websocket connection /api/kernels/d021a133-51ac-4674-b077-c77d62b5dfdf/channels
+[NotebookApp | DEBUG] Requesting kernel info from d021a133-51ac-4674-b077-c77d62b5dfdf
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:50583
+[NotebookApp | DEBUG] activity on d021a133-51ac-4674-b077-c77d62b5dfdf: status
+[NotebookApp | DEBUG] activity on d021a133-51ac-4674-b077-c77d62b5dfdf: status
+[NotebookApp | DEBUG] Received kernel info: {'status': 'ok', 'protocol_version': '5.1', 'implementation': 'ipython', 'implementation_version': '6.2.1', 'language_info': {'name': 'python', 'version': '3.6.7', 'mimetype': 'text/x-python', 'codemirror_mode': {'name': 'ipython', 'version': 3}, 'pygments_lexer': 'ipython3', 'nbconvert_exporter': 'python', 'file_extension': '.py'}, 'banner': "Python 3.6.7 (default, Oct 22 2018, 11:32:17) \nType 'copyright', 'credits' or 'license' for more information\nIPython 6.2.1 -- An enhanced Interactive Python. Type '?' for help.\n", 'help_links': [{'text': 'Python Reference', 'url': 'https://docs.python.org/3.6'}, {'text': 'IPython Reference', 'url': 'https://ipython.org/documentation.html'}, {'text': 'NumPy Reference', 'url': 'https://docs.scipy.org/doc/numpy/reference/'}, {'text': 'SciPy Reference', 'url': 'https://docs.scipy.org/doc/scipy/reference/'}, {'text': 'Matplotlib Reference', 'url': 'https://matplotlib.org/contents.html'}, {'text': 'SymPy Reference', 'url': 'http://docs.sympy.org/latest/index.html'}, {'text': 'pandas Reference', 'url': 'https://pandas.pydata.org/pandas-docs/stable/'}]}
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d021a133-51ac-4674-b077-c77d62b5dfdf
+[NotebookApp | DEBUG] Opening websocket /api/kernels/d021a133-51ac-4674-b077-c77d62b5dfdf/channels
+[NotebookApp | DEBUG] Getting buffer for d021a133-51ac-4674-b077-c77d62b5dfdf
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:50583
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:41177
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:55409
+[NotebookApp | DEBUG] activity on d021a133-51ac-4674-b077-c77d62b5dfdf: status
+[NotebookApp | DEBUG] activity on d021a133-51ac-4674-b077-c77d62b5dfdf: status
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Normal/Italic/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Normal/Italic/Main.js
+[NotebookApp | DEBUG] activity on d021a133-51ac-4674-b077-c77d62b5dfdf: status
+[NotebookApp | DEBUG] activity on d021a133-51ac-4674-b077-c77d62b5dfdf: status
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Normal-Italic.woff served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Normal-Italic.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Regular.woff served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Regular.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Bold/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Bold/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Normal/Bold/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Normal/Bold/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Normal-Bold.woff served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Normal-Bold.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Variants/Regular/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Variants/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Variants-Regular.woff served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Variants-Regular.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size2/Regular/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size2/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size2-Regular.woff served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size2-Regular.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size1/Regular/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size1/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size1-Regular.woff served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size1-Regular.woff
+[NotebookApp | INFO] Saving file at /NB_with_competitionv2.ipynb
+[NotebookApp | DEBUG] Saving /home/codio/workspace/NB_with_competitionv2.ipynb
+[NotebookApp | INFO] Saving file at /NB_with_competitionv2.ipynb
+[NotebookApp | DEBUG] Saving /home/codio/workspace/NB_with_competitionv2.ipynb
+[NotebookApp | DEBUG] Websocket closed d021a133-51ac-4674-b077-c77d62b5dfdf:dacab24a533c4f6a8f9d97fc4858751e
+[NotebookApp | INFO] Starting buffering for d021a133-51ac-4674-b077-c77d62b5dfdf:dacab24a533c4f6a8f9d97fc4858751e
+[NotebookApp | DEBUG] Clearing buffer for d021a133-51ac-4674-b077-c77d62b5dfdf
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: d021a133-51ac-4674-b077-c77d62b5dfdf
+[NotebookApp | DEBUG] Looking for nbgrader_config in /home/codio/workspace
+[NotebookApp | DEBUG] Loaded config file: /home/codio/workspace/nbgrader_config.py
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(radar-legend or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | DEBUG] Using contents: services/contents
+[NotebookApp | DEBUG] Path base/images/favicon-notebook.ico served from /usr/local/lib/python3.6/dist-packages/notebook/static/base/images/favicon-notebook.ico
+[NotebookApp | DEBUG] Path components/jquery-ui/themes/smoothness/jquery-ui.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/jquery-ui/themes/smoothness/jquery-ui.min.css
+[NotebookApp | DEBUG] Path components/jquery-typeahead/dist/jquery.typeahead.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/jquery-typeahead/dist/jquery.typeahead.min.css
+[NotebookApp | DEBUG] Path components/bootstrap-tour/build/css/bootstrap-tour.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/bootstrap-tour/build/css/bootstrap-tour.min.css
+[NotebookApp | DEBUG] Path components/codemirror/lib/codemirror.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/codemirror/lib/codemirror.css
+[NotebookApp | DEBUG] Path style/style.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/style/style.min.css
+[NotebookApp | DEBUG] Path notebook/css/override.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/notebook/css/override.css
+[NotebookApp | DEBUG] Path components/es6-promise/promise.min.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/es6-promise/promise.min.js
+[NotebookApp | DEBUG] Path components/preact/index.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/preact/index.js
+[NotebookApp | DEBUG] Path components/proptypes/index.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/proptypes/index.js
+[NotebookApp | DEBUG] Path components/preact-compat/index.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/preact-compat/index.js
+[NotebookApp | DEBUG] Path components/requirejs/require.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/requirejs/require.js
+[NotebookApp | DEBUG] Path base/images/logo.png served from /usr/local/lib/python3.6/dist-packages/notebook/static/base/images/logo.png
+[NotebookApp | DEBUG] Path components/text-encoding/lib/encoding.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/text-encoding/lib/encoding.js
+[NotebookApp | DEBUG] Path notebook/js/main.min.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/notebook/js/main.min.js
+[NotebookApp | DEBUG] Path custom.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/custom/custom.css
+[NotebookApp | DEBUG] Path components/MathJax/MathJax.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/MathJax.js
+[NotebookApp | DEBUG] Path components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js
+[NotebookApp | DEBUG] Path components/MathJax/config/Safe.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/config/Safe.js
+[NotebookApp | DEBUG] Path services/contents.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/services/contents.js
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/local/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/home/codio/.jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/local/etc/jupyter/nbconfig/notebook.d/widgetsnbextension.json
+    	/usr/local/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/home/codio/.jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Path components/MathJax/extensions/MathML/content-mathml.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/extensions/MathML/content-mathml.js
+[NotebookApp | DEBUG] Found kernel python3 in /usr/local/share/jupyter/kernels
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js
+[NotebookApp | DEBUG] Path custom.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/custom/custom.js
+[NotebookApp | DEBUG] Path create_assignment/main.js served from /usr/share/jupyter/nbextensions/create_assignment/main.js
+[NotebookApp | DEBUG] Path components/font-awesome/fonts/fontawesome-webfont.woff2 served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/font-awesome/fonts/fontawesome-webfont.woff2
+[NotebookApp | DEBUG] Path jupyter-js-widgets/extension.js served from /usr/local/share/jupyter/nbextensions/jupyter-js-widgets/extension.js
+[NotebookApp | DEBUG] Path validate_assignment/main.js served from /usr/share/jupyter/nbextensions/validate_assignment/main.js
+[NotebookApp | DEBUG] Path components/MathJax/extensions/Safe.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/extensions/Safe.js
+[NotebookApp | DEBUG] Starting kernel: ['/usr/bin/python3', '-m', 'ipykernel_launcher', '-f', '/home/codio/.local/share/jupyter/runtime/kernel-fb8c6b43-f32b-4a3e-a286-9d7763dc01da.json']
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:41867
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:47283
+[NotebookApp | INFO] Kernel started: fb8c6b43-f32b-4a3e-a286-9d7763dc01da
+[NotebookApp | DEBUG] Kernel args: {'kernel_name': 'python3', 'cwd': '/home/codio/workspace'}
+[NotebookApp | DEBUG] Serving kernel resource from: /usr/local/share/jupyter/kernels/python3
+[NotebookApp | DEBUG] Path create_assignment/create_assignment.css served from /usr/share/jupyter/nbextensions/create_assignment/create_assignment.css
+[NotebookApp | DEBUG] activity on fb8c6b43-f32b-4a3e-a286-9d7763dc01da: status
+[NotebookApp | DEBUG] Initializing websocket connection /api/kernels/fb8c6b43-f32b-4a3e-a286-9d7763dc01da/channels
+[NotebookApp | DEBUG] Requesting kernel info from fb8c6b43-f32b-4a3e-a286-9d7763dc01da
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:44655
+[NotebookApp | DEBUG] activity on fb8c6b43-f32b-4a3e-a286-9d7763dc01da: status
+[NotebookApp | DEBUG] Received kernel info: {'status': 'ok', 'protocol_version': '5.1', 'implementation': 'ipython', 'implementation_version': '6.2.1', 'language_info': {'name': 'python', 'version': '3.6.7', 'mimetype': 'text/x-python', 'codemirror_mode': {'name': 'ipython', 'version': 3}, 'pygments_lexer': 'ipython3', 'nbconvert_exporter': 'python', 'file_extension': '.py'}, 'banner': "Python 3.6.7 (default, Oct 22 2018, 11:32:17) \nType 'copyright', 'credits' or 'license' for more information\nIPython 6.2.1 -- An enhanced Interactive Python. Type '?' for help.\n", 'help_links': [{'text': 'Python Reference', 'url': 'https://docs.python.org/3.6'}, {'text': 'IPython Reference', 'url': 'https://ipython.org/documentation.html'}, {'text': 'NumPy Reference', 'url': 'https://docs.scipy.org/doc/numpy/reference/'}, {'text': 'SciPy Reference', 'url': 'https://docs.scipy.org/doc/scipy/reference/'}, {'text': 'Matplotlib Reference', 'url': 'https://matplotlib.org/contents.html'}, {'text': 'SymPy Reference', 'url': 'http://docs.sympy.org/latest/index.html'}, {'text': 'pandas Reference', 'url': 'https://pandas.pydata.org/pandas-docs/stable/'}]}
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fb8c6b43-f32b-4a3e-a286-9d7763dc01da
+[NotebookApp | DEBUG] activity on fb8c6b43-f32b-4a3e-a286-9d7763dc01da: status
+[NotebookApp | DEBUG] Opening websocket /api/kernels/fb8c6b43-f32b-4a3e-a286-9d7763dc01da/channels
+[NotebookApp | DEBUG] Getting buffer for fb8c6b43-f32b-4a3e-a286-9d7763dc01da
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:44655
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:47283
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:48413
+[NotebookApp | DEBUG] activity on fb8c6b43-f32b-4a3e-a286-9d7763dc01da: status
+[NotebookApp | DEBUG] activity on fb8c6b43-f32b-4a3e-a286-9d7763dc01da: status
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js
+[NotebookApp | DEBUG] activity on fb8c6b43-f32b-4a3e-a286-9d7763dc01da: status
+[NotebookApp | DEBUG] activity on fb8c6b43-f32b-4a3e-a286-9d7763dc01da: status
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Normal/Italic/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Normal/Italic/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Normal-Italic.woff served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Normal-Italic.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Regular.woff served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Regular.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Bold/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Bold/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Normal/Bold/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Normal/Bold/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Normal-Bold.woff served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Normal-Bold.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Variants/Regular/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Variants/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Variants-Regular.woff served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Variants-Regular.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size2/Regular/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size2/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size2-Regular.woff served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size2-Regular.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size1/Regular/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Size1/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size1-Regular.woff served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Size1-Regular.woff
+[NotebookApp | DEBUG] Websocket closed fb8c6b43-f32b-4a3e-a286-9d7763dc01da:2c23e28f000d4517845810c8476ea6c5
+[NotebookApp | INFO] Starting buffering for fb8c6b43-f32b-4a3e-a286-9d7763dc01da:2c23e28f000d4517845810c8476ea6c5
+[NotebookApp | DEBUG] Clearing buffer for fb8c6b43-f32b-4a3e-a286-9d7763dc01da
+[NotebookApp | DEBUG] Using contents: services/contents
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/local/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/home/codio/.jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/local/etc/jupyter/nbconfig/notebook.d/widgetsnbextension.json
+    	/usr/local/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/home/codio/.jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Found kernel python3 in /usr/local/share/jupyter/kernels
+[NotebookApp | DEBUG] Initializing websocket connection /api/kernels/fb8c6b43-f32b-4a3e-a286-9d7763dc01da/channels
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fb8c6b43-f32b-4a3e-a286-9d7763dc01da
+[NotebookApp | DEBUG] Opening websocket /api/kernels/fb8c6b43-f32b-4a3e-a286-9d7763dc01da/channels
+[NotebookApp | DEBUG] Getting buffer for fb8c6b43-f32b-4a3e-a286-9d7763dc01da
+[NotebookApp | DEBUG] Clearing buffer for fb8c6b43-f32b-4a3e-a286-9d7763dc01da
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:44655
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:47283
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:48413
+[NotebookApp | DEBUG] activity on fb8c6b43-f32b-4a3e-a286-9d7763dc01da: status
+[NotebookApp | DEBUG] activity on fb8c6b43-f32b-4a3e-a286-9d7763dc01da: status
+[NotebookApp | DEBUG] activity on fb8c6b43-f32b-4a3e-a286-9d7763dc01da: status
+[NotebookApp | DEBUG] activity on fb8c6b43-f32b-4a3e-a286-9d7763dc01da: status
+[NotebookApp | DEBUG] Websocket closed fb8c6b43-f32b-4a3e-a286-9d7763dc01da:2541a26717c94dd980cc14fc8ab2a42a
+[NotebookApp | INFO] Starting buffering for fb8c6b43-f32b-4a3e-a286-9d7763dc01da:2541a26717c94dd980cc14fc8ab2a42a
+[NotebookApp | DEBUG] Clearing buffer for fb8c6b43-f32b-4a3e-a286-9d7763dc01da
+[NotebookApp | DEBUG] Using contents: services/contents
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/local/etc/jupyter/nbconfig/notebook.d/widgetsnbextension.json
+    	/usr/local/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/home/codio/.jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/local/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/home/codio/.jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Found kernel python3 in /usr/local/share/jupyter/kernels
+[NotebookApp | WARNING] Notebook Baby_Name_Classifier.ipynb is not trusted
+[NotebookApp | DEBUG] Starting kernel: ['/usr/bin/python3', '-m', 'ipykernel_launcher', '-f', '/home/codio/.local/share/jupyter/runtime/kernel-aaf3ccb2-c48b-4e49-8f76-38bff266dbe7.json']
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:58363
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:57277
+[NotebookApp | INFO] Kernel started: aaf3ccb2-c48b-4e49-8f76-38bff266dbe7
+[NotebookApp | DEBUG] Kernel args: {'kernel_name': 'python3', 'cwd': '/home/codio/workspace'}
+[NotebookApp | DEBUG] activity on aaf3ccb2-c48b-4e49-8f76-38bff266dbe7: status
+[NotebookApp | DEBUG] Initializing websocket connection /api/kernels/aaf3ccb2-c48b-4e49-8f76-38bff266dbe7/channels
+[NotebookApp | DEBUG] Requesting kernel info from aaf3ccb2-c48b-4e49-8f76-38bff266dbe7
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:37325
+[NotebookApp | DEBUG] activity on aaf3ccb2-c48b-4e49-8f76-38bff266dbe7: status
+[NotebookApp | DEBUG] activity on aaf3ccb2-c48b-4e49-8f76-38bff266dbe7: status
+[NotebookApp | DEBUG] Received kernel info: {'status': 'ok', 'protocol_version': '5.1', 'implementation': 'ipython', 'implementation_version': '6.2.1', 'language_info': {'name': 'python', 'version': '3.6.7', 'mimetype': 'text/x-python', 'codemirror_mode': {'name': 'ipython', 'version': 3}, 'pygments_lexer': 'ipython3', 'nbconvert_exporter': 'python', 'file_extension': '.py'}, 'banner': "Python 3.6.7 (default, Oct 22 2018, 11:32:17) \nType 'copyright', 'credits' or 'license' for more information\nIPython 6.2.1 -- An enhanced Interactive Python. Type '?' for help.\n", 'help_links': [{'text': 'Python Reference', 'url': 'https://docs.python.org/3.6'}, {'text': 'IPython Reference', 'url': 'https://ipython.org/documentation.html'}, {'text': 'NumPy Reference', 'url': 'https://docs.scipy.org/doc/numpy/reference/'}, {'text': 'SciPy Reference', 'url': 'https://docs.scipy.org/doc/scipy/reference/'}, {'text': 'Matplotlib Reference', 'url': 'https://matplotlib.org/contents.html'}, {'text': 'SymPy Reference', 'url': 'http://docs.sympy.org/latest/index.html'}, {'text': 'pandas Reference', 'url': 'https://pandas.pydata.org/pandas-docs/stable/'}]}
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel aaf3ccb2-c48b-4e49-8f76-38bff266dbe7
+[NotebookApp | DEBUG] Opening websocket /api/kernels/aaf3ccb2-c48b-4e49-8f76-38bff266dbe7/channels
+[NotebookApp | DEBUG] Getting buffer for aaf3ccb2-c48b-4e49-8f76-38bff266dbe7
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:37325
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:57277
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:39905
+[NotebookApp | DEBUG] activity on aaf3ccb2-c48b-4e49-8f76-38bff266dbe7: status
+[NotebookApp | DEBUG] activity on aaf3ccb2-c48b-4e49-8f76-38bff266dbe7: status
+[NotebookApp | DEBUG] activity on aaf3ccb2-c48b-4e49-8f76-38bff266dbe7: status
+[NotebookApp | DEBUG] activity on aaf3ccb2-c48b-4e49-8f76-38bff266dbe7: status
+[NotebookApp | INFO] Saving file at /Baby_Name_Classifier.ipynb
+[NotebookApp | DEBUG] Saving /home/codio/workspace/Baby_Name_Classifier.ipynb
+[NotebookApp | INFO] Saving file at /Baby_Name_Classifier.ipynb
+[NotebookApp | DEBUG] Saving /home/codio/workspace/Baby_Name_Classifier.ipynb
+[NotebookApp | DEBUG] Websocket closed aaf3ccb2-c48b-4e49-8f76-38bff266dbe7:919722a036f740059392e125e77302f4
+[NotebookApp | INFO] Starting buffering for aaf3ccb2-c48b-4e49-8f76-38bff266dbe7:919722a036f740059392e125e77302f4
+[NotebookApp | DEBUG] Clearing buffer for aaf3ccb2-c48b-4e49-8f76-38bff266dbe7
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: fb8c6b43-f32b-4a3e-a286-9d7763dc01da
+[NotebookApp | INFO] Kernel shutdown: aaf3ccb2-c48b-4e49-8f76-38bff266dbe7
+[NotebookApp | DEBUG] Looking for nbgrader_config in /home/codio/workspace
+[NotebookApp | DEBUG] Loaded config file: /home/codio/workspace/nbgrader_config.py
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(radar-legend or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | DEBUG] Using contents: services/contents
+[NotebookApp | DEBUG] Path base/images/favicon-notebook.ico served from /usr/local/lib/python3.6/dist-packages/notebook/static/base/images/favicon-notebook.ico
+[NotebookApp | DEBUG] Path components/jquery-ui/themes/smoothness/jquery-ui.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/jquery-ui/themes/smoothness/jquery-ui.min.css
+[NotebookApp | DEBUG] Path components/jquery-typeahead/dist/jquery.typeahead.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/jquery-typeahead/dist/jquery.typeahead.min.css
+[NotebookApp | DEBUG] Path components/bootstrap-tour/build/css/bootstrap-tour.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/bootstrap-tour/build/css/bootstrap-tour.min.css
+[NotebookApp | DEBUG] Path components/codemirror/lib/codemirror.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/codemirror/lib/codemirror.css
+[NotebookApp | DEBUG] Path style/style.min.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/style/style.min.css
+[NotebookApp | DEBUG] Path notebook/css/override.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/notebook/css/override.css
+[NotebookApp | DEBUG] Path components/es6-promise/promise.min.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/es6-promise/promise.min.js
+[NotebookApp | DEBUG] Path components/preact/index.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/preact/index.js
+[NotebookApp | DEBUG] Path components/proptypes/index.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/proptypes/index.js
+[NotebookApp | DEBUG] Path components/preact-compat/index.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/preact-compat/index.js
+[NotebookApp | DEBUG] Path components/requirejs/require.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/requirejs/require.js
+[NotebookApp | DEBUG] Path base/images/logo.png served from /usr/local/lib/python3.6/dist-packages/notebook/static/base/images/logo.png
+[NotebookApp | DEBUG] Path components/text-encoding/lib/encoding.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/text-encoding/lib/encoding.js
+[NotebookApp | DEBUG] Path notebook/js/main.min.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/notebook/js/main.min.js
+[NotebookApp | DEBUG] Path components/MathJax/MathJax.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/MathJax.js
+[NotebookApp | DEBUG] Path custom.css served from /usr/local/lib/python3.6/dist-packages/notebook/static/custom/custom.css
+[NotebookApp | DEBUG] Path components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js
+[NotebookApp | DEBUG] Path components/MathJax/config/Safe.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/config/Safe.js
+[NotebookApp | DEBUG] Path services/contents.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/services/contents.js
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/local/etc/jupyter/nbconfig/notebook.d/widgetsnbextension.json
+    	/usr/local/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/usr/etc/jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of notebook: 
+    	/home/codio/.jupyter/nbconfig/notebook.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/local/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/usr/etc/jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Paths used for configuration of common: 
+    	/home/codio/.jupyter/nbconfig/common.json
+[NotebookApp | DEBUG] Path components/MathJax/extensions/MathML/content-mathml.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/extensions/MathML/content-mathml.js
+[NotebookApp | DEBUG] Found kernel python3 in /usr/local/share/jupyter/kernels
+[NotebookApp | DEBUG] Path custom.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/custom/custom.js
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js
+[NotebookApp | DEBUG] Path components/font-awesome/fonts/fontawesome-webfont.woff2 served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/font-awesome/fonts/fontawesome-webfont.woff2
+[NotebookApp | DEBUG] Path jupyter-js-widgets/extension.js served from /usr/local/share/jupyter/nbextensions/jupyter-js-widgets/extension.js
+[NotebookApp | DEBUG] Path create_assignment/main.js served from /usr/share/jupyter/nbextensions/create_assignment/main.js
+[NotebookApp | DEBUG] Path validate_assignment/main.js served from /usr/share/jupyter/nbextensions/validate_assignment/main.js
+[NotebookApp | DEBUG] Path components/MathJax/extensions/Safe.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/extensions/Safe.js
+[NotebookApp | DEBUG] Path create_assignment/create_assignment.css served from /usr/share/jupyter/nbextensions/create_assignment/create_assignment.css
+[NotebookApp | DEBUG] Starting kernel: ['/usr/bin/python3', '-m', 'ipykernel_launcher', '-f', '/home/codio/.local/share/jupyter/runtime/kernel-f61dfe9f-7fd2-434f-9a22-828055f83c5e.json']
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:35355
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:40543
+[NotebookApp | INFO] Kernel started: f61dfe9f-7fd2-434f-9a22-828055f83c5e
+[NotebookApp | DEBUG] Kernel args: {'kernel_name': 'python3', 'cwd': '/home/codio/workspace'}
+[NotebookApp | DEBUG] Serving kernel resource from: /usr/local/share/jupyter/kernels/python3
+[NotebookApp | DEBUG] Initializing websocket connection /api/kernels/f61dfe9f-7fd2-434f-9a22-828055f83c5e/channels
+[NotebookApp | DEBUG] Requesting kernel info from f61dfe9f-7fd2-434f-9a22-828055f83c5e
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:47379
+[NotebookApp | DEBUG] activity on f61dfe9f-7fd2-434f-9a22-828055f83c5e: status
+[NotebookApp | DEBUG] activity on f61dfe9f-7fd2-434f-9a22-828055f83c5e: status
+[NotebookApp | DEBUG] activity on f61dfe9f-7fd2-434f-9a22-828055f83c5e: status
+[NotebookApp | DEBUG] Received kernel info: {'status': 'ok', 'protocol_version': '5.1', 'implementation': 'ipython', 'implementation_version': '6.2.1', 'language_info': {'name': 'python', 'version': '3.6.7', 'mimetype': 'text/x-python', 'codemirror_mode': {'name': 'ipython', 'version': 3}, 'pygments_lexer': 'ipython3', 'nbconvert_exporter': 'python', 'file_extension': '.py'}, 'banner': "Python 3.6.7 (default, Oct 22 2018, 11:32:17) \nType 'copyright', 'credits' or 'license' for more information\nIPython 6.2.1 -- An enhanced Interactive Python. Type '?' for help.\n", 'help_links': [{'text': 'Python Reference', 'url': 'https://docs.python.org/3.6'}, {'text': 'IPython Reference', 'url': 'https://ipython.org/documentation.html'}, {'text': 'NumPy Reference', 'url': 'https://docs.scipy.org/doc/numpy/reference/'}, {'text': 'SciPy Reference', 'url': 'https://docs.scipy.org/doc/scipy/reference/'}, {'text': 'Matplotlib Reference', 'url': 'https://matplotlib.org/contents.html'}, {'text': 'SymPy Reference', 'url': 'http://docs.sympy.org/latest/index.html'}, {'text': 'pandas Reference', 'url': 'https://pandas.pydata.org/pandas-docs/stable/'}]}
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f61dfe9f-7fd2-434f-9a22-828055f83c5e
+[NotebookApp | DEBUG] Opening websocket /api/kernels/f61dfe9f-7fd2-434f-9a22-828055f83c5e/channels
+[NotebookApp | DEBUG] Getting buffer for f61dfe9f-7fd2-434f-9a22-828055f83c5e
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:47379
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:40543
+[NotebookApp | DEBUG] Connecting to: tcp://127.0.0.1:52743
+[NotebookApp | DEBUG] activity on f61dfe9f-7fd2-434f-9a22-828055f83c5e: status
+[NotebookApp | DEBUG] activity on f61dfe9f-7fd2-434f-9a22-828055f83c5e: status
+[NotebookApp | DEBUG] activity on f61dfe9f-7fd2-434f-9a22-828055f83c5e: status
+[NotebookApp | DEBUG] activity on f61dfe9f-7fd2-434f-9a22-828055f83c5e: status
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Italic/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Normal/Italic/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Normal/Italic/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Normal-Italic.woff served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Normal-Italic.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Regular/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Regular.woff served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/fonts/HTML-CSS/STIX-Web/woff/STIXMathJax_Main-Regular.woff
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Bold/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Main/Bold/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Normal/Bold/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Normal/Bold/Main.js
+[NotebookApp | DEBUG] Path components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Variants/Regular/Main.js served from /usr/local/lib/python3.6/dist-packages/notebook/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/Variants/Regular/Main.js

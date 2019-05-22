@@ -1,0 +1,151 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(quest-atlanta or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] 404 GET /notebooks/Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb (192.168.10.160): No such file or directory: Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb (192.168.10.160) 6.77ms referer=https://codio.com/nquilliam/perceptron
+[NotebookApp | WARNING] Notebook Perceptron.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 5fbac1e6-2341-4aba-b1e5-05d9f64f7833
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5fbac1e6-2341-4aba-b1e5-05d9f64f7833
+[NotebookApp | INFO] Starting buffering for 5fbac1e6-2341-4aba-b1e5-05d9f64f7833:e5f5aab98a6943709bda13533285d9bd
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 5fbac1e6-2341-4aba-b1e5-05d9f64f7833
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(quest-atlanta or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] 404 GET /notebooks/Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb (192.168.10.160): No such file or directory: Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb (192.168.10.160) 104.23ms referer=https://codio.com/nquilliam/perceptron
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(quest-atlanta or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] 404 GET /notebooks/Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb (192.168.10.205): No such file or directory: Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb (192.168.10.205) 96.60ms referer=https://codio.com/nquilliam/perceptron
+[NotebookApp | WARNING] Notebook Perceptron.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 71b4abe8-e38f-41f5-8404-79a01ee0db57
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 71b4abe8-e38f-41f5-8404-79a01ee0db57
+[NotebookApp | INFO] Starting buffering for 71b4abe8-e38f-41f5-8404-79a01ee0db57:fdee7ad3ac504f6ab72ff5525b46b907
+[NotebookApp | WARNING] 404 GET /notebooks/Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb (192.168.10.160): No such file or directory: Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb (192.168.10.160) 5.39ms referer=https://codio.com/nquilliam/perceptron/guides
+[NotebookApp | WARNING] Notebook Perceptron.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 71b4abe8-e38f-41f5-8404-79a01ee0db57
+[NotebookApp | INFO] Starting buffering for 71b4abe8-e38f-41f5-8404-79a01ee0db57:9ec7df15b61c4cc19631390586c5bd8c
+[NotebookApp | WARNING] 404 GET /notebooks/Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb (192.168.10.205): No such file or directory: Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb (192.168.10.205) 3.20ms referer=https://codio.com/nquilliam/perceptron
+[NotebookApp | WARNING] 404 GET /notebooks/Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb (192.168.10.212): No such file or directory: Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb (192.168.10.212) 4.19ms referer=https://codio.com/nquilliam/perceptron/tree/.guides%2Fstyles.css
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 71b4abe8-e38f-41f5-8404-79a01ee0db57
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(quest-atlanta or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] 404 GET /notebooks/Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb (192.168.10.212): No such file or directory: Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb (192.168.10.212) 26.85ms referer=https://codio.com/nquilliam/perceptron/guides-edit/0
+[NotebookApp | WARNING] Notebook Perceptron.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 49fea003-72c7-4f03-b0d5-2b38fda93334
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 49fea003-72c7-4f03-b0d5-2b38fda93334
+[NotebookApp | INFO] Saving file at /Perceptron.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/Perceptron.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for 49fea003-72c7-4f03-b0d5-2b38fda93334:c0c4facd8bfd4ca49f5ccf93ab69c751
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 49fea003-72c7-4f03-b0d5-2b38fda93334
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(quest-atlanta or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 2f502dcd-d619-4af3-a466-bf23a1922c58
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f502dcd-d619-4af3-a466-bf23a1922c58
+[NotebookApp | INFO] Saving file at /Perceptron.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/Perceptron.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for 2f502dcd-d619-4af3-a466-bf23a1922c58:51d9a394594b4cb0b3d604e761be3df6
+[NotebookApp | WARNING] 404 GET /notebooks/Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb (192.168.10.212): No such file or directory: Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Perceptron/.ipynb_checkpoints/Perceptron-checkpoint.ipynb (192.168.10.212) 7.81ms referer=https://codio.com/nquilliam/perceptron
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 2f502dcd-d619-4af3-a466-bf23a1922c58
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(quest-atlanta or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Perceptron.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 418f9c12-f2ed-46b1-8180-ee5656b913f4
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 418f9c12-f2ed-46b1-8180-ee5656b913f4
+[NotebookApp | INFO] Saving file at /Perceptron.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/Perceptron.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for 418f9c12-f2ed-46b1-8180-ee5656b913f4:51eabf3c1a8b4561a2eba84cc202a8b8
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cyclone-cover or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Perceptron.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: cb0bcfcd-c672-41fd-9392-6b39d5a33e3e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cb0bcfcd-c672-41fd-9392-6b39d5a33e3e
+[NotebookApp | INFO] Starting buffering for cb0bcfcd-c672-41fd-9392-6b39d5a33e3e:e3f976596bb94d2aae882cfb509d7d0f
+[NotebookApp | WARNING] Notebook Perceptron.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cb0bcfcd-c672-41fd-9392-6b39d5a33e3e
+[NotebookApp | INFO] Starting buffering for cb0bcfcd-c672-41fd-9392-6b39d5a33e3e:9083d4ec304a4e5d8c90df95a85aadb6
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: cb0bcfcd-c672-41fd-9392-6b39d5a33e3e
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cyclone-cover or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Perceptron.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 143cf362-da2c-40e7-a8a4-95b62a59d93d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 143cf362-da2c-40e7-a8a4-95b62a59d93d
+[NotebookApp | INFO] Starting buffering for 143cf362-da2c-40e7-a8a4-95b62a59d93d:edd91cde95b64a0c8fad7d3e6b1eeff6
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 143cf362-da2c-40e7-a8a4-95b62a59d93d
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cyclone-cover or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Perceptron.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 5b4b5f8e-502f-452d-9bf6-a097f4d9d776
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5b4b5f8e-502f-452d-9bf6-a097f4d9d776
+[NotebookApp | INFO] Starting buffering for 5b4b5f8e-502f-452d-9bf6-a097f4d9d776:e6bf4c474cd240b49f01887a04d5aac4
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 5b4b5f8e-502f-452d-9bf6-a097f4d9d776
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cyclone-cover or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Perceptron.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 15a0c076-1ae9-43d0-985f-1518127d8306
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 15a0c076-1ae9-43d0-985f-1518127d8306

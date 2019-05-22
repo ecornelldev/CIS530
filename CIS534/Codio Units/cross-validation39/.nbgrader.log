@@ -1,0 +1,56 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(sunday-telex or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Cross Validation.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b04638ec-2add-48e4-b4f0-6e3bd8f64c64
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b04638ec-2add-48e4-b4f0-6e3bd8f64c64
+[NotebookApp | INFO] Saving file at /Cross Validation.ipynb
+[NotebookApp | INFO] Starting buffering for b04638ec-2add-48e4-b4f0-6e3bd8f64c64:a3d1452440cb47e588a17ef35f4f00d8
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: b04638ec-2add-48e4-b4f0-6e3bd8f64c64
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(sunday-telex or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 3ba12f0d-aedb-4ffe-9fc8-6cc889b41acf
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3ba12f0d-aedb-4ffe-9fc8-6cc889b41acf
+[NotebookApp | INFO] Starting buffering for 3ba12f0d-aedb-4ffe-9fc8-6cc889b41acf:ced9f27514844dbe8e3bb1198fb0055e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3ba12f0d-aedb-4ffe-9fc8-6cc889b41acf
+[NotebookApp | INFO] Starting buffering for 3ba12f0d-aedb-4ffe-9fc8-6cc889b41acf:51c9c4ee225f473f98e7b3d998b40773
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(tango-uniform or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Cross Validation.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7dd918c9-3607-4317-b5d5-9304630bc60d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7dd918c9-3607-4317-b5d5-9304630bc60d
+[NotebookApp | INFO] Saving file at /Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /Cross Validation.ipynb
+[NotebookApp | INFO] Starting buffering for 7dd918c9-3607-4317-b5d5-9304630bc60d:ca020352c1544f5b8a8de0f7bf307762
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7dd918c9-3607-4317-b5d5-9304630bc60d
+[NotebookApp | INFO] Starting buffering for 7dd918c9-3607-4317-b5d5-9304630bc60d:56f8fd0064e14c96be5a21a8095213c9
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 7dd918c9-3607-4317-b5d5-9304630bc60d
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(tango-uniform or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(tango-uniform or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
