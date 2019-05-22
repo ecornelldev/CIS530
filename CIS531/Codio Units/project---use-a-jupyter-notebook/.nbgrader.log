@@ -1,0 +1,2074 @@
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(poetic-combine or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook source/.ipynb_checkpoints/Facial_recognition-checkpoint.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 31c81cfd-c76e-451a-8454-365eaa0453b5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 31c81cfd-c76e-451a-8454-365eaa0453b5
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 1e78dd34-ba0a-413b-a670-48c9dc73c77c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1e78dd34-ba0a-413b-a670-48c9dc73c77c
+[NotebookApp | INFO] Saving file at /source/.ipynb_checkpoints/Facial_recognition-checkpoint.ipynb
+[NotebookApp | INFO] Saving file at /source/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Validating '/home/codio/workspace/source/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] 302 GET /notebooks/ (192.168.10.212) 1.26ms
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO] The installation of the nbgrader extensions are now managed through the
+[ExtensionApp | INFO] `jupyter nbextension` and `jupyter serverextension` commands.
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO] To install and enable the nbextensions (assignment_list and create_assignment) run:
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO]     $ jupyter nbextension install --sys-prefix --py nbgrader
+[ExtensionApp | INFO]     $ jupyter nbextension enable --sys-prefix --py nbgrader
+[ExtensionApp | INFO]     
+[ExtensionApp | INFO] To install the server extension (assignment_list) run:
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO]     $ jupyter serverextension enable --sys-prefix --py nbgrader
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO] To install for all users, replace `--sys-prefix` by `--system`.
+[ExtensionApp | INFO] To install only for the current user replace `--sys-prefix` by `--user`.
+[ExtensionApp | INFO] 
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | WARNING] No notebooks were matched in '/home/codio/workspace/source/./facial_recognition'
+[NotebookApp | ERROR] No notebooks were matched by '/home/codio/workspace/source/./facial_recognition'
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | WARNING] Removing existing assignment: /home/codio/workspace/release/facial_recognition
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/.DS_Store -> /home/codio/workspace/release/./facial_recognition/.DS_Store
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/faces.mat -> /home/codio/workspace/release/./facial_recognition/faces.mat
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/helper_functions.py -> /home/codio/workspace/release/./facial_recognition/helper_functions.py
+[NotebookApp | INFO] Updating/creating assignment 'facial_recognition': {}
+[NotebookApp | INFO] Converting notebook /home/codio/workspace/source/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Writing 22671 bytes to /home/codio/workspace/release/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[AssignApp | ERROR] An assignment id must be specified, either as an argument or with --assignment
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | WARNING] Removing existing assignment: /home/codio/workspace/release/facial_recognition
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/.DS_Store -> /home/codio/workspace/release/./facial_recognition/.DS_Store
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/faces.mat -> /home/codio/workspace/release/./facial_recognition/faces.mat
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/helper_functions.py -> /home/codio/workspace/release/./facial_recognition/helper_functions.py
+[NotebookApp | INFO] Updating/creating assignment 'facial_recognition': {}
+[NotebookApp | INFO] Converting notebook /home/codio/workspace/source/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Writing 22671 bytes to /home/codio/workspace/release/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[AssignApp | ERROR] An assignment id must be specified, either as an argument or with --assignment
+[AssignApp | ERROR] No notebooks were matched by '/home/codio/workspace/source/./K-Nearest Neighbors'
+[AssignApp | ERROR] No notebooks were matched by '/home/codio/workspace/source/./K-Nearest Neighbors/facial_recognition'
+[AssignApp | ERROR] No notebooks were matched by '/home/codio/workspace/source/./K-Nearest Neighbors'
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | WARNING] 404 GET /api/contents/source/Facial_recognition.ipynb?content=0&_=1550240583840 (192.168.10.212): No such file or directory: source/Facial_recognition.ipynb
+[NotebookApp | WARNING] No such file or directory: source/Facial_recognition.ipynb
+[NotebookApp | WARNING] 404 GET /api/contents/source/Facial_recognition.ipynb?content=0&_=1550240583840 (192.168.10.212) 1.91ms referer=https://poetic-combine-3000.codio.io/notebooks/source/Facial_recognition.ipynb
+[NotebookApp | INFO] Uploading file to /source/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/server_extensions/assignment_list/handlers.py", line 65, in list_released_assignments
+        assignments = lister.start()
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/list.py", line 129, in start
+        super(ExchangeList, self).start()
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/exchange.py", line 122, in start
+        self.ensure_root()
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/exchange.py", line 100, in ensure_root
+        self.fail("Unwritable directory, please contact your instructor: {}".format(self.root))
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/exchange.py", line 78, in fail
+        raise ExchangeError(msg)
+    nbgrader.exchange.exchange.ExchangeError: Unwritable directory, please contact your instructor: /tmp/exchange
+    
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 6d3adcfe-cc66-4d07-9f6f-3421ef40fd16
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6d3adcfe-cc66-4d07-9f6f-3421ef40fd16
+[NotebookApp | INFO] Starting buffering for 6d3adcfe-cc66-4d07-9f6f-3421ef40fd16:bb9da88ef11e4532b8fa4fdf32d60fff
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/server_extensions/assignment_list/handlers.py", line 65, in list_released_assignments
+        assignments = lister.start()
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/list.py", line 129, in start
+        super(ExchangeList, self).start()
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/exchange.py", line 122, in start
+        self.ensure_root()
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/exchange.py", line 100, in ensure_root
+        self.fail("Unwritable directory, please contact your instructor: {}".format(self.root))
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/exchange.py", line 78, in fail
+        raise ExchangeError(msg)
+    nbgrader.exchange.exchange.ExchangeError: Unwritable directory, please contact your instructor: /tmp/exchange
+    
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Source: /home/codio/workspace/release/./facial_recognition
+[NotebookApp | INFO] Destination: /tmp/exchange/K-Nearest Neighbors/outbound/facial_recognition
+[NotebookApp | INFO] Released as: K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | WARNING] No submissions of 'facial_recognition' for course 'K-Nearest Neighbors' to collect
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Removing released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | WARNING] Removing existing assignment: /home/codio/workspace/release/facial_recognition
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/.DS_Store -> /home/codio/workspace/release/./facial_recognition/.DS_Store
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/faces.mat -> /home/codio/workspace/release/./facial_recognition/faces.mat
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/helper_functions.py -> /home/codio/workspace/release/./facial_recognition/helper_functions.py
+[NotebookApp | INFO] Updating/creating assignment 'facial_recognition': {}
+[NotebookApp | INFO] Converting notebook /home/codio/workspace/source/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Writing 22671 bytes to /home/codio/workspace/release/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Kernel started: 3edc2e0d-4021-4a5d-995d-d50de9fa4a6c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3edc2e0d-4021-4a5d-995d-d50de9fa4a6c
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for 3edc2e0d-4021-4a5d-995d-d50de9fa4a6c:886d5ce7b3424ab3858a499b6f8953a9
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3edc2e0d-4021-4a5d-995d-d50de9fa4a6c
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for 3edc2e0d-4021-4a5d-995d-d50de9fa4a6c:21a9abeec73148008d12a387ea51dca6
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6d3adcfe-cc66-4d07-9f6f-3421ef40fd16
+[NotebookApp | INFO] Saving file at /source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 6d3adcfe-cc66-4d07-9f6f-3421ef40fd16:34266b0b52eb4f1fbda75662cb978fd4
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | WARNING] Removing existing assignment: /home/codio/workspace/release/facial_recognition
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/.DS_Store -> /home/codio/workspace/release/./facial_recognition/.DS_Store
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/faces.mat -> /home/codio/workspace/release/./facial_recognition/faces.mat
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/helper_functions.py -> /home/codio/workspace/release/./facial_recognition/helper_functions.py
+[NotebookApp | INFO] Updating/creating assignment 'facial_recognition': {}
+[NotebookApp | INFO] Converting notebook /home/codio/workspace/source/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Writing 23163 bytes to /home/codio/workspace/release/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3edc2e0d-4021-4a5d-995d-d50de9fa4a6c
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | WARNING] Notebook source/.ipynb_checkpoints/Facial_recognition-checkpoint.ipynb is not trusted
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 31c81cfd-c76e-451a-8454-365eaa0453b5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1e78dd34-ba0a-413b-a670-48c9dc73c77c
+[NotebookApp | INFO] Starting buffering for 1e78dd34-ba0a-413b-a670-48c9dc73c77c:001a947a4c7e4d318be102a18744a561
+[NotebookApp | INFO] Starting buffering for 31c81cfd-c76e-451a-8454-365eaa0453b5:9a36135d6c7446e68cb1aac8ec3955e3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3edc2e0d-4021-4a5d-995d-d50de9fa4a6c
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Submitted assignments:
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 4 kernels
+[NotebookApp | INFO] Kernel shutdown: 1e78dd34-ba0a-413b-a670-48c9dc73c77c
+[NotebookApp | INFO] Kernel shutdown: 31c81cfd-c76e-451a-8454-365eaa0453b5
+[NotebookApp | INFO] Kernel shutdown: 6d3adcfe-cc66-4d07-9f6f-3421ef40fd16
+[NotebookApp | INFO] Kernel shutdown: 3edc2e0d-4021-4a5d-995d-d50de9fa4a6c
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(poetic-combine or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: d0234053-af9f-4c45-93de-74fd8c543abb
+[NotebookApp | WARNING] Notebook source/.ipynb_checkpoints/Facial_recognition-checkpoint.ipynb is not trusted
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 54c6db98-4099-48b4-a8d2-4b05c8cd20bb
+[NotebookApp | INFO] Kernel started: 961f4a60-9755-497c-9b93-941c77d6f8a2
+[NotebookApp | WARNING] Notebook source/.ipynb_checkpoints/Facial_recognition-checkpoint.ipynb is not trusted
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | WARNING] Notebook source/.ipynb_checkpoints/Facial_recognition-checkpoint.ipynb is not trusted
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 54c6db98-4099-48b4-a8d2-4b05c8cd20bb
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 961f4a60-9755-497c-9b93-941c77d6f8a2
+[NotebookApp | INFO] 302 GET /notebooks/ (192.168.10.212) 0.94ms
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | WARNING] Removing existing assignment: /home/codio/workspace/release/facial_recognition
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/.DS_Store -> /home/codio/workspace/release/./facial_recognition/.DS_Store
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/faces.mat -> /home/codio/workspace/release/./facial_recognition/faces.mat
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/helper_functions.py -> /home/codio/workspace/release/./facial_recognition/helper_functions.py
+[NotebookApp | INFO] Updating/creating assignment 'facial_recognition': {}
+[NotebookApp | INFO] Converting notebook /home/codio/workspace/source/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Writing 23163 bytes to /home/codio/workspace/release/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d0234053-af9f-4c45-93de-74fd8c543abb
+[NotebookApp | INFO] Starting buffering for d0234053-af9f-4c45-93de-74fd8c543abb:945df53d55af4129929a32f53b0f2d41
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d0234053-af9f-4c45-93de-74fd8c543abb
+[NotebookApp | INFO] Starting buffering for d0234053-af9f-4c45-93de-74fd8c543abb:1a64b5bb90d746499f226bb4fee92233
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 961f4a60-9755-497c-9b93-941c77d6f8a2
+[NotebookApp | WARNING] delete /source/Facial_recognition.ipynb
+[NotebookApp | WARNING] Skipping trash for /home/codio/workspace/source/Facial_recognition.ipynb, on different device to home directory
+[NotebookApp | INFO] Kernel shutdown: 961f4a60-9755-497c-9b93-941c77d6f8a2
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 62e056d4-124f-49a6-bdf2-816e32ca3369
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 62e056d4-124f-49a6-bdf2-816e32ca3369
+[NotebookApp | INFO] Saving file at /source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 62e056d4-124f-49a6-bdf2-816e32ca3369:f7a2c81918b147f5874ad9ce4fdf70b5
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 62e056d4-124f-49a6-bdf2-816e32ca3369
+[NotebookApp | INFO] Starting buffering for 62e056d4-124f-49a6-bdf2-816e32ca3369:096e6e73fab1419d8156d51e324e73a1
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 62e056d4-124f-49a6-bdf2-816e32ca3369
+[NotebookApp | INFO] Starting buffering for 62e056d4-124f-49a6-bdf2-816e32ca3369:7b6c67a7d34e4866b09e0fd4d4b86426
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | WARNING] Removing existing assignment: /home/codio/workspace/release/facial_recognition
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/.DS_Store -> /home/codio/workspace/release/./facial_recognition/.DS_Store
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/faces.mat -> /home/codio/workspace/release/./facial_recognition/faces.mat
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/helper_functions.py -> /home/codio/workspace/release/./facial_recognition/helper_functions.py
+[NotebookApp | INFO] Updating/creating assignment 'facial_recognition': {}
+[NotebookApp | INFO] Converting notebook /home/codio/workspace/source/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Writing 21330 bytes to /home/codio/workspace/release/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d0234053-af9f-4c45-93de-74fd8c543abb
+[NotebookApp | INFO] Starting buffering for d0234053-af9f-4c45-93de-74fd8c543abb:fdb00db3fc5d4223a27e451e759ef3e9
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Source: /home/codio/workspace/release/./facial_recognition
+[NotebookApp | INFO] Destination: /tmp/exchange/K-Nearest Neighbors/outbound/facial_recognition
+[NotebookApp | INFO] Released as: K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Starting buffering for 54c6db98-4099-48b4-a8d2-4b05c8cd20bb:9b29862b2bd040e3ba2e572126a413ae
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d0234053-af9f-4c45-93de-74fd8c543abb
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for d0234053-af9f-4c45-93de-74fd8c543abb:fcc244c6a9fc4e408e62efc56cfa390b
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(express-cantina or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 809f5eb3-86b1-4e6c-b1e9-0275692e014c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 809f5eb3-86b1-4e6c-b1e9-0275692e014c
+[NotebookApp | INFO] Starting buffering for 809f5eb3-86b1-4e6c-b1e9-0275692e014c:2047394b12ec47399e119ee6906bab3a
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 809f5eb3-86b1-4e6c-b1e9-0275692e014c
+[NotebookApp | INFO] Starting buffering for 809f5eb3-86b1-4e6c-b1e9-0275692e014c:d7c6a123416c4f7b88194e6592baed98
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 809f5eb3-86b1-4e6c-b1e9-0275692e014c
+[NotebookApp | INFO] 302 GET /notebooks (192.168.10.160) 1.46ms
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: a5f8a7db-da3d-4fec-b95f-39b3117214ff
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a5f8a7db-da3d-4fec-b95f-39b3117214ff
+[NotebookApp | INFO] Saving file at /source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Validating '/home/codio/workspace/source/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for a5f8a7db-da3d-4fec-b95f-39b3117214ff:03c5ada8e04347008e90141d8910b480
+[NotebookApp | INFO] Starting buffering for 809f5eb3-86b1-4e6c-b1e9-0275692e014c:e3e1412a988c43a7842fb3120b8b51e3
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 809f5eb3-86b1-4e6c-b1e9-0275692e014c
+[NotebookApp | INFO] Starting buffering for 809f5eb3-86b1-4e6c-b1e9-0275692e014c:4e699c4ba7e64af584ef01bf88fd0a67
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 809f5eb3-86b1-4e6c-b1e9-0275692e014c
+[NotebookApp | INFO] Starting buffering for 809f5eb3-86b1-4e6c-b1e9-0275692e014c:d0ccc4f713bb420c8b8a04e54c98df97
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 809f5eb3-86b1-4e6c-b1e9-0275692e014c
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for 809f5eb3-86b1-4e6c-b1e9-0275692e014c:dca7aec6196f4c2585c3abc326098010
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: a5f8a7db-da3d-4fec-b95f-39b3117214ff
+[NotebookApp | INFO] Kernel shutdown: 809f5eb3-86b1-4e6c-b1e9-0275692e014c
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(express-cantina or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: f87d4fa8-4e71-4b94-b7d6-b73163e3c476
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f87d4fa8-4e71-4b94-b7d6-b73163e3c476
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: f87d4fa8-4e71-4b94-b7d6-b73163e3c476
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(express-cantina or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: b9825a36-b031-47c3-80d9-085147a3aa6f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b9825a36-b031-47c3-80d9-085147a3aa6f
+[NotebookApp | INFO] Starting buffering for b9825a36-b031-47c3-80d9-085147a3aa6f:e436683dc65240588b370599f9e72a5b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b9825a36-b031-47c3-80d9-085147a3aa6f
+[NotebookApp | INFO] 302 GET /notebooks (192.168.10.205) 1.00ms
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: a9de9f2e-1edb-4f12-a9e4-11ae8ea6c58f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a9de9f2e-1edb-4f12-a9e4-11ae8ea6c58f
+[NotebookApp | INFO] Starting buffering for a9de9f2e-1edb-4f12-a9e4-11ae8ea6c58f:7eed6720c6d44bf48a470ea406fe3ca2
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: a9de9f2e-1edb-4f12-a9e4-11ae8ea6c58f
+[NotebookApp | INFO] Kernel shutdown: b9825a36-b031-47c3-80d9-085147a3aa6f
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(express-cantina or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b2377c56-434d-4a98-8b8d-801bd467039d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b2377c56-434d-4a98-8b8d-801bd467039d
+[NotebookApp | INFO] 302 GET /notebooks (192.168.10.205) 0.96ms
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b317c4b2-45b3-4d68-9487-39d956f4f50a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b317c4b2-45b3-4d68-9487-39d956f4f50a
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | WARNING] Removing existing assignment: /home/codio/workspace/release/facial_recognition
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/faces.mat -> /home/codio/workspace/release/./facial_recognition/faces.mat
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/helper_functions.py -> /home/codio/workspace/release/./facial_recognition/helper_functions.py
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/.DS_Store -> /home/codio/workspace/release/./facial_recognition/.DS_Store
+[NotebookApp | INFO] Updating/creating assignment 'facial_recognition': {}
+[NotebookApp | INFO] Converting notebook /home/codio/workspace/source/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Writing 21330 bytes to /home/codio/workspace/release/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | INFO] Starting buffering for b317c4b2-45b3-4d68-9487-39d956f4f50a:2ca2b2e0fe2348038f730ccc7cc492f1
+[NotebookApp | INFO] Starting buffering for b2377c56-434d-4a98-8b8d-801bd467039d:236e200cbc5c4e64950ebe604466f8b4
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: b317c4b2-45b3-4d68-9487-39d956f4f50a
+[NotebookApp | INFO] Kernel shutdown: b2377c56-434d-4a98-8b8d-801bd467039d
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(express-cantina or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d056a0f5-89eb-4b25-b172-024a84eb0f53
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d056a0f5-89eb-4b25-b172-024a84eb0f53
+[NotebookApp | INFO] 302 GET /notebooks (192.168.10.205) 0.81ms
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | INFO] Starting buffering for d056a0f5-89eb-4b25-b172-024a84eb0f53:3ee5fc920a4a4d5d8d806c10a40502aa
+[NotebookApp | INFO] Starting buffering for e6fbf092-5917-4a69-b588-67df2b74b15c:aee4b7f876214675b86f8ef8e05256ca
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | INFO] Starting buffering for e6fbf092-5917-4a69-b588-67df2b74b15c:52216632e24448638ed0460a019a1405
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | INFO] Starting buffering for e6fbf092-5917-4a69-b588-67df2b74b15c:6b9e277613b74c79b25f25a4dd0f1142
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | INFO] Starting buffering for e6fbf092-5917-4a69-b588-67df2b74b15c:be2f09e372e44c388d10dd0304cdb143
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | INFO] Saving file at /source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Validating '/home/codio/workspace/source/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | INFO] 302 GET /notebooks (192.168.10.205) 1.04ms
+[NotebookApp | INFO] Uploading file to /source/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: eb32f33f-71ae-447e-85db-0a735a8ea021
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel eb32f33f-71ae-447e-85db-0a735a8ea021
+[NotebookApp | INFO] Saving file at /source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Validating '/home/codio/workspace/source/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for eb32f33f-71ae-447e-85db-0a735a8ea021:c6b5bd073e544a1a971a4150e9bb6c83
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 31ce58d5-4614-4bab-8ff9-b8ac741491a8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 31ce58d5-4614-4bab-8ff9-b8ac741491a8
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Validating '/home/codio/workspace/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 31ce58d5-4614-4bab-8ff9-b8ac741491a8:971857ee65694b938d818a8b2dbcd6fc
+[NotebookApp | WARNING] 404 GET /notebooks/source/facial_recognition/Facial_recognition.ipynb (192.168.10.160): No such file or directory: source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/source/facial_recognition/Facial_recognition.ipynb (192.168.10.160) 21.81ms referer=https://codio.com/cshew/project-1--k-nearest-neighbors17
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 4 kernels
+[NotebookApp | INFO] Kernel shutdown: 31ce58d5-4614-4bab-8ff9-b8ac741491a8
+[NotebookApp | INFO] Kernel shutdown: d056a0f5-89eb-4b25-b172-024a84eb0f53
+[NotebookApp | INFO] Kernel shutdown: eb32f33f-71ae-447e-85db-0a735a8ea021
+[NotebookApp | INFO] Kernel shutdown: e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(express-cantina or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] 404 GET /notebooks/source/facial_recognition/Facial_recognition.ipynb (192.168.10.212): No such file or directory: source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/source/facial_recognition/Facial_recognition.ipynb (192.168.10.212) 69.21ms referer=https://codio.com/cshew/project-1--k-nearest-neighbors17
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(express-cantina or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(violet-totem or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: c7beaf38-b9ef-4ce5-80ac-8705005786c0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c7beaf38-b9ef-4ce5-80ac-8705005786c0
+[NotebookApp | WARNING] WebSocket ping timeout after 119805 ms.
+[NotebookApp | INFO] Starting buffering for c7beaf38-b9ef-4ce5-80ac-8705005786c0:b9c5db27c5d4478eac004f527b980b0f
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: c7beaf38-b9ef-4ce5-80ac-8705005786c0
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(violet-totem or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 45390a8d-095c-4217-9975-442593355f71
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 45390a8d-095c-4217-9975-442593355f71
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 45390a8d-095c-4217-9975-442593355f71
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(violet-totem or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 42659044-c590-4741-abfa-b0b5227f67c2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 42659044-c590-4741-abfa-b0b5227f67c2
+[NotebookApp | INFO] Starting buffering for 42659044-c590-4741-abfa-b0b5227f67c2:aff6c05a9b754b47823c1a410fffdb46
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 42659044-c590-4741-abfa-b0b5227f67c2
+[NotebookApp | INFO] Starting buffering for 42659044-c590-4741-abfa-b0b5227f67c2:f4a65ac463b241728754e0bbdd66d805
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 42659044-c590-4741-abfa-b0b5227f67c2
+[NotebookApp | INFO] Starting buffering for 42659044-c590-4741-abfa-b0b5227f67c2:91be4caaab2447d2ad3794c9a84eb18a
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(olivia-summer or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 9803ebce-85d5-4686-9640-fed0c09c5c98
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9803ebce-85d5-4686-9640-fed0c09c5c98
+[NotebookApp | INFO] Starting buffering for 9803ebce-85d5-4686-9640-fed0c09c5c98:1a12553a5d38432f85a636b6aacb604f
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 9803ebce-85d5-4686-9640-fed0c09c5c98
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(olivia-summer or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f213b534-8a98-460e-b1ef-78e305946ccd
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f213b534-8a98-460e-b1ef-78e305946ccd
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | WARNING] Trusting notebook /Facial_recognition.ipynb
+[NotebookApp | INFO] Starting buffering for f213b534-8a98-460e-b1ef-78e305946ccd:e40ee14aac4541fe864bef50df35621f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f213b534-8a98-460e-b1ef-78e305946ccd
+[NotebookApp | INFO] Starting buffering for f213b534-8a98-460e-b1ef-78e305946ccd:dbcdef1ceaf14474bb920debe86e4b6a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f213b534-8a98-460e-b1ef-78e305946ccd
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: f213b534-8a98-460e-b1ef-78e305946ccd
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(olivia-summer or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cinema-deposit or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 40a03ea5-49ce-417a-9de0-8218b16b129b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 40a03ea5-49ce-417a-9de0-8218b16b129b
+[NotebookApp | INFO] Starting buffering for 40a03ea5-49ce-417a-9de0-8218b16b129b:8c0f3071a4bf47d6a40c7a5fc154bc93
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 40a03ea5-49ce-417a-9de0-8218b16b129b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cinema-deposit or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: fb5ebd8b-1d65-479f-b410-f48016b68b7a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fb5ebd8b-1d65-479f-b410-f48016b68b7a
+[NotebookApp | INFO] Starting buffering for fb5ebd8b-1d65-479f-b410-f48016b68b7a:46d358dd9e8d4d8f96a99261c173a95a
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fb5ebd8b-1d65-479f-b410-f48016b68b7a
+[NotebookApp | INFO] Starting buffering for fb5ebd8b-1d65-479f-b410-f48016b68b7a:1dc7d1b30717471b8498b97854682a10
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: fb5ebd8b-1d65-479f-b410-f48016b68b7a
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cinema-deposit or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f8383c03-758e-40df-91f0-305b8ffaa653
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f8383c03-758e-40df-91f0-305b8ffaa653
+[NotebookApp | INFO] Starting buffering for f8383c03-758e-40df-91f0-305b8ffaa653:31089ecc03ff4e24828a0f0f8004e17f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f8383c03-758e-40df-91f0-305b8ffaa653
+[NotebookApp | INFO] Starting buffering for f8383c03-758e-40df-91f0-305b8ffaa653:da1e67081f13431b8f6f00ecf5fbf4e0
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: f8383c03-758e-40df-91f0-305b8ffaa653
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cinema-deposit or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Starting buffering for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:ac09d34114ed4e479f63d2a427407c46
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Starting buffering for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:058df8804ee44add8017d9f0b1c5503b
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Starting buffering for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:97dcf6e229a64a56a2d96eb5822f5421
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Starting buffering for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:f9458b27c1084a2983b4d2f29e7616d6
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Starting buffering for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:b37f1f6c4be349e2b395a67324e0c0db
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Starting buffering for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:2442e2c06688449f8ee35f4a55ecf043
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Discarding 6 buffered messages for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:2442e2c06688449f8ee35f4a55ecf043
+[NotebookApp | INFO] Starting buffering for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:90ab6386e4d44a098686076b1dfe0774
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Starting buffering for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:748340c741c844a2b41537d1aba1bc0e
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cinema-deposit or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 1496b240-a1f0-4bca-afe5-10a8d6d61783
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1496b240-a1f0-4bca-afe5-10a8d6d61783
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(venus-miami or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mammal-fidel or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Introduction to Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 1c9a8d37-e605-4dac-8180-955408e28675
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1c9a8d37-e605-4dac-8180-955408e28675
+[NotebookApp | INFO] Starting buffering for 1c9a8d37-e605-4dac-8180-955408e28675:ad6d4e03cf994855b4d2372ef97e01b7
+[NotebookApp | WARNING] Notebook Introduction to Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1c9a8d37-e605-4dac-8180-955408e28675
+[NotebookApp | INFO] Starting buffering for 1c9a8d37-e605-4dac-8180-955408e28675:83fb9bd883014649830d4a24ba695964
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 1c9a8d37-e605-4dac-8180-955408e28675
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mammal-fidel or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Introduction to Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: bbabfe55-145b-48b3-84fe-6bca250b44a1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel bbabfe55-145b-48b3-84fe-6bca250b44a1
+[NotebookApp | INFO] Starting buffering for bbabfe55-145b-48b3-84fe-6bca250b44a1:b20e5655c82747a080fade16b3a0dc15
+[NotebookApp | WARNING] Notebook Introduction to Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel bbabfe55-145b-48b3-84fe-6bca250b44a1
+[NotebookApp | INFO] Starting buffering for bbabfe55-145b-48b3-84fe-6bca250b44a1:c7835d0daba0425e88c349bf666d1d71
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: bbabfe55-145b-48b3-84fe-6bca250b44a1
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mammal-fidel or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Introduction to Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: e3899761-1cea-48b0-97d0-6aa24c4a0b46
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e3899761-1cea-48b0-97d0-6aa24c4a0b46
+[NotebookApp | INFO] Saving file at /Introduction to Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e3899761-1cea-48b0-97d0-6aa24c4a0b46
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e3899761-1cea-48b0-97d0-6aa24c4a0b46
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e3899761-1cea-48b0-97d0-6aa24c4a0b46
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e3899761-1cea-48b0-97d0-6aa24c4a0b46
+[NotebookApp | INFO] Starting buffering for e3899761-1cea-48b0-97d0-6aa24c4a0b46:7fe38512eee44c389e28ad855d0890c2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e3899761-1cea-48b0-97d0-6aa24c4a0b46
+[NotebookApp | INFO] Starting buffering for e3899761-1cea-48b0-97d0-6aa24c4a0b46:60e9a9dd2ca64bd48480ce4bd27c2871
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(trapeze-river or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Introduction to Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: dace98de-99df-47d1-9156-53aefaa5e93b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dace98de-99df-47d1-9156-53aefaa5e93b
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for dace98de-99df-47d1-9156-53aefaa5e93b:27de027629ca4a4684a2c15c3e5d1dea
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: dace98de-99df-47d1-9156-53aefaa5e93b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(trapeze-river or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] 404 GET /notebooks/Introduction%20to%20Jupyter%20Notebooks.ipynb (192.168.10.212): No such file or directory: Introduction to Jupyter Notebooks.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Introduction%20to%20Jupyter%20Notebooks.ipynb (192.168.10.212) 88.59ms referer=https://codio.com/cshew/introduction-to-jupyter-notebooks29
+[NotebookApp | WARNING] 404 GET /notebooks/Introduction%20to%20Jupyter%20Notebooks.ipynb (192.168.10.160): No such file or directory: Introduction to Jupyter Notebooks.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Introduction%20to%20Jupyter%20Notebooks.ipynb (192.168.10.160) 1.50ms referer=https://codio.com/cshew/introduction-to-jupyter-notebooks29
+[NotebookApp | INFO] Kernel started: c33d8958-f78c-40e3-964d-c29d6430051f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c33d8958-f78c-40e3-964d-c29d6430051f
+[NotebookApp | INFO] Starting buffering for c33d8958-f78c-40e3-964d-c29d6430051f:419a4bb61e98440089b17fd39f85bd00
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c33d8958-f78c-40e3-964d-c29d6430051f
+[NotebookApp | INFO] Starting buffering for c33d8958-f78c-40e3-964d-c29d6430051f:82ee9e207dd641fb8df3c6be99f78527
+[NotebookApp | WARNING] 404 GET /notebooks/Introduction%20to%20Jupyter%20Notebooks.ipynb (192.168.10.160): No such file or directory: Introduction to Jupyter Notebooks.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Introduction%20to%20Jupyter%20Notebooks.ipynb (192.168.10.160) 2.11ms referer=https://codio.com/cshew/introduction-to-jupyter-notebooks29
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c33d8958-f78c-40e3-964d-c29d6430051f
+[NotebookApp | INFO] Starting buffering for c33d8958-f78c-40e3-964d-c29d6430051f:99c7ac16b60e44668445ddbbd33c2eef
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: c33d8958-f78c-40e3-964d-c29d6430051f
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(trapeze-river or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] 404 GET /notebooks/Introduction%20to%20Jupyter%20Notebooks.ipynb (192.168.10.205): No such file or directory: Introduction to Jupyter Notebooks.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Introduction%20to%20Jupyter%20Notebooks.ipynb (192.168.10.205) 6.87ms referer=https://codio.com/cshew/introduction-to-jupyter-notebooks29
+[NotebookApp | INFO] Kernel started: 4acec72b-c5db-4e2b-8fe3-80a535d41b0a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4acec72b-c5db-4e2b-8fe3-80a535d41b0a
+[NotebookApp | INFO] Starting buffering for 4acec72b-c5db-4e2b-8fe3-80a535d41b0a:f2eaf5ed1fcc4874a809b1567e7300fc
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(impact-picasso or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Introduction to Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: ddd83735-a1f1-4c89-ae18-5b3ce7cc0df1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ddd83735-a1f1-4c89-ae18-5b3ce7cc0df1
+[NotebookApp | INFO] Starting buffering for ddd83735-a1f1-4c89-ae18-5b3ce7cc0df1:cd74c71b391b486a85284379349adaf5
+[NotebookApp | WARNING] Notebook Introduction to Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ddd83735-a1f1-4c89-ae18-5b3ce7cc0df1
+[NotebookApp | INFO] Starting buffering for ddd83735-a1f1-4c89-ae18-5b3ce7cc0df1:ff9ac89469ef4b2b831c24903c573754
+[NotebookApp | WARNING] Notebook Introduction to Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ddd83735-a1f1-4c89-ae18-5b3ce7cc0df1
+[NotebookApp | INFO] Saving file at /Introduction to Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Introduction to Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for ddd83735-a1f1-4c89-ae18-5b3ce7cc0df1:ca5d9b079734458db5613a658b1faead
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: ddd83735-a1f1-4c89-ae18-5b3ce7cc0df1
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(impact-picasso or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 54b46c2a-9f1f-45a9-b296-ac4333f3fc5b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 54b46c2a-9f1f-45a9-b296-ac4333f3fc5b
+[NotebookApp | WARNING] Notebook Introduction to Jupyter Notebooks_AA.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 67778302-39ae-4c83-9f04-7b957f7f3eac
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 67778302-39ae-4c83-9f04-7b957f7f3eac
+[NotebookApp | INFO] Starting buffering for 67778302-39ae-4c83-9f04-7b957f7f3eac:da53f4aada13456c84c67c2f33a43fac
+[NotebookApp | INFO] Starting buffering for 54b46c2a-9f1f-45a9-b296-ac4333f3fc5b:d963c457b886448683ebaa1e327c8e37
+[NotebookApp | WARNING] Notebook Introduction to Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 54b46c2a-9f1f-45a9-b296-ac4333f3fc5b
+[NotebookApp | INFO] Starting buffering for 54b46c2a-9f1f-45a9-b296-ac4333f3fc5b:537374c5dde247b28f51e69d81af0fda
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 67778302-39ae-4c83-9f04-7b957f7f3eac
+[NotebookApp | INFO] Kernel shutdown: 54b46c2a-9f1f-45a9-b296-ac4333f3fc5b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(loyal-risk or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Introduction to Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: ef7e68f7-d366-4c78-94f3-1fa0f7eb9dd9
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ef7e68f7-d366-4c78-94f3-1fa0f7eb9dd9
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: ef7e68f7-d366-4c78-94f3-1fa0f7eb9dd9
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(loyal-risk or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Introduction to Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b3c1259b-ba51-42c3-b174-80061f9bdcc0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b3c1259b-ba51-42c3-b174-80061f9bdcc0
+[NotebookApp | INFO] Starting buffering for b3c1259b-ba51-42c3-b174-80061f9bdcc0:b046ef0eb2114029886dbfd5351842c4
+[NotebookApp | WARNING] Notebook Introduction to Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b3c1259b-ba51-42c3-b174-80061f9bdcc0
+[NotebookApp | INFO] Saving file at /Introduction to Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Introduction to Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Introduction to Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Introduction to Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Introduction to Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for b3c1259b-ba51-42c3-b174-80061f9bdcc0:0cd6642669884f75b629fa38d9352ac6
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b3c1259b-ba51-42c3-b174-80061f9bdcc0
+[NotebookApp | INFO] Saving file at /Introduction to Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for b3c1259b-ba51-42c3-b174-80061f9bdcc0:5c50b4618c8c449a936fcf7cb30b0c58
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b3c1259b-ba51-42c3-b174-80061f9bdcc0
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(script-gordon or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(paper-stella or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 56d2bd45-29ad-4ece-84c4-003a992b4081
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 56d2bd45-29ad-4ece-84c4-003a992b4081
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 56d2bd45-29ad-4ece-84c4-003a992b4081:a80b303e45354f4cb746339169bcea40
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 56d2bd45-29ad-4ece-84c4-003a992b4081
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(paper-stella or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] 404 GET /notebooks/Introduction%20to%20Jupyter%20Notebooks.ipynb (192.168.10.212): No such file or directory: Introduction to Jupyter Notebooks.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Introduction%20to%20Jupyter%20Notebooks.ipynb (192.168.10.212) 67.20ms referer=https://codio.com/cshew/using-jupyter-notebooks-v2-1
+[NotebookApp | INFO] Kernel started: d06cc8a2-45db-468a-88bb-46850a75c3a5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d06cc8a2-45db-468a-88bb-46850a75c3a5
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for d06cc8a2-45db-468a-88bb-46850a75c3a5:7f58091718344de39bfcafbbfc8ecc01
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d06cc8a2-45db-468a-88bb-46850a75c3a5
+[NotebookApp | INFO] Starting buffering for d06cc8a2-45db-468a-88bb-46850a75c3a5:8d6a785eb26646e0865823aa1859c9fc
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d06cc8a2-45db-468a-88bb-46850a75c3a5
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for d06cc8a2-45db-468a-88bb-46850a75c3a5:b133d0c0fb95467786a96213be7d4cf0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d06cc8a2-45db-468a-88bb-46850a75c3a5
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for d06cc8a2-45db-468a-88bb-46850a75c3a5:1e2bec8aac8b413e90093ac19e2dcf9e
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: fd87998a-dcdc-450e-90d7-6e25aa645e84
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fd87998a-dcdc-450e-90d7-6e25aa645e84
+[NotebookApp | INFO] Starting buffering for fd87998a-dcdc-450e-90d7-6e25aa645e84:6d6e481dda534f928a638eedd9e6f12f
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fd87998a-dcdc-450e-90d7-6e25aa645e84
+[NotebookApp | INFO] Starting buffering for fd87998a-dcdc-450e-90d7-6e25aa645e84:7fdeb07d01844c77a880cd93b16a2ff3
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fd87998a-dcdc-450e-90d7-6e25aa645e84
+[NotebookApp | WARNING] Notebook .ipynb_checkpoints/Using Jupyter Notebooks-checkpoint.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: ee0c470c-780a-4beb-82c5-3157bb4400c9
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ee0c470c-780a-4beb-82c5-3157bb4400c9
+[NotebookApp | INFO] Starting buffering for fd87998a-dcdc-450e-90d7-6e25aa645e84:ee357801db9645168167f78a727b1b5e
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fd87998a-dcdc-450e-90d7-6e25aa645e84
+[NotebookApp | INFO] Starting buffering for ee0c470c-780a-4beb-82c5-3157bb4400c9:fcb67d1602824b2b816b7ec649fbc6cb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for fd87998a-dcdc-450e-90d7-6e25aa645e84:38dc816db83e4ccb8d965525b72725a9
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fd87998a-dcdc-450e-90d7-6e25aa645e84
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ee0c470c-780a-4beb-82c5-3157bb4400c9
+[NotebookApp | INFO] Starting buffering for fd87998a-dcdc-450e-90d7-6e25aa645e84:97899e77bd0347249cdac0400a79e00c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fd87998a-dcdc-450e-90d7-6e25aa645e84
+[NotebookApp | INFO] Starting buffering for ee0c470c-780a-4beb-82c5-3157bb4400c9:12a8db75553849a8916dacddf23d0d4e
+[NotebookApp | INFO] Starting buffering for fd87998a-dcdc-450e-90d7-6e25aa645e84:c2b4eb4cb9f541388b3b322ae20beac6
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ee0c470c-780a-4beb-82c5-3157bb4400c9
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fd87998a-dcdc-450e-90d7-6e25aa645e84
+[NotebookApp | INFO] Starting buffering for fd87998a-dcdc-450e-90d7-6e25aa645e84:2236c1fd7b1a40c18cd5986a74c48de1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fd87998a-dcdc-450e-90d7-6e25aa645e84
+[NotebookApp | INFO] Starting buffering for ee0c470c-780a-4beb-82c5-3157bb4400c9:3ddc66c6f64b4ac698993045fdc34d8c
+[NotebookApp | INFO] Starting buffering for fd87998a-dcdc-450e-90d7-6e25aa645e84:84a5b7a898924824904af87b83c22043
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ee0c470c-780a-4beb-82c5-3157bb4400c9
+[NotebookApp | INFO] Starting buffering for ee0c470c-780a-4beb-82c5-3157bb4400c9:97c28feb4b7b40728fa326666b4961aa
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: ee0c470c-780a-4beb-82c5-3157bb4400c9
+[NotebookApp | INFO] Kernel shutdown: fd87998a-dcdc-450e-90d7-6e25aa645e84
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 8edddb7f-f2b7-42e7-8361-da2ccb61c23d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8edddb7f-f2b7-42e7-8361-da2ccb61c23d
+[NotebookApp | INFO] Starting buffering for 8edddb7f-f2b7-42e7-8361-da2ccb61c23d:a3e7080ead70440abaca87117826bb3b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8edddb7f-f2b7-42e7-8361-da2ccb61c23d
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 8edddb7f-f2b7-42e7-8361-da2ccb61c23d:f63d3f8649884c1481359e07bd8a606d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8edddb7f-f2b7-42e7-8361-da2ccb61c23d
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/Using Jupyter Notebooks.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for 8edddb7f-f2b7-42e7-8361-da2ccb61c23d:260947645bc647cb9c17582fed1635fa
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8edddb7f-f2b7-42e7-8361-da2ccb61c23d
+[NotebookApp | INFO] Starting buffering for 8edddb7f-f2b7-42e7-8361-da2ccb61c23d:eca8a3396a1049e79acdf8018c137d07
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8edddb7f-f2b7-42e7-8361-da2ccb61c23d
+[NotebookApp | INFO] Kernel started: e5dc9e20-2eeb-478f-b88d-5862bf11220f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e5dc9e20-2eeb-478f-b88d-5862bf11220f
+[NotebookApp | INFO] Starting buffering for 8edddb7f-f2b7-42e7-8361-da2ccb61c23d:616b05141c8748a08f8f791ce1bc533a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8edddb7f-f2b7-42e7-8361-da2ccb61c23d
+[NotebookApp | INFO] Starting buffering for e5dc9e20-2eeb-478f-b88d-5862bf11220f:835b4253a9bc433994015552c7d9e1b9
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e5dc9e20-2eeb-478f-b88d-5862bf11220f
+[NotebookApp | WARNING] WebSocket ping timeout after 119983 ms.
+[NotebookApp | INFO] Starting buffering for 8edddb7f-f2b7-42e7-8361-da2ccb61c23d:3f7b6b1583b4420d8f03c4795f6f6c46
+[NotebookApp | WARNING] WebSocket ping timeout after 119700 ms.
+[NotebookApp | INFO] Starting buffering for e5dc9e20-2eeb-478f-b88d-5862bf11220f:d27c8faf3c034a188d8cba416dc62e7b
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: e5dc9e20-2eeb-478f-b88d-5862bf11220f
+[NotebookApp | INFO] Kernel shutdown: 8edddb7f-f2b7-42e7-8361-da2ccb61c23d
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 942870a4-3e7e-4a74-b10f-ce4858b4acba
+[NotebookApp | INFO] Kernel started: a5223d05-21aa-4180-b8de-07bc5b434fe0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 942870a4-3e7e-4a74-b10f-ce4858b4acba
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a5223d05-21aa-4180-b8de-07bc5b434fe0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a5223d05-21aa-4180-b8de-07bc5b434fe0
+[NotebookApp | INFO] Starting buffering for a5223d05-21aa-4180-b8de-07bc5b434fe0:5907ea0b99874aae8e982ed47e157200
+[NotebookApp | INFO] Starting buffering for 942870a4-3e7e-4a74-b10f-ce4858b4acba:8342bb11d39643c2975c77110992831c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a5223d05-21aa-4180-b8de-07bc5b434fe0
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for a5223d05-21aa-4180-b8de-07bc5b434fe0:1d854e6eced24fa084c9cd92ea52dead
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a5223d05-21aa-4180-b8de-07bc5b434fe0
+[NotebookApp | INFO] Starting buffering for a5223d05-21aa-4180-b8de-07bc5b434fe0:e4b9b518e01243e28f982d470c280f96
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: a5223d05-21aa-4180-b8de-07bc5b434fe0
+[NotebookApp | INFO] Kernel shutdown: 942870a4-3e7e-4a74-b10f-ce4858b4acba
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: dffa7fd8-ee50-4f41-9869-44d75518570c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dffa7fd8-ee50-4f41-9869-44d75518570c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dffa7fd8-ee50-4f41-9869-44d75518570c
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for dffa7fd8-ee50-4f41-9869-44d75518570c:ccb43408d8f445d08c3d3bca57a888a3
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: dffa7fd8-ee50-4f41-9869-44d75518570c
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: bf767795-0cf8-48f4-8be9-a55c0f12a79e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel bf767795-0cf8-48f4-8be9-a55c0f12a79e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel bf767795-0cf8-48f4-8be9-a55c0f12a79e
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for bf767795-0cf8-48f4-8be9-a55c0f12a79e:d60ea513a4d347ee930aa64430c5f4cd
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: bf767795-0cf8-48f4-8be9-a55c0f12a79e
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: afbf8e21-1d6d-435d-9e2c-851ea32691cc
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel afbf8e21-1d6d-435d-9e2c-851ea32691cc
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for afbf8e21-1d6d-435d-9e2c-851ea32691cc:b13236eaf84f4e92a4f4d33464b0fef4
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel afbf8e21-1d6d-435d-9e2c-851ea32691cc
+[NotebookApp | INFO] Starting buffering for afbf8e21-1d6d-435d-9e2c-851ea32691cc:c7b4d9e91f8244f88b5f02c1ab0fb140
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel afbf8e21-1d6d-435d-9e2c-851ea32691cc
+[NotebookApp | INFO] Starting buffering for afbf8e21-1d6d-435d-9e2c-851ea32691cc:d2a008a5e7b24d87870a5bf34217fed3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel afbf8e21-1d6d-435d-9e2c-851ea32691cc
+[NotebookApp | WARNING] WebSocket ping timeout after 119981 ms.
+[NotebookApp | INFO] Starting buffering for afbf8e21-1d6d-435d-9e2c-851ea32691cc:43234fca448f4729877375955a4e112e
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: afbf8e21-1d6d-435d-9e2c-851ea32691cc
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 3cb909a8-1d96-41a7-b728-ed36f1a9046e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3cb909a8-1d96-41a7-b728-ed36f1a9046e
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 3cb909a8-1d96-41a7-b728-ed36f1a9046e:eab2253acc434c27897f5db78f0286d4
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 3cb909a8-1d96-41a7-b728-ed36f1a9046e
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 299ece2d-db7f-42a4-8674-a4bcccd72d0c
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 299ece2d-db7f-42a4-8674-a4bcccd72d0c
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: b7542822-c394-4cee-9770-f3c0fae50317
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b7542822-c394-4cee-9770-f3c0fae50317
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for b7542822-c394-4cee-9770-f3c0fae50317:17d7adf6178849779ae47edfee2e92f6
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: b7542822-c394-4cee-9770-f3c0fae50317
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 1cc58f67-79d8-4779-9626-3ad97fa04d38
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1cc58f67-79d8-4779-9626-3ad97fa04d38
+[NotebookApp | INFO] Starting buffering for 1cc58f67-79d8-4779-9626-3ad97fa04d38:b3aa4fd59513475abb7621e4b7e18f1a
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 1cc58f67-79d8-4779-9626-3ad97fa04d38
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 85fdb4ed-d96b-47ee-a793-ca7706087d11
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 85fdb4ed-d96b-47ee-a793-ca7706087d11
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 85fdb4ed-d96b-47ee-a793-ca7706087d11
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 85fdb4ed-d96b-47ee-a793-ca7706087d11:56b797e1d5f347e3b8edbe0c60a60081
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 85fdb4ed-d96b-47ee-a793-ca7706087d11
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: d055139d-6a84-4bd9-843e-688e7841144d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d055139d-6a84-4bd9-843e-688e7841144d
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for d055139d-6a84-4bd9-843e-688e7841144d:ced4ce2308824ba2863685ba53ad6670
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: d055139d-6a84-4bd9-843e-688e7841144d
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 1d700f88-ca07-4525-8251-307276e3ac92
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1d700f88-ca07-4525-8251-307276e3ac92
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 1d700f88-ca07-4525-8251-307276e3ac92:72c6b2ec85b94af59a00aa7ac7d71794
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 1d700f88-ca07-4525-8251-307276e3ac92
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: e6b943f5-ecfa-4a3e-aa1c-e18d3df7b1f4
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6b943f5-ecfa-4a3e-aa1c-e18d3df7b1f4
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for e6b943f5-ecfa-4a3e-aa1c-e18d3df7b1f4:897f44e4a0ed4e4d8ff41db20b2f9370
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: e6b943f5-ecfa-4a3e-aa1c-e18d3df7b1f4
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 22b2d7c2-2540-4b4b-8870-40a166a63355
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 22b2d7c2-2540-4b4b-8870-40a166a63355
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 22b2d7c2-2540-4b4b-8870-40a166a63355
+[NotebookApp | INFO] Starting buffering for 22b2d7c2-2540-4b4b-8870-40a166a63355:15dea2e5fe854acfbf324370793ffcce
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 22b2d7c2-2540-4b4b-8870-40a166a63355
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 55b4057f-65a3-4ea4-9251-161e3f6086e3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 55b4057f-65a3-4ea4-9251-161e3f6086e3
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 55b4057f-65a3-4ea4-9251-161e3f6086e3:2f183279b39747f6977891865126093c
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 55b4057f-65a3-4ea4-9251-161e3f6086e3
+[NotebookApp | INFO] Starting buffering for 55b4057f-65a3-4ea4-9251-161e3f6086e3:f85b8b9016df4344bfd8d76217bcc8da
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 55b4057f-65a3-4ea4-9251-161e3f6086e3
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 2abb23dc-8752-4d31-9812-375340783b2a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2abb23dc-8752-4d31-9812-375340783b2a
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 2abb23dc-8752-4d31-9812-375340783b2a:03495185f1764112882419c873063c28
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2abb23dc-8752-4d31-9812-375340783b2a
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 2abb23dc-8752-4d31-9812-375340783b2a:ed6ae65b88b449718ebfb57de659581c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2abb23dc-8752-4d31-9812-375340783b2a
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 2abb23dc-8752-4d31-9812-375340783b2a:a36f1eca20fe45ae8c09aba7bfa1fbb4
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 2abb23dc-8752-4d31-9812-375340783b2a
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-pilgrim or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 0e811b70-d43b-47dc-a0c6-550884f581ad
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0e811b70-d43b-47dc-a0c6-550884f581ad
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 0e811b70-d43b-47dc-a0c6-550884f581ad:d4e2e8534692499d817117932ca3e033
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0e811b70-d43b-47dc-a0c6-550884f581ad
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 0e811b70-d43b-47dc-a0c6-550884f581ad:43b5356e03834ae088d9cd9a91332f5b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0e811b70-d43b-47dc-a0c6-550884f581ad
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 0e811b70-d43b-47dc-a0c6-550884f581ad:6b6ec4a322484da69885198b23894203
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0e811b70-d43b-47dc-a0c6-550884f581ad
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 0e811b70-d43b-47dc-a0c6-550884f581ad:4009c834a41b4bf1844a2550181b9a0e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0e811b70-d43b-47dc-a0c6-550884f581ad
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/Using Jupyter Notebooks.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | ERROR] Uncaught exception GET /nbconvert/ipynb/Using%20Jupyter%20Notebooks.ipynb?download=true (192.168.10.212)
+    HTTPServerRequest(protocol='http', host='mission-pilgrim-3000.codio.io', method='GET', uri='/nbconvert/ipynb/Using%20Jupyter%20Notebooks.ipynb?download=true', version='HTTP/1.1', remote_ip='192.168.10.212')
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.4/dist-packages/tornado/web.py", line 1590, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/usr/local/lib/python3.4/dist-packages/tornado/web.py", line 3006, in wrapper
+        return method(self, *args, **kwargs)
+      File "/usr/local/lib/python3.4/dist-packages/notebook/nbconvert/handlers.py", line 84, in get
+        exporter = get_exporter(format, config=self.config, log=self.log)
+      File "/usr/local/lib/python3.4/dist-packages/notebook/nbconvert/handlers.py", line 66, in get_exporter
+        Exporter = get_exporter(format)
+      File "/usr/local/lib/python3.4/dist-packages/nbconvert/exporters/base.py", line 110, in get_exporter
+        % (name, ', '.join(get_export_names())))
+    ValueError: Unknown exporter "ipynb", did you mean one of: asciidoc, custom, html, latex, markdown, notebook, pdf, python, rst, script, slides?
+[NotebookApp | ERROR] {
+      "Connection": "upgrade",
+      "Cookie": "_xsrf=2|8baa999f|c1f28a6c0d78a24733c0f7b81fbf0402|1552083861; dynamic_session_complex-plato=eaa06358-a352-48da-8567-d3b692f36fe5; dynamic_session_mission-pilgrim=add63825-a13f-4045-a3d6-a48947a6ab0d; dynamic_session_maze-silence=461c7e24-6ce6-4617-9aab-5bbbfbeaccae; dynamic_session_jimmy-stop=114b0413-0be2-451e-bcf2-2f2cc19f0712; dynamic_session_plastic-talent=3766e386-1ebb-422b-a215-05dc93081199",
+      "X-Forwarded-Proto": "https",
+      "X-Real-Ip": "74.111.8.83",
+      "Host": "mission-pilgrim-3000.codio.io",
+      "Referer": "https://mission-pilgrim-3000.codio.io/notebooks/Using%20Jupyter%20Notebooks.ipynb",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+      "Accept-Encoding": "gzip, deflate, br",
+      "X-Codio-Host": "mission-pilgrim.codio.io",
+      "Accept-Language": "en-US,en;q=0.9",
+      "X-Forwarded-For": "74.111.8.83",
+      "Dnt": "1",
+      "Upgrade-Insecure-Requests": "1",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36",
+      "X-Forwarded-Port": "443"
+    }
+[NotebookApp | ERROR] 500 GET /nbconvert/ipynb/Using%20Jupyter%20Notebooks.ipynb?download=true (192.168.10.212) 43.39ms referer=https://mission-pilgrim-3000.codio.io/notebooks/Using%20Jupyter%20Notebooks.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0e811b70-d43b-47dc-a0c6-550884f581ad
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | WARNING] Notebook .ipynb_checkpoints/Facial_recognition-checkpoint.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b893418a-d30f-43a7-b89a-9860bdfdbeae
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b893418a-d30f-43a7-b89a-9860bdfdbeae
+[NotebookApp | INFO] Kernel started: a5f7ac6b-528b-4bb5-a539-c6c8f64b4280
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a5f7ac6b-528b-4bb5-a539-c6c8f64b4280
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0e811b70-d43b-47dc-a0c6-550884f581ad
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0e811b70-d43b-47dc-a0c6-550884f581ad
+[NotebookApp | INFO] Starting buffering for b893418a-d30f-43a7-b89a-9860bdfdbeae:b8eb37fc1e1f447f906ef392b1984662
+[NotebookApp | INFO] Starting buffering for a5f7ac6b-528b-4bb5-a539-c6c8f64b4280:9578469007c743b1b2d8fe545dc3036e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0e811b70-d43b-47dc-a0c6-550884f581ad
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0e811b70-d43b-47dc-a0c6-550884f581ad
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0e811b70-d43b-47dc-a0c6-550884f581ad
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(declare-korea or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: cc1a87bb-3fba-4eca-af9d-07b7a8435b33
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cc1a87bb-3fba-4eca-af9d-07b7a8435b33
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for cc1a87bb-3fba-4eca-af9d-07b7a8435b33:9919951b316c4a5b88baa9c24ae38a67
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cc1a87bb-3fba-4eca-af9d-07b7a8435b33
+[NotebookApp | INFO] Starting buffering for cc1a87bb-3fba-4eca-af9d-07b7a8435b33:f993f6b6ef1d4a6784360a1d8fd5ade7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cc1a87bb-3fba-4eca-af9d-07b7a8435b33
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cartel-elegant or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(jupiter-nominal or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 0f8c9dcc-2354-47fd-97b9-8323f9773779
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0f8c9dcc-2354-47fd-97b9-8323f9773779
+[NotebookApp | INFO] Starting buffering for 0f8c9dcc-2354-47fd-97b9-8323f9773779:90bad0962d104c40b8ff103fadec8a6d
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(sabrina-academy or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: bc6de1eb-5224-42ef-99d9-49940fb132f1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel bc6de1eb-5224-42ef-99d9-49940fb132f1
+[NotebookApp | INFO] Starting buffering for bc6de1eb-5224-42ef-99d9-49940fb132f1:133028ceaae440a8996263d71920c2ba
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: bc6de1eb-5224-42ef-99d9-49940fb132f1
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(sabrina-academy or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 2e8f0425-0f2e-4d14-a297-baa2122a59d5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2e8f0425-0f2e-4d14-a297-baa2122a59d5
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 2e8f0425-0f2e-4d14-a297-baa2122a59d5:c1985c56b3f44a0fb9621c05727d4525
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 2e8f0425-0f2e-4d14-a297-baa2122a59d5
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(sweden-marble or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(sweden-marble or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(yellow-infant or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: af0e62d4-20b9-4db4-9396-df881c9e396b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel af0e62d4-20b9-4db4-9396-df881c9e396b
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for af0e62d4-20b9-4db4-9396-df881c9e396b:813638a95dfb498a890c957c4ba38e14
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel af0e62d4-20b9-4db4-9396-df881c9e396b
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for af0e62d4-20b9-4db4-9396-df881c9e396b:27f8d297a8684d6880794d69b17b64f3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel af0e62d4-20b9-4db4-9396-df881c9e396b
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for af0e62d4-20b9-4db4-9396-df881c9e396b:c6d44464e1884f9fadc0720660b16857
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel af0e62d4-20b9-4db4-9396-df881c9e396b
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for af0e62d4-20b9-4db4-9396-df881c9e396b:d26715d7b3e34070b53f72349b60e6f5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel af0e62d4-20b9-4db4-9396-df881c9e396b
+[NotebookApp | INFO] Starting buffering for af0e62d4-20b9-4db4-9396-df881c9e396b:049a6f816a344c4194362f3b356da2e6
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(viking-malta or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f13e35ac-bcad-4534-b11e-5722ce5bd17d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f13e35ac-bcad-4534-b11e-5722ce5bd17d
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(ladder-voyage or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 68b30a95-0ba9-4d86-a4c5-1f11c9997d2b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 68b30a95-0ba9-4d86-a4c5-1f11c9997d2b
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 68b30a95-0ba9-4d86-a4c5-1f11c9997d2b:7a53768cb54840088566a5c746f06f9f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 68b30a95-0ba9-4d86-a4c5-1f11c9997d2b
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 68b30a95-0ba9-4d86-a4c5-1f11c9997d2b:9668f9988c6b44cb9062f1e25332ff85
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 68b30a95-0ba9-4d86-a4c5-1f11c9997d2b
+[NotebookApp | INFO] Starting buffering for 68b30a95-0ba9-4d86-a4c5-1f11c9997d2b:095ad3bb47104febb44f8ae7eeb7bc6f
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 68b30a95-0ba9-4d86-a4c5-1f11c9997d2b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(savage-alamo or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(savage-alamo or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: dc365553-cdea-4eb8-8390-ac748bee981e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dc365553-cdea-4eb8-8390-ac748bee981e
+[NotebookApp | INFO] Starting buffering for dc365553-cdea-4eb8-8390-ac748bee981e:fc846d0d8df34e508354f2e3b17f3275
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: dc365553-cdea-4eb8-8390-ac748bee981e
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(savage-alamo or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: c462fcfd-9c91-49d6-bca6-16ae83d05676
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c462fcfd-9c91-49d6-bca6-16ae83d05676
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for c462fcfd-9c91-49d6-bca6-16ae83d05676:197e91aa47824a48942b3994d7bd1c5b
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: c462fcfd-9c91-49d6-bca6-16ae83d05676
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(savage-alamo or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 0f11c3b6-32b7-4383-a3ea-f30adf18d49b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0f11c3b6-32b7-4383-a3ea-f30adf18d49b
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 0f11c3b6-32b7-4383-a3ea-f30adf18d49b:a0eb8d3f65ac49fb81bc2ffbafcd44fa
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 0f11c3b6-32b7-4383-a3ea-f30adf18d49b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(savage-alamo or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 35c2235d-25bb-4f1d-9e98-d6498c128cda
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 35c2235d-25bb-4f1d-9e98-d6498c128cda
+[NotebookApp | INFO] Starting buffering for 35c2235d-25bb-4f1d-9e98-d6498c128cda:35961aad9c5d497b8d42814aadff6366
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 35c2235d-25bb-4f1d-9e98-d6498c128cda
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 35c2235d-25bb-4f1d-9e98-d6498c128cda:679ec069c2534beab52c9391c5770195
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 35c2235d-25bb-4f1d-9e98-d6498c128cda
+[NotebookApp | INFO] Starting buffering for 35c2235d-25bb-4f1d-9e98-d6498c128cda:be4174b83dff45e7b6189b3d99e490f1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 35c2235d-25bb-4f1d-9e98-d6498c128cda
+[NotebookApp | INFO] Starting buffering for 35c2235d-25bb-4f1d-9e98-d6498c128cda:a5501aef73cb4baa91921042013eda25
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 35c2235d-25bb-4f1d-9e98-d6498c128cda
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(journal-orange or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f0d7abcd-4774-43fd-a9d9-83e8404f8565
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0d7abcd-4774-43fd-a9d9-83e8404f8565
+[NotebookApp | INFO] Starting buffering for f0d7abcd-4774-43fd-a9d9-83e8404f8565:22792ebdac6947d4848711220456c322
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0d7abcd-4774-43fd-a9d9-83e8404f8565
+[NotebookApp | INFO] Starting buffering for f0d7abcd-4774-43fd-a9d9-83e8404f8565:fb0e3b00c5354c99bca3019fc29407ab
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0d7abcd-4774-43fd-a9d9-83e8404f8565
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: f0d7abcd-4774-43fd-a9d9-83e8404f8565
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(journal-orange or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 15b251be-f991-429a-ac50-8c8073f59191
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 15b251be-f991-429a-ac50-8c8073f59191
+[NotebookApp | INFO] Starting buffering for 15b251be-f991-429a-ac50-8c8073f59191:84e34e74e79d44d782c8a0cff789c4a8
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 15b251be-f991-429a-ac50-8c8073f59191
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(journal-orange or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: dad96c96-f9a1-44c7-9d3d-a410300874c3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dad96c96-f9a1-44c7-9d3d-a410300874c3
+[NotebookApp | INFO] Starting buffering for dad96c96-f9a1-44c7-9d3d-a410300874c3:91e4e2ce5f7d4a949eca8701ff1fda76
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dad96c96-f9a1-44c7-9d3d-a410300874c3
+[NotebookApp | INFO] Starting buffering for dad96c96-f9a1-44c7-9d3d-a410300874c3:c433aa0a82524aeaa95f926a6b245e61
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dad96c96-f9a1-44c7-9d3d-a410300874c3
+[NotebookApp | INFO] Starting buffering for dad96c96-f9a1-44c7-9d3d-a410300874c3:76eefed288154f59b88549a0f5b878dd
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dad96c96-f9a1-44c7-9d3d-a410300874c3
+[NotebookApp | INFO] Starting buffering for dad96c96-f9a1-44c7-9d3d-a410300874c3:10831767069a4fe38f61e9af8d44fff6
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dad96c96-f9a1-44c7-9d3d-a410300874c3
+[NotebookApp | INFO] Starting buffering for dad96c96-f9a1-44c7-9d3d-a410300874c3:26245a8ae2a54ea4bf8185885c38b0c4
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(editor-brush or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(editor-brush or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f703aa78-e7c6-4d45-bbeb-3ce9c42ccf3d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f703aa78-e7c6-4d45-bbeb-3ce9c42ccf3d
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for f703aa78-e7c6-4d45-bbeb-3ce9c42ccf3d:98adfaff0cf44f6eb32649ab1616fe5d
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: f703aa78-e7c6-4d45-bbeb-3ce9c42ccf3d
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(editor-brush or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: b2435497-433e-4660-a8fa-0006e2603fbc
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b2435497-433e-4660-a8fa-0006e2603fbc
+[NotebookApp | INFO] Starting buffering for b2435497-433e-4660-a8fa-0006e2603fbc:ea980b5030d34c458d0c94999842fd1d
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: b2435497-433e-4660-a8fa-0006e2603fbc
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(editor-brush or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: f9cd1261-4006-4598-8e35-288108acfe5a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f9cd1261-4006-4598-8e35-288108acfe5a
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for f9cd1261-4006-4598-8e35-288108acfe5a:5cce43df294648ecab604fdf689f1c73
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f9cd1261-4006-4598-8e35-288108acfe5a
+[NotebookApp | INFO] Starting buffering for f9cd1261-4006-4598-8e35-288108acfe5a:680853ee15b849168f45fbc98d776297
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f9cd1261-4006-4598-8e35-288108acfe5a
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/Using Jupyter Notebooks.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for f9cd1261-4006-4598-8e35-288108acfe5a:46f15f59aeba420d985acb2f0a3840ad
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f9cd1261-4006-4598-8e35-288108acfe5a
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for f9cd1261-4006-4598-8e35-288108acfe5a:9e1fec04a76f44609f4660298b6834e2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f9cd1261-4006-4598-8e35-288108acfe5a
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for f9cd1261-4006-4598-8e35-288108acfe5a:da25b17cf909416b86702207062a76ed
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f9cd1261-4006-4598-8e35-288108acfe5a
+[NotebookApp | INFO] Starting buffering for f9cd1261-4006-4598-8e35-288108acfe5a:42def5e259a94c21865eb595664804b0
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: f9cd1261-4006-4598-8e35-288108acfe5a
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(editor-brush or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 427935c9-ae63-45be-adbb-22326783ac85
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 427935c9-ae63-45be-adbb-22326783ac85
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | WARNING] WebSocket ping timeout after 119977 ms.
+[NotebookApp | INFO] Starting buffering for 427935c9-ae63-45be-adbb-22326783ac85:c4ce8743c6eb49e1bb4f2910fadc51a5
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 427935c9-ae63-45be-adbb-22326783ac85
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(editor-brush or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 90f850f4-8e37-4490-958b-9b22892eba2e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 90f850f4-8e37-4490-958b-9b22892eba2e
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 90f850f4-8e37-4490-958b-9b22892eba2e:0b528b91795341b2a7be3603eb3ea6b1
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 90f850f4-8e37-4490-958b-9b22892eba2e
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(editor-brush or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: fe14e6eb-f9b9-4150-aa7b-49cac327c17f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fe14e6eb-f9b9-4150-aa7b-49cac327c17f
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for fe14e6eb-f9b9-4150-aa7b-49cac327c17f:df170483e4a3483d8838617c818c3a31
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: fe14e6eb-f9b9-4150-aa7b-49cac327c17f
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(editor-brush or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 7c4db3b8-53fc-4d0d-919c-a1429d9ea83b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7c4db3b8-53fc-4d0d-919c-a1429d9ea83b
+[NotebookApp | INFO] Starting buffering for 7c4db3b8-53fc-4d0d-919c-a1429d9ea83b:ab117ce07a864863b33e8721cd7e0c3f
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 7c4db3b8-53fc-4d0d-919c-a1429d9ea83b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(editor-brush or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 518669c8-5a3d-42fc-881b-a6e31240f056
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 518669c8-5a3d-42fc-881b-a6e31240f056
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 518669c8-5a3d-42fc-881b-a6e31240f056:fcf2cba6ed624942a34c793d4e353730
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 518669c8-5a3d-42fc-881b-a6e31240f056
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(editor-brush or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: f04aba7f-3228-467b-9bd1-8620cead745d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f04aba7f-3228-467b-9bd1-8620cead745d
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: f04aba7f-3228-467b-9bd1-8620cead745d
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(editor-brush or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(editor-brush or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: a7b997cc-b75a-48ee-a5b9-4bfb48daa242
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a7b997cc-b75a-48ee-a5b9-4bfb48daa242
+[NotebookApp | INFO] Starting buffering for a7b997cc-b75a-48ee-a5b9-4bfb48daa242:5da55ca409e04286a0806727ad0bcf03
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a7b997cc-b75a-48ee-a5b9-4bfb48daa242
+[NotebookApp | INFO] Starting buffering for a7b997cc-b75a-48ee-a5b9-4bfb48daa242:833aad92a76e498a95276d59d67630a1
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a7b997cc-b75a-48ee-a5b9-4bfb48daa242
+[NotebookApp | INFO] Starting buffering for a7b997cc-b75a-48ee-a5b9-4bfb48daa242:e4ceb7d327a44571bd58977d3719d947
+[NotebookApp | WARNING] Notebook Using Jupyter Notebooks.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a7b997cc-b75a-48ee-a5b9-4bfb48daa242
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for a7b997cc-b75a-48ee-a5b9-4bfb48daa242:b5fcd80a48474f06801861e891305480
+[NotebookApp | INFO] Kernel restarted: a7b997cc-b75a-48ee-a5b9-4bfb48daa242
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a7b997cc-b75a-48ee-a5b9-4bfb48daa242
+[NotebookApp | INFO] Restoring connection for a7b997cc-b75a-48ee-a5b9-4bfb48daa242:b5fcd80a48474f06801861e891305480
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for a7b997cc-b75a-48ee-a5b9-4bfb48daa242:b5fcd80a48474f06801861e891305480
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: a7b997cc-b75a-48ee-a5b9-4bfb48daa242
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(editor-brush or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(heart-hello or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 11d70491-a6d3-463e-a75f-80a384a051a9
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 11d70491-a6d3-463e-a75f-80a384a051a9
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 11d70491-a6d3-463e-a75f-80a384a051a9:211b7c23f1db41508ccc0a6e1b5dcd08
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(analog-impact or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 085a8157-220b-46c9-ae08-d418bca3376a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 085a8157-220b-46c9-ae08-d418bca3376a
+[NotebookApp | INFO] Starting buffering for 085a8157-220b-46c9-ae08-d418bca3376a:5168238e7e1e46d5aa5565aa23870352
+[NotebookApp | INFO] Kernel restarted: 085a8157-220b-46c9-ae08-d418bca3376a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 085a8157-220b-46c9-ae08-d418bca3376a
+[NotebookApp | INFO] Restoring connection for 085a8157-220b-46c9-ae08-d418bca3376a:5168238e7e1e46d5aa5565aa23870352
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 085a8157-220b-46c9-ae08-d418bca3376a:5168238e7e1e46d5aa5565aa23870352
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 085a8157-220b-46c9-ae08-d418bca3376a
+[NotebookApp | INFO] Starting buffering for 085a8157-220b-46c9-ae08-d418bca3376a:35159b0c0e444d1b8702e68580b7a752
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 085a8157-220b-46c9-ae08-d418bca3376a
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(analog-impact or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 422b8ec0-70db-496e-956f-bcce87d97e16
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 422b8ec0-70db-496e-956f-bcce87d97e16
+[NotebookApp | INFO] Starting buffering for 422b8ec0-70db-496e-956f-bcce87d97e16:548b48311b8d455b8034718573a8ab03
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 422b8ec0-70db-496e-956f-bcce87d97e16
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(analog-impact or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 3f16e7f3-172d-47ec-ab13-74081ccfd47c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3f16e7f3-172d-47ec-ab13-74081ccfd47c
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 3f16e7f3-172d-47ec-ab13-74081ccfd47c:5a1d160721bd48d4817bcfc90dbb042f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3f16e7f3-172d-47ec-ab13-74081ccfd47c
+[NotebookApp | INFO] Saving file at /Using Jupyter Notebooks.ipynb
+[NotebookApp | INFO] Starting buffering for 3f16e7f3-172d-47ec-ab13-74081ccfd47c:206f5c4058cd462daa629628be4f543d
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 3f16e7f3-172d-47ec-ab13-74081ccfd47c
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(analog-impact or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(resume-absorb or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(resume-absorb or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: da24900b-6f09-4dec-b079-204f3b662f53
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel da24900b-6f09-4dec-b079-204f3b662f53
+[NotebookApp | INFO] Starting buffering for da24900b-6f09-4dec-b079-204f3b662f53:7aa31fba23294c02a0beba9a4b6afcfb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(alpine-fiber or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(alpine-fiber or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).

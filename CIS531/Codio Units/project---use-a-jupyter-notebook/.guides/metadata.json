@@ -1,0 +1,37 @@
+{
+ "sections": [
+  {
+   "id": "275335f9-63e5-b584-f131-765c7c7a7429",
+   "title": "Using Jupyter Notebooks",
+   "files": [
+    {
+     "path": "Using Jupyter Notebooks.ipynb",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Using-Jupyter-Notebooks-2753.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [
+  ".guides/load.js"
+ ],
+ "lexikonTopic": "",
+ "suppressPageNumbering": true,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": true,
+ "hideSectionsToggle": true,
+ "hideBackToDashboard": true,
+ "protectLayout": true
+}

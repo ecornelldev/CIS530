@@ -1,0 +1,1747 @@
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(poetic-combine or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook source/.ipynb_checkpoints/Facial_recognition-checkpoint.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 31c81cfd-c76e-451a-8454-365eaa0453b5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 31c81cfd-c76e-451a-8454-365eaa0453b5
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 1e78dd34-ba0a-413b-a670-48c9dc73c77c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1e78dd34-ba0a-413b-a670-48c9dc73c77c
+[NotebookApp | INFO] Saving file at /source/.ipynb_checkpoints/Facial_recognition-checkpoint.ipynb
+[NotebookApp | INFO] Saving file at /source/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Validating '/home/codio/workspace/source/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] 302 GET /notebooks/ (192.168.10.212) 1.26ms
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO] The installation of the nbgrader extensions are now managed through the
+[ExtensionApp | INFO] `jupyter nbextension` and `jupyter serverextension` commands.
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO] To install and enable the nbextensions (assignment_list and create_assignment) run:
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO]     $ jupyter nbextension install --sys-prefix --py nbgrader
+[ExtensionApp | INFO]     $ jupyter nbextension enable --sys-prefix --py nbgrader
+[ExtensionApp | INFO]     
+[ExtensionApp | INFO] To install the server extension (assignment_list) run:
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO]     $ jupyter serverextension enable --sys-prefix --py nbgrader
+[ExtensionApp | INFO] 
+[ExtensionApp | INFO] To install for all users, replace `--sys-prefix` by `--system`.
+[ExtensionApp | INFO] To install only for the current user replace `--sys-prefix` by `--user`.
+[ExtensionApp | INFO] 
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | WARNING] No notebooks were matched in '/home/codio/workspace/source/./facial_recognition'
+[NotebookApp | ERROR] No notebooks were matched by '/home/codio/workspace/source/./facial_recognition'
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | WARNING] Removing existing assignment: /home/codio/workspace/release/facial_recognition
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/.DS_Store -> /home/codio/workspace/release/./facial_recognition/.DS_Store
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/faces.mat -> /home/codio/workspace/release/./facial_recognition/faces.mat
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/helper_functions.py -> /home/codio/workspace/release/./facial_recognition/helper_functions.py
+[NotebookApp | INFO] Updating/creating assignment 'facial_recognition': {}
+[NotebookApp | INFO] Converting notebook /home/codio/workspace/source/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Writing 22671 bytes to /home/codio/workspace/release/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[AssignApp | ERROR] An assignment id must be specified, either as an argument or with --assignment
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | WARNING] Removing existing assignment: /home/codio/workspace/release/facial_recognition
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/.DS_Store -> /home/codio/workspace/release/./facial_recognition/.DS_Store
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/faces.mat -> /home/codio/workspace/release/./facial_recognition/faces.mat
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/helper_functions.py -> /home/codio/workspace/release/./facial_recognition/helper_functions.py
+[NotebookApp | INFO] Updating/creating assignment 'facial_recognition': {}
+[NotebookApp | INFO] Converting notebook /home/codio/workspace/source/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Writing 22671 bytes to /home/codio/workspace/release/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[AssignApp | ERROR] An assignment id must be specified, either as an argument or with --assignment
+[AssignApp | ERROR] No notebooks were matched by '/home/codio/workspace/source/./K-Nearest Neighbors'
+[AssignApp | ERROR] No notebooks were matched by '/home/codio/workspace/source/./K-Nearest Neighbors/facial_recognition'
+[AssignApp | ERROR] No notebooks were matched by '/home/codio/workspace/source/./K-Nearest Neighbors'
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | WARNING] 404 GET /api/contents/source/Facial_recognition.ipynb?content=0&_=1550240583840 (192.168.10.212): No such file or directory: source/Facial_recognition.ipynb
+[NotebookApp | WARNING] No such file or directory: source/Facial_recognition.ipynb
+[NotebookApp | WARNING] 404 GET /api/contents/source/Facial_recognition.ipynb?content=0&_=1550240583840 (192.168.10.212) 1.91ms referer=https://poetic-combine-3000.codio.io/notebooks/source/Facial_recognition.ipynb
+[NotebookApp | INFO] Uploading file to /source/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/server_extensions/assignment_list/handlers.py", line 65, in list_released_assignments
+        assignments = lister.start()
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/list.py", line 129, in start
+        super(ExchangeList, self).start()
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/exchange.py", line 122, in start
+        self.ensure_root()
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/exchange.py", line 100, in ensure_root
+        self.fail("Unwritable directory, please contact your instructor: {}".format(self.root))
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/exchange.py", line 78, in fail
+        raise ExchangeError(msg)
+    nbgrader.exchange.exchange.ExchangeError: Unwritable directory, please contact your instructor: /tmp/exchange
+    
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 6d3adcfe-cc66-4d07-9f6f-3421ef40fd16
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6d3adcfe-cc66-4d07-9f6f-3421ef40fd16
+[NotebookApp | INFO] Starting buffering for 6d3adcfe-cc66-4d07-9f6f-3421ef40fd16:bb9da88ef11e4532b8fa4fdf32d60fff
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/server_extensions/assignment_list/handlers.py", line 65, in list_released_assignments
+        assignments = lister.start()
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/list.py", line 129, in start
+        super(ExchangeList, self).start()
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/exchange.py", line 122, in start
+        self.ensure_root()
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/exchange.py", line 100, in ensure_root
+        self.fail("Unwritable directory, please contact your instructor: {}".format(self.root))
+      File "/usr/local/lib/python3.4/dist-packages/nbgrader/exchange/exchange.py", line 78, in fail
+        raise ExchangeError(msg)
+    nbgrader.exchange.exchange.ExchangeError: Unwritable directory, please contact your instructor: /tmp/exchange
+    
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Source: /home/codio/workspace/release/./facial_recognition
+[NotebookApp | INFO] Destination: /tmp/exchange/K-Nearest Neighbors/outbound/facial_recognition
+[NotebookApp | INFO] Released as: K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | WARNING] No submissions of 'facial_recognition' for course 'K-Nearest Neighbors' to collect
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Removing released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | WARNING] Removing existing assignment: /home/codio/workspace/release/facial_recognition
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/.DS_Store -> /home/codio/workspace/release/./facial_recognition/.DS_Store
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/faces.mat -> /home/codio/workspace/release/./facial_recognition/faces.mat
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/helper_functions.py -> /home/codio/workspace/release/./facial_recognition/helper_functions.py
+[NotebookApp | INFO] Updating/creating assignment 'facial_recognition': {}
+[NotebookApp | INFO] Converting notebook /home/codio/workspace/source/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Writing 22671 bytes to /home/codio/workspace/release/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Kernel started: 3edc2e0d-4021-4a5d-995d-d50de9fa4a6c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3edc2e0d-4021-4a5d-995d-d50de9fa4a6c
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for 3edc2e0d-4021-4a5d-995d-d50de9fa4a6c:886d5ce7b3424ab3858a499b6f8953a9
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3edc2e0d-4021-4a5d-995d-d50de9fa4a6c
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for 3edc2e0d-4021-4a5d-995d-d50de9fa4a6c:21a9abeec73148008d12a387ea51dca6
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6d3adcfe-cc66-4d07-9f6f-3421ef40fd16
+[NotebookApp | INFO] Saving file at /source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 6d3adcfe-cc66-4d07-9f6f-3421ef40fd16:34266b0b52eb4f1fbda75662cb978fd4
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | WARNING] Removing existing assignment: /home/codio/workspace/release/facial_recognition
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/.DS_Store -> /home/codio/workspace/release/./facial_recognition/.DS_Store
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/faces.mat -> /home/codio/workspace/release/./facial_recognition/faces.mat
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/helper_functions.py -> /home/codio/workspace/release/./facial_recognition/helper_functions.py
+[NotebookApp | INFO] Updating/creating assignment 'facial_recognition': {}
+[NotebookApp | INFO] Converting notebook /home/codio/workspace/source/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Writing 23163 bytes to /home/codio/workspace/release/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3edc2e0d-4021-4a5d-995d-d50de9fa4a6c
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | WARNING] Notebook source/.ipynb_checkpoints/Facial_recognition-checkpoint.ipynb is not trusted
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 31c81cfd-c76e-451a-8454-365eaa0453b5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1e78dd34-ba0a-413b-a670-48c9dc73c77c
+[NotebookApp | INFO] Starting buffering for 1e78dd34-ba0a-413b-a670-48c9dc73c77c:001a947a4c7e4d318be102a18744a561
+[NotebookApp | INFO] Starting buffering for 31c81cfd-c76e-451a-8454-365eaa0453b5:9a36135d6c7446e68cb1aac8ec3955e3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3edc2e0d-4021-4a5d-995d-d50de9fa4a6c
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Submitted assignments:
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 4 kernels
+[NotebookApp | INFO] Kernel shutdown: 1e78dd34-ba0a-413b-a670-48c9dc73c77c
+[NotebookApp | INFO] Kernel shutdown: 31c81cfd-c76e-451a-8454-365eaa0453b5
+[NotebookApp | INFO] Kernel shutdown: 6d3adcfe-cc66-4d07-9f6f-3421ef40fd16
+[NotebookApp | INFO] Kernel shutdown: 3edc2e0d-4021-4a5d-995d-d50de9fa4a6c
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(poetic-combine or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: d0234053-af9f-4c45-93de-74fd8c543abb
+[NotebookApp | WARNING] Notebook source/.ipynb_checkpoints/Facial_recognition-checkpoint.ipynb is not trusted
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 54c6db98-4099-48b4-a8d2-4b05c8cd20bb
+[NotebookApp | INFO] Kernel started: 961f4a60-9755-497c-9b93-941c77d6f8a2
+[NotebookApp | WARNING] Notebook source/.ipynb_checkpoints/Facial_recognition-checkpoint.ipynb is not trusted
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | WARNING] Notebook source/.ipynb_checkpoints/Facial_recognition-checkpoint.ipynb is not trusted
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 54c6db98-4099-48b4-a8d2-4b05c8cd20bb
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 961f4a60-9755-497c-9b93-941c77d6f8a2
+[NotebookApp | INFO] 302 GET /notebooks/ (192.168.10.212) 0.94ms
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | WARNING] Removing existing assignment: /home/codio/workspace/release/facial_recognition
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/.DS_Store -> /home/codio/workspace/release/./facial_recognition/.DS_Store
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/faces.mat -> /home/codio/workspace/release/./facial_recognition/faces.mat
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/helper_functions.py -> /home/codio/workspace/release/./facial_recognition/helper_functions.py
+[NotebookApp | INFO] Updating/creating assignment 'facial_recognition': {}
+[NotebookApp | INFO] Converting notebook /home/codio/workspace/source/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Writing 23163 bytes to /home/codio/workspace/release/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d0234053-af9f-4c45-93de-74fd8c543abb
+[NotebookApp | INFO] Starting buffering for d0234053-af9f-4c45-93de-74fd8c543abb:945df53d55af4129929a32f53b0f2d41
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d0234053-af9f-4c45-93de-74fd8c543abb
+[NotebookApp | INFO] Starting buffering for d0234053-af9f-4c45-93de-74fd8c543abb:1a64b5bb90d746499f226bb4fee92233
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 961f4a60-9755-497c-9b93-941c77d6f8a2
+[NotebookApp | WARNING] delete /source/Facial_recognition.ipynb
+[NotebookApp | WARNING] Skipping trash for /home/codio/workspace/source/Facial_recognition.ipynb, on different device to home directory
+[NotebookApp | INFO] Kernel shutdown: 961f4a60-9755-497c-9b93-941c77d6f8a2
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 62e056d4-124f-49a6-bdf2-816e32ca3369
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 62e056d4-124f-49a6-bdf2-816e32ca3369
+[NotebookApp | INFO] Saving file at /source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 62e056d4-124f-49a6-bdf2-816e32ca3369:f7a2c81918b147f5874ad9ce4fdf70b5
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 62e056d4-124f-49a6-bdf2-816e32ca3369
+[NotebookApp | INFO] Starting buffering for 62e056d4-124f-49a6-bdf2-816e32ca3369:096e6e73fab1419d8156d51e324e73a1
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 62e056d4-124f-49a6-bdf2-816e32ca3369
+[NotebookApp | INFO] Starting buffering for 62e056d4-124f-49a6-bdf2-816e32ca3369:7b6c67a7d34e4866b09e0fd4d4b86426
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | WARNING] Removing existing assignment: /home/codio/workspace/release/facial_recognition
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/.DS_Store -> /home/codio/workspace/release/./facial_recognition/.DS_Store
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/faces.mat -> /home/codio/workspace/release/./facial_recognition/faces.mat
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/helper_functions.py -> /home/codio/workspace/release/./facial_recognition/helper_functions.py
+[NotebookApp | INFO] Updating/creating assignment 'facial_recognition': {}
+[NotebookApp | INFO] Converting notebook /home/codio/workspace/source/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Writing 21330 bytes to /home/codio/workspace/release/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d0234053-af9f-4c45-93de-74fd8c543abb
+[NotebookApp | INFO] Starting buffering for d0234053-af9f-4c45-93de-74fd8c543abb:fdb00db3fc5d4223a27e451e759ef3e9
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] Source: /home/codio/workspace/release/./facial_recognition
+[NotebookApp | INFO] Destination: /tmp/exchange/K-Nearest Neighbors/outbound/facial_recognition
+[NotebookApp | INFO] Released as: K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Released assignments:
+[NotebookApp | INFO] K-Nearest Neighbors facial_recognition
+[NotebookApp | INFO] Starting buffering for 54c6db98-4099-48b4-a8d2-4b05c8cd20bb:9b29862b2bd040e3ba2e572126a413ae
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d0234053-af9f-4c45-93de-74fd8c543abb
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for d0234053-af9f-4c45-93de-74fd8c543abb:fcc244c6a9fc4e408e62efc56cfa390b
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(express-cantina or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 809f5eb3-86b1-4e6c-b1e9-0275692e014c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 809f5eb3-86b1-4e6c-b1e9-0275692e014c
+[NotebookApp | INFO] Starting buffering for 809f5eb3-86b1-4e6c-b1e9-0275692e014c:2047394b12ec47399e119ee6906bab3a
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 809f5eb3-86b1-4e6c-b1e9-0275692e014c
+[NotebookApp | INFO] Starting buffering for 809f5eb3-86b1-4e6c-b1e9-0275692e014c:d7c6a123416c4f7b88194e6592baed98
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 809f5eb3-86b1-4e6c-b1e9-0275692e014c
+[NotebookApp | INFO] 302 GET /notebooks (192.168.10.160) 1.46ms
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: a5f8a7db-da3d-4fec-b95f-39b3117214ff
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a5f8a7db-da3d-4fec-b95f-39b3117214ff
+[NotebookApp | INFO] Saving file at /source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Validating '/home/codio/workspace/source/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for a5f8a7db-da3d-4fec-b95f-39b3117214ff:03c5ada8e04347008e90141d8910b480
+[NotebookApp | INFO] Starting buffering for 809f5eb3-86b1-4e6c-b1e9-0275692e014c:e3e1412a988c43a7842fb3120b8b51e3
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 809f5eb3-86b1-4e6c-b1e9-0275692e014c
+[NotebookApp | INFO] Starting buffering for 809f5eb3-86b1-4e6c-b1e9-0275692e014c:4e699c4ba7e64af584ef01bf88fd0a67
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 809f5eb3-86b1-4e6c-b1e9-0275692e014c
+[NotebookApp | INFO] Starting buffering for 809f5eb3-86b1-4e6c-b1e9-0275692e014c:d0ccc4f713bb420c8b8a04e54c98df97
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 809f5eb3-86b1-4e6c-b1e9-0275692e014c
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /release/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Validating '/home/codio/workspace/release/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for 809f5eb3-86b1-4e6c-b1e9-0275692e014c:dca7aec6196f4c2585c3abc326098010
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: a5f8a7db-da3d-4fec-b95f-39b3117214ff
+[NotebookApp | INFO] Kernel shutdown: 809f5eb3-86b1-4e6c-b1e9-0275692e014c
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(express-cantina or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: f87d4fa8-4e71-4b94-b7d6-b73163e3c476
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f87d4fa8-4e71-4b94-b7d6-b73163e3c476
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: f87d4fa8-4e71-4b94-b7d6-b73163e3c476
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(express-cantina or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: b9825a36-b031-47c3-80d9-085147a3aa6f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b9825a36-b031-47c3-80d9-085147a3aa6f
+[NotebookApp | INFO] Starting buffering for b9825a36-b031-47c3-80d9-085147a3aa6f:e436683dc65240588b370599f9e72a5b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b9825a36-b031-47c3-80d9-085147a3aa6f
+[NotebookApp | INFO] 302 GET /notebooks (192.168.10.205) 1.00ms
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: a9de9f2e-1edb-4f12-a9e4-11ae8ea6c58f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a9de9f2e-1edb-4f12-a9e4-11ae8ea6c58f
+[NotebookApp | INFO] Starting buffering for a9de9f2e-1edb-4f12-a9e4-11ae8ea6c58f:7eed6720c6d44bf48a470ea406fe3ca2
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: a9de9f2e-1edb-4f12-a9e4-11ae8ea6c58f
+[NotebookApp | INFO] Kernel shutdown: b9825a36-b031-47c3-80d9-085147a3aa6f
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(express-cantina or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b2377c56-434d-4a98-8b8d-801bd467039d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b2377c56-434d-4a98-8b8d-801bd467039d
+[NotebookApp | INFO] 302 GET /notebooks (192.168.10.205) 0.96ms
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b317c4b2-45b3-4d68-9487-39d956f4f50a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b317c4b2-45b3-4d68-9487-39d956f4f50a
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | WARNING] Removing existing assignment: /home/codio/workspace/release/facial_recognition
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/faces.mat -> /home/codio/workspace/release/./facial_recognition/faces.mat
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/helper_functions.py -> /home/codio/workspace/release/./facial_recognition/helper_functions.py
+[NotebookApp | INFO] Copying /home/codio/workspace/source/./facial_recognition/.DS_Store -> /home/codio/workspace/release/./facial_recognition/.DS_Store
+[NotebookApp | INFO] Updating/creating assignment 'facial_recognition': {}
+[NotebookApp | INFO] Converting notebook /home/codio/workspace/source/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Writing 21330 bytes to /home/codio/workspace/release/./facial_recognition/Facial_recognition.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | INFO] Starting buffering for b317c4b2-45b3-4d68-9487-39d956f4f50a:2ca2b2e0fe2348038f730ccc7cc492f1
+[NotebookApp | INFO] Starting buffering for b2377c56-434d-4a98-8b8d-801bd467039d:236e200cbc5c4e64950ebe604466f8b4
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: b317c4b2-45b3-4d68-9487-39d956f4f50a
+[NotebookApp | INFO] Kernel shutdown: b2377c56-434d-4a98-8b8d-801bd467039d
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(express-cantina or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook release/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d056a0f5-89eb-4b25-b172-024a84eb0f53
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d056a0f5-89eb-4b25-b172-024a84eb0f53
+[NotebookApp | INFO] 302 GET /notebooks (192.168.10.205) 0.81ms
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /tmp/exchange
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | INFO] Starting buffering for d056a0f5-89eb-4b25-b172-024a84eb0f53:3ee5fc920a4a4d5d8d806c10a40502aa
+[NotebookApp | INFO] Starting buffering for e6fbf092-5917-4a69-b588-67df2b74b15c:aee4b7f876214675b86f8ef8e05256ca
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | INFO] Starting buffering for e6fbf092-5917-4a69-b588-67df2b74b15c:52216632e24448638ed0460a019a1405
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | INFO] Starting buffering for e6fbf092-5917-4a69-b588-67df2b74b15c:6b9e277613b74c79b25f25a4dd0f1142
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | INFO] Starting buffering for e6fbf092-5917-4a69-b588-67df2b74b15c:be2f09e372e44c388d10dd0304cdb143
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | INFO] Saving file at /source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Validating '/home/codio/workspace/source/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | INFO] 302 GET /notebooks (192.168.10.205) 1.04ms
+[NotebookApp | INFO] Uploading file to /source/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: eb32f33f-71ae-447e-85db-0a735a8ea021
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel eb32f33f-71ae-447e-85db-0a735a8ea021
+[NotebookApp | INFO] Saving file at /source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook source/facial_recognition/Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Validating '/home/codio/workspace/source/facial_recognition/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for eb32f33f-71ae-447e-85db-0a735a8ea021:c6b5bd073e544a1a971a4150e9bb6c83
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 31ce58d5-4614-4bab-8ff9-b8ac741491a8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 31ce58d5-4614-4bab-8ff9-b8ac741491a8
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Validating '/home/codio/workspace/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 31ce58d5-4614-4bab-8ff9-b8ac741491a8:971857ee65694b938d818a8b2dbcd6fc
+[NotebookApp | WARNING] 404 GET /notebooks/source/facial_recognition/Facial_recognition.ipynb (192.168.10.160): No such file or directory: source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/source/facial_recognition/Facial_recognition.ipynb (192.168.10.160) 21.81ms referer=https://codio.com/cshew/project-1--k-nearest-neighbors17
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 4 kernels
+[NotebookApp | INFO] Kernel shutdown: 31ce58d5-4614-4bab-8ff9-b8ac741491a8
+[NotebookApp | INFO] Kernel shutdown: d056a0f5-89eb-4b25-b172-024a84eb0f53
+[NotebookApp | INFO] Kernel shutdown: eb32f33f-71ae-447e-85db-0a735a8ea021
+[NotebookApp | INFO] Kernel shutdown: e6fbf092-5917-4a69-b588-67df2b74b15c
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(express-cantina or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] 404 GET /notebooks/source/facial_recognition/Facial_recognition.ipynb (192.168.10.212): No such file or directory: source/facial_recognition/Facial_recognition.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/source/facial_recognition/Facial_recognition.ipynb (192.168.10.212) 69.21ms referer=https://codio.com/cshew/project-1--k-nearest-neighbors17
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(express-cantina or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(violet-totem or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: c7beaf38-b9ef-4ce5-80ac-8705005786c0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c7beaf38-b9ef-4ce5-80ac-8705005786c0
+[NotebookApp | WARNING] WebSocket ping timeout after 119805 ms.
+[NotebookApp | INFO] Starting buffering for c7beaf38-b9ef-4ce5-80ac-8705005786c0:b9c5db27c5d4478eac004f527b980b0f
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: c7beaf38-b9ef-4ce5-80ac-8705005786c0
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(violet-totem or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 45390a8d-095c-4217-9975-442593355f71
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 45390a8d-095c-4217-9975-442593355f71
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 45390a8d-095c-4217-9975-442593355f71
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(violet-totem or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 42659044-c590-4741-abfa-b0b5227f67c2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 42659044-c590-4741-abfa-b0b5227f67c2
+[NotebookApp | INFO] Starting buffering for 42659044-c590-4741-abfa-b0b5227f67c2:aff6c05a9b754b47823c1a410fffdb46
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 42659044-c590-4741-abfa-b0b5227f67c2
+[NotebookApp | INFO] Starting buffering for 42659044-c590-4741-abfa-b0b5227f67c2:f4a65ac463b241728754e0bbdd66d805
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 42659044-c590-4741-abfa-b0b5227f67c2
+[NotebookApp | INFO] Starting buffering for 42659044-c590-4741-abfa-b0b5227f67c2:91be4caaab2447d2ad3794c9a84eb18a
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(olivia-summer or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 9803ebce-85d5-4686-9640-fed0c09c5c98
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9803ebce-85d5-4686-9640-fed0c09c5c98
+[NotebookApp | INFO] Starting buffering for 9803ebce-85d5-4686-9640-fed0c09c5c98:1a12553a5d38432f85a636b6aacb604f
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 9803ebce-85d5-4686-9640-fed0c09c5c98
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(olivia-summer or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f213b534-8a98-460e-b1ef-78e305946ccd
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f213b534-8a98-460e-b1ef-78e305946ccd
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | WARNING] Trusting notebook /Facial_recognition.ipynb
+[NotebookApp | INFO] Starting buffering for f213b534-8a98-460e-b1ef-78e305946ccd:e40ee14aac4541fe864bef50df35621f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f213b534-8a98-460e-b1ef-78e305946ccd
+[NotebookApp | INFO] Starting buffering for f213b534-8a98-460e-b1ef-78e305946ccd:dbcdef1ceaf14474bb920debe86e4b6a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f213b534-8a98-460e-b1ef-78e305946ccd
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: f213b534-8a98-460e-b1ef-78e305946ccd
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(olivia-summer or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cinema-deposit or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 40a03ea5-49ce-417a-9de0-8218b16b129b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 40a03ea5-49ce-417a-9de0-8218b16b129b
+[NotebookApp | INFO] Starting buffering for 40a03ea5-49ce-417a-9de0-8218b16b129b:8c0f3071a4bf47d6a40c7a5fc154bc93
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 40a03ea5-49ce-417a-9de0-8218b16b129b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cinema-deposit or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: fb5ebd8b-1d65-479f-b410-f48016b68b7a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fb5ebd8b-1d65-479f-b410-f48016b68b7a
+[NotebookApp | INFO] Starting buffering for fb5ebd8b-1d65-479f-b410-f48016b68b7a:46d358dd9e8d4d8f96a99261c173a95a
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fb5ebd8b-1d65-479f-b410-f48016b68b7a
+[NotebookApp | INFO] Starting buffering for fb5ebd8b-1d65-479f-b410-f48016b68b7a:1dc7d1b30717471b8498b97854682a10
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: fb5ebd8b-1d65-479f-b410-f48016b68b7a
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cinema-deposit or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f8383c03-758e-40df-91f0-305b8ffaa653
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f8383c03-758e-40df-91f0-305b8ffaa653
+[NotebookApp | INFO] Starting buffering for f8383c03-758e-40df-91f0-305b8ffaa653:31089ecc03ff4e24828a0f0f8004e17f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f8383c03-758e-40df-91f0-305b8ffaa653
+[NotebookApp | INFO] Starting buffering for f8383c03-758e-40df-91f0-305b8ffaa653:da1e67081f13431b8f6f00ecf5fbf4e0
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: f8383c03-758e-40df-91f0-305b8ffaa653
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cinema-deposit or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Starting buffering for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:ac09d34114ed4e479f63d2a427407c46
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Starting buffering for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:058df8804ee44add8017d9f0b1c5503b
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Starting buffering for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:97dcf6e229a64a56a2d96eb5822f5421
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Starting buffering for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:f9458b27c1084a2983b4d2f29e7616d6
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Starting buffering for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:b37f1f6c4be349e2b395a67324e0c0db
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Starting buffering for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:2442e2c06688449f8ee35f4a55ecf043
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Discarding 6 buffered messages for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:2442e2c06688449f8ee35f4a55ecf043
+[NotebookApp | INFO] Starting buffering for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:90ab6386e4d44a098686076b1dfe0774
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | INFO] Starting buffering for 2f99c9f1-e727-41f9-a8e6-351dd5752c43:748340c741c844a2b41537d1aba1bc0e
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 2f99c9f1-e727-41f9-a8e6-351dd5752c43
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cinema-deposit or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 1496b240-a1f0-4bca-afe5-10a8d6d61783
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1496b240-a1f0-4bca-afe5-10a8d6d61783
+[NotebookApp | INFO] Starting buffering for 1496b240-a1f0-4bca-afe5-10a8d6d61783:8b2832c2a8a0487383805d1c666018eb
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 1496b240-a1f0-4bca-afe5-10a8d6d61783
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cinema-deposit or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 8c99525a-1868-4a4e-aef3-459bda491a85
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8c99525a-1868-4a4e-aef3-459bda491a85
+[NotebookApp | INFO] Starting buffering for 8c99525a-1868-4a4e-aef3-459bda491a85:dc4b3d5781ae46158251fa98d2653ede
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8c99525a-1868-4a4e-aef3-459bda491a85
+[NotebookApp | INFO] 302 GET /notebooks/ (192.168.10.212) 1.03ms
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Starting buffering for 8c99525a-1868-4a4e-aef3-459bda491a85:38dd51bac39744fe8b7d9869f68aa396
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8c99525a-1868-4a4e-aef3-459bda491a85
+[NotebookApp | INFO] Starting buffering for 8c99525a-1868-4a4e-aef3-459bda491a85:0af72c09af4045a88c0ea2eeeb249a80
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8c99525a-1868-4a4e-aef3-459bda491a85
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 8c99525a-1868-4a4e-aef3-459bda491a85
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cinema-deposit or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cinema-deposit or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: ae9a2785-0083-4848-974b-d87f8338e46d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ae9a2785-0083-4848-974b-d87f8338e46d
+[NotebookApp | INFO] Starting buffering for ae9a2785-0083-4848-974b-d87f8338e46d:d0121be9c8ae4adab2fd1d94ca28450d
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: ae9a2785-0083-4848-974b-d87f8338e46d
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(cinema-deposit or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: db71bc70-11b8-422d-80a4-7064b0f6bbcf
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel db71bc70-11b8-422d-80a4-7064b0f6bbcf
+[NotebookApp | INFO] Starting buffering for db71bc70-11b8-422d-80a4-7064b0f6bbcf:f03ed631f2b740a68a70557d176c3bb6
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel db71bc70-11b8-422d-80a4-7064b0f6bbcf
+[NotebookApp | INFO] Starting buffering for db71bc70-11b8-422d-80a4-7064b0f6bbcf:73cfbb951eb445e39643bad480cdc80c
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel db71bc70-11b8-422d-80a4-7064b0f6bbcf
+[NotebookApp | INFO] Starting buffering for db71bc70-11b8-422d-80a4-7064b0f6bbcf:9366b236f9584ded83b52429069cdc46
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(diana-madonna or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 217357cc-6aba-4067-abda-a9634d3597e5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 217357cc-6aba-4067-abda-a9634d3597e5
+[NotebookApp | INFO] Starting buffering for 217357cc-6aba-4067-abda-a9634d3597e5:2b6c47a70c7e4a14899adbf5d1850593
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 217357cc-6aba-4067-abda-a9634d3597e5
+[NotebookApp | INFO] Starting buffering for 217357cc-6aba-4067-abda-a9634d3597e5:10bbb4d4a4454118acbad7b209e10d62
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 217357cc-6aba-4067-abda-a9634d3597e5
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(diana-madonna or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b244e6ee-53b1-4eec-9782-4b6eb28432b7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b244e6ee-53b1-4eec-9782-4b6eb28432b7
+[NotebookApp | INFO] Starting buffering for b244e6ee-53b1-4eec-9782-4b6eb28432b7:f60abd8e0f1f4b178b0500d46848d7e9
+[NotebookApp | WARNING] Notebook Build a Facial Recognition System.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b244e6ee-53b1-4eec-9782-4b6eb28432b7
+[NotebookApp | INFO] Starting buffering for b244e6ee-53b1-4eec-9782-4b6eb28432b7:ecf66a18b17e450f8ef5fc0eaeb9b44b
+[NotebookApp | WARNING] 404 GET /notebooks/Facial_recognition.ipynb (192.168.10.160): No such file or directory: Facial_recognition.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Facial_recognition.ipynb (192.168.10.160) 7.86ms referer=https://codio.com/cshew/project-1--k-nearest-neighbors1
+[NotebookApp | WARNING] Notebook Build a Facial Recognition System.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b244e6ee-53b1-4eec-9782-4b6eb28432b7
+[NotebookApp | INFO] Starting buffering for b244e6ee-53b1-4eec-9782-4b6eb28432b7:0d3aec930bc2468a80a9b5a3266c9fe3
+[NotebookApp | WARNING] Notebook Build a Facial Recognition System.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b244e6ee-53b1-4eec-9782-4b6eb28432b7
+[NotebookApp | INFO] Saving file at /Build a Facial Recognition System.ipynb
+[NotebookApp | WARNING] Notebook Build a Facial Recognition System.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for b244e6ee-53b1-4eec-9782-4b6eb28432b7:7048ffd6f085493bba8c68806594ef2f
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: b244e6ee-53b1-4eec-9782-4b6eb28432b7
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(diana-madonna or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Build a Facial Recognition System.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 6c09ac5e-d2e6-44a6-8738-67c2f8636079
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6c09ac5e-d2e6-44a6-8738-67c2f8636079
+[NotebookApp | INFO] Starting buffering for 6c09ac5e-d2e6-44a6-8738-67c2f8636079:20e8cc3778a946a1bafa864ad103f79e
+[NotebookApp | WARNING] Notebook Build a Facial Recognition System.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6c09ac5e-d2e6-44a6-8738-67c2f8636079
+[NotebookApp | INFO] Starting buffering for 6c09ac5e-d2e6-44a6-8738-67c2f8636079:a36f988992ba4eb28edc9e5aaf1dc24a
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 6c09ac5e-d2e6-44a6-8738-67c2f8636079
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(diana-madonna or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Build a Facial Recognition System.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 93f1e81b-f781-4df6-b0bb-4e679852021e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 93f1e81b-f781-4df6-b0bb-4e679852021e
+[NotebookApp | INFO] Starting buffering for 93f1e81b-f781-4df6-b0bb-4e679852021e:50d9e2cabbab44e987ad31241a0c2ec0
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 93f1e81b-f781-4df6-b0bb-4e679852021e
+[NotebookApp | INFO] Starting buffering for 93f1e81b-f781-4df6-b0bb-4e679852021e:d5020117aced48599e3ba5cacf671dd8
+[NotebookApp | WARNING] 404 GET /notebooks/Build%20a%20Facial%20Recognition%20System.ipynb (192.168.10.205): No such file or directory: Build a Facial Recognition System.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/Build%20a%20Facial%20Recognition%20System.ipynb (192.168.10.205) 8.58ms referer=https://codio.com/cshew/project-1--k-nearest-neighbors1
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(gregory-apple or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(gregory-apple or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f0917ae4-3ff2-4f30-8809-4c7a7e5f431c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f0917ae4-3ff2-4f30-8809-4c7a7e5f431c
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for f0917ae4-3ff2-4f30-8809-4c7a7e5f431c:9f32f07eab754d74aa12c1a16d4b5a62
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(fractal-split or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 819481e7-4760-4ab7-a428-bd57ed25a13b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 819481e7-4760-4ab7-a428-bd57ed25a13b
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 819481e7-4760-4ab7-a428-bd57ed25a13b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(fractal-split or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 284f7d6d-d8e5-4b6c-bddd-eb1fce06048d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 284f7d6d-d8e5-4b6c-bddd-eb1fce06048d
+[NotebookApp | INFO] Starting buffering for 284f7d6d-d8e5-4b6c-bddd-eb1fce06048d:3565092345f3425d8c08b8290577f1e5
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-initial or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 967d6db5-ada9-481b-8ff5-bc5edf46fa5c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 967d6db5-ada9-481b-8ff5-bc5edf46fa5c
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 967d6db5-ada9-481b-8ff5-bc5edf46fa5c:ef97f5e7a3054d4997e2efac3260f472
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 967d6db5-ada9-481b-8ff5-bc5edf46fa5c
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-initial or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 43727677-3ed8-44fb-bc6f-c13d804ee4fb
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20190312181355 (192.168.10.160) 15.80ms referer=https://mission-initial-3000.codio.io/notebooks/Facial_recognition.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 43727677-3ed8-44fb-bc6f-c13d804ee4fb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 43727677-3ed8-44fb-bc6f-c13d804ee4fb:df99c975c6bc4a2a85423dd570d5b351
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 43727677-3ed8-44fb-bc6f-c13d804ee4fb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(mission-initial or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 682bfed2-0415-4937-b6ca-2123b380bf77
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 682bfed2-0415-4937-b6ca-2123b380bf77
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 682bfed2-0415-4937-b6ca-2123b380bf77:abd7925283bb4ab583bb9544d19f50d0
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(lake-stretch or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b295b980-4d82-4f3f-83b0-45ce45f85a0a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b295b980-4d82-4f3f-83b0-45ce45f85a0a
+[NotebookApp | INFO] Starting buffering for b295b980-4d82-4f3f-83b0-45ce45f85a0a:31fe25b6740846de8fd009a608ab60e9
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(window-peru or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: cd40dc69-fb3c-4bea-8f38-14a6508a9e44
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cd40dc69-fb3c-4bea-8f38-14a6508a9e44
+[NotebookApp | INFO] Starting buffering for cd40dc69-fb3c-4bea-8f38-14a6508a9e44:1851c42e2a284d56bfcd3df73d9c6db6
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cd40dc69-fb3c-4bea-8f38-14a6508a9e44
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: cd40dc69-fb3c-4bea-8f38-14a6508a9e44
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(window-peru or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 2b66e66e-50c8-479c-bb2f-881a1c10ebd5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2b66e66e-50c8-479c-bb2f-881a1c10ebd5
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 2b66e66e-50c8-479c-bb2f-881a1c10ebd5:6396c503419145338a3b53e42ce65c2a
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2b66e66e-50c8-479c-bb2f-881a1c10ebd5
+[NotebookApp | INFO] Starting buffering for 2b66e66e-50c8-479c-bb2f-881a1c10ebd5:0db9247ebfb74ca28be324bf5599efc1
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2b66e66e-50c8-479c-bb2f-881a1c10ebd5
+[NotebookApp | INFO] Starting buffering for 2b66e66e-50c8-479c-bb2f-881a1c10ebd5:e31049100a454ed28f27ef3e717ace29
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 2b66e66e-50c8-479c-bb2f-881a1c10ebd5
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(window-peru or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 18367d56-d888-42da-bffa-d7db84e92001
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 18367d56-d888-42da-bffa-d7db84e92001
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 18367d56-d888-42da-bffa-d7db84e92001
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 18367d56-d888-42da-bffa-d7db84e92001:786f609f332142b7b82f8b3d0091c866
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(alabama-contact or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 59e7bcd1-e344-4d91-812d-1fad3c45a17c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 59e7bcd1-e344-4d91-812d-1fad3c45a17c
+[NotebookApp | INFO] Starting buffering for 59e7bcd1-e344-4d91-812d-1fad3c45a17c:9637017b39544882afab020b3313f040
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 59e7bcd1-e344-4d91-812d-1fad3c45a17c
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(alabama-contact or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: c4ffe072-3bee-4334-b34d-b4a2ee091ef4
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c4ffe072-3bee-4334-b34d-b4a2ee091ef4
+[NotebookApp | INFO] Starting buffering for c4ffe072-3bee-4334-b34d-b4a2ee091ef4:193fb840bba94fed899264ab034ef237
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: c4ffe072-3bee-4334-b34d-b4a2ee091ef4
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(alabama-contact or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 9f0afb59-d716-45d5-a5d3-3b0528651a82
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9f0afb59-d716-45d5-a5d3-3b0528651a82
+[NotebookApp | INFO] Starting buffering for 9f0afb59-d716-45d5-a5d3-3b0528651a82:39ba734f27bd44ca8acea3bb18ce34e1
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 9f0afb59-d716-45d5-a5d3-3b0528651a82
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(alabama-contact or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: c2affdd4-1330-46b6-9dec-5fcff8b2aae2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c2affdd4-1330-46b6-9dec-5fcff8b2aae2
+[NotebookApp | INFO] Starting buffering for c2affdd4-1330-46b6-9dec-5fcff8b2aae2:7bee7176494a488d8695b28ad1ae2050
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: c2affdd4-1330-46b6-9dec-5fcff8b2aae2
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(alabama-contact or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: c71750ed-fef4-4586-8d39-f34dce8e7892
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c71750ed-fef4-4586-8d39-f34dce8e7892
+[NotebookApp | INFO] Starting buffering for c71750ed-fef4-4586-8d39-f34dce8e7892:ad322c2af27c40b8be88583bc3eb8048
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c71750ed-fef4-4586-8d39-f34dce8e7892
+[NotebookApp | INFO] Starting buffering for c71750ed-fef4-4586-8d39-f34dce8e7892:c6c9e784c8d34f79895ae0ae8617fb25
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c71750ed-fef4-4586-8d39-f34dce8e7892
+[NotebookApp | INFO] Starting buffering for c71750ed-fef4-4586-8d39-f34dce8e7892:f73edb67a6894fd28e95979e4611d619
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c71750ed-fef4-4586-8d39-f34dce8e7892
+[NotebookApp | INFO] Starting buffering for c71750ed-fef4-4586-8d39-f34dce8e7892:5ac05b81e23a496a9f720f01d532f8a9
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c71750ed-fef4-4586-8d39-f34dce8e7892
+[NotebookApp | INFO] Starting buffering for c71750ed-fef4-4586-8d39-f34dce8e7892:b97bd371fd004b5494924c617c7c639b
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c71750ed-fef4-4586-8d39-f34dce8e7892
+[NotebookApp | INFO] Starting buffering for c71750ed-fef4-4586-8d39-f34dce8e7892:9051e976f403457294094f7e54f76b3b
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c71750ed-fef4-4586-8d39-f34dce8e7892
+[NotebookApp | INFO] Starting buffering for c71750ed-fef4-4586-8d39-f34dce8e7892:ecffe559eb584277941e519086f49f96
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c71750ed-fef4-4586-8d39-f34dce8e7892
+[NotebookApp | INFO] Starting buffering for c71750ed-fef4-4586-8d39-f34dce8e7892:48332df169b94bb9a5a053592c93cd92
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: c71750ed-fef4-4586-8d39-f34dce8e7892
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(alabama-contact or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b4539f68-e900-4689-aac6-7c0735e3976b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b4539f68-e900-4689-aac6-7c0735e3976b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b4539f68-e900-4689-aac6-7c0735e3976b
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b4539f68-e900-4689-aac6-7c0735e3976b
+[NotebookApp | INFO] Starting buffering for b4539f68-e900-4689-aac6-7c0735e3976b:d415afb62e2d43a683ef38a8a35e295a
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(paper-guest or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 100eb02c-e893-4ade-8ce3-855121f40bec
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 100eb02c-e893-4ade-8ce3-855121f40bec
+[NotebookApp | INFO] Starting buffering for 100eb02c-e893-4ade-8ce3-855121f40bec:f4def0179c8e49958b65c4ecdb6c3d32
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 100eb02c-e893-4ade-8ce3-855121f40bec
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 100eb02c-e893-4ade-8ce3-855121f40bec:328a9077f76449ee914ba3977f8909a6
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 100eb02c-e893-4ade-8ce3-855121f40bec
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(paper-guest or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: ecd91656-11d3-49d5-81e4-bc2cdfa7f4a8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ecd91656-11d3-49d5-81e4-bc2cdfa7f4a8
+[NotebookApp | INFO] Starting buffering for ecd91656-11d3-49d5-81e4-bc2cdfa7f4a8:11517e9672134f8a80f7d73f3fa3847a
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: ecd91656-11d3-49d5-81e4-bc2cdfa7f4a8
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(paper-guest or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 65d30948-2d5e-4f9a-8e06-bb9f84608b9b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 65d30948-2d5e-4f9a-8e06-bb9f84608b9b
+[NotebookApp | INFO] Starting buffering for 65d30948-2d5e-4f9a-8e06-bb9f84608b9b:8f284cb9aba24c42a230bfa9438b1275
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 65d30948-2d5e-4f9a-8e06-bb9f84608b9b
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 65d30948-2d5e-4f9a-8e06-bb9f84608b9b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(paper-guest or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /api/kernels/65d30948-2d5e-4f9a-8e06-bb9f84608b9b/channels?session_id=df8a9487bc904c48be77b06a99f17b30 (192.168.10.160): Kernel does not exist: 65d30948-2d5e-4f9a-8e06-bb9f84608b9b
+[NotebookApp | WARNING] 404 GET /api/kernels/65d30948-2d5e-4f9a-8e06-bb9f84608b9b/channels?session_id=df8a9487bc904c48be77b06a99f17b30 (192.168.10.160) 90.33ms referer=None
+[NotebookApp | WARNING] Replacing stale connection: 65d30948-2d5e-4f9a-8e06-bb9f84608b9b:df8a9487bc904c48be77b06a99f17b30
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | WARNING] Replacing stale connection: 65d30948-2d5e-4f9a-8e06-bb9f84608b9b:df8a9487bc904c48be77b06a99f17b30
+[NotebookApp | WARNING] Replacing stale connection: 65d30948-2d5e-4f9a-8e06-bb9f84608b9b:df8a9487bc904c48be77b06a99f17b30
+[NotebookApp | WARNING] Replacing stale connection: 65d30948-2d5e-4f9a-8e06-bb9f84608b9b:df8a9487bc904c48be77b06a99f17b30
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(paper-guest or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: daf75230-82e0-457c-bf25-71a8893f9e96
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel daf75230-82e0-457c-bf25-71a8893f9e96
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for daf75230-82e0-457c-bf25-71a8893f9e96:c2a159409aa84f49a788ae55e8088037
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel daf75230-82e0-457c-bf25-71a8893f9e96
+[NotebookApp | INFO] Starting buffering for daf75230-82e0-457c-bf25-71a8893f9e96:b72473b653e743388db8bab39a14e4e8
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel daf75230-82e0-457c-bf25-71a8893f9e96
+[NotebookApp | INFO] Starting buffering for daf75230-82e0-457c-bf25-71a8893f9e96:df42b292740440a08c4c084be01e3ff9
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel daf75230-82e0-457c-bf25-71a8893f9e96
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for daf75230-82e0-457c-bf25-71a8893f9e96:b99f4e5ed8c448a29db35fa0de884c9e
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel daf75230-82e0-457c-bf25-71a8893f9e96
+[NotebookApp | INFO] Starting buffering for daf75230-82e0-457c-bf25-71a8893f9e96:8ccd8a68a0dd48deacd3d9f460002c4d
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel daf75230-82e0-457c-bf25-71a8893f9e96
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for daf75230-82e0-457c-bf25-71a8893f9e96:8d712aba10ad45ba80748b9be5679a34
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel daf75230-82e0-457c-bf25-71a8893f9e96
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for daf75230-82e0-457c-bf25-71a8893f9e96:e7c25312085d4a8681cc4815239a9e17
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel daf75230-82e0-457c-bf25-71a8893f9e96
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for daf75230-82e0-457c-bf25-71a8893f9e96:a3f6a8e4085f4f29810238ddfc2dafa0
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel daf75230-82e0-457c-bf25-71a8893f9e96
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] Notebook Facial_recognition.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for daf75230-82e0-457c-bf25-71a8893f9e96:ad15c33fddaa47e384f5118aa0b19ecd
+[NotebookApp | INFO] Kernel restarted: daf75230-82e0-457c-bf25-71a8893f9e96
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel daf75230-82e0-457c-bf25-71a8893f9e96
+[NotebookApp | INFO] Restoring connection for daf75230-82e0-457c-bf25-71a8893f9e96:ad15c33fddaa47e384f5118aa0b19ecd
+[NotebookApp | INFO] Replaying 8 buffered messages
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Starting buffering for daf75230-82e0-457c-bf25-71a8893f9e96:ad15c33fddaa47e384f5118aa0b19ecd
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel daf75230-82e0-457c-bf25-71a8893f9e96
+[NotebookApp | INFO] Starting buffering for daf75230-82e0-457c-bf25-71a8893f9e96:2439effb24a14656b5c53a787ece9d5a
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: daf75230-82e0-457c-bf25-71a8893f9e96
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(paper-guest or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: d55ad168-00e2-480b-9ea7-e361484cd87f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d55ad168-00e2-480b-9ea7-e361484cd87f
+[NotebookApp | INFO] Starting buffering for d55ad168-00e2-480b-9ea7-e361484cd87f:228c106f93174e238f49771a2fdd21b4
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d55ad168-00e2-480b-9ea7-e361484cd87f
+[NotebookApp | INFO] Starting buffering for d55ad168-00e2-480b-9ea7-e361484cd87f:2073dbf4bf984419923c824df6648a6b
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: d55ad168-00e2-480b-9ea7-e361484cd87f
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(paper-guest or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 3f204228-917f-4ba8-b45c-ad16557e5ea4
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3f204228-917f-4ba8-b45c-ad16557e5ea4
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Starting buffering for 3f204228-917f-4ba8-b45c-ad16557e5ea4:6d950f4a6de445978ac26e8d1542e4a5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3f204228-917f-4ba8-b45c-ad16557e5ea4
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Starting buffering for 3f204228-917f-4ba8-b45c-ad16557e5ea4:21421a1089be49108971636ff5326751
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 3f204228-917f-4ba8-b45c-ad16557e5ea4
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(paper-guest or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 2f83e7a0-00fc-432f-a00e-ce733916f281
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2f83e7a0-00fc-432f-a00e-ce733916f281
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(motel-ego or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 220e2e98-a28e-448c-bfc9-70da0bc43054
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 220e2e98-a28e-448c-bfc9-70da0bc43054
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Starting buffering for 220e2e98-a28e-448c-bfc9-70da0bc43054:4c2fcb7d4f4e4e959d40a594a17995c8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 220e2e98-a28e-448c-bfc9-70da0bc43054
+[NotebookApp | INFO] Starting buffering for 220e2e98-a28e-448c-bfc9-70da0bc43054:7a21696d82474950b80c34e43c8a8567
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 220e2e98-a28e-448c-bfc9-70da0bc43054
+[NotebookApp | INFO] Starting buffering for 220e2e98-a28e-448c-bfc9-70da0bc43054:60b6c76454a94512800fd94b15c17944
+[NotebookApp | INFO] Kernel restarted: 220e2e98-a28e-448c-bfc9-70da0bc43054
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 220e2e98-a28e-448c-bfc9-70da0bc43054
+[NotebookApp | INFO] Restoring connection for 220e2e98-a28e-448c-bfc9-70da0bc43054:60b6c76454a94512800fd94b15c17944
+[NotebookApp | INFO] Replaying 8 buffered messages
+[NotebookApp | INFO] Starting buffering for 220e2e98-a28e-448c-bfc9-70da0bc43054:60b6c76454a94512800fd94b15c17944
+[NotebookApp | INFO] Kernel restarted: 220e2e98-a28e-448c-bfc9-70da0bc43054
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 220e2e98-a28e-448c-bfc9-70da0bc43054
+[NotebookApp | INFO] Restoring connection for 220e2e98-a28e-448c-bfc9-70da0bc43054:60b6c76454a94512800fd94b15c17944
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Starting buffering for 220e2e98-a28e-448c-bfc9-70da0bc43054:60b6c76454a94512800fd94b15c17944
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(saga-audio or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: a6bdb33e-16d8-462e-aa33-0f8e394f6fff
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a6bdb33e-16d8-462e-aa33-0f8e394f6fff
+[NotebookApp | INFO] Starting buffering for a6bdb33e-16d8-462e-aa33-0f8e394f6fff:69509ea23eb44d1e9a190d0859f8d89f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a6bdb33e-16d8-462e-aa33-0f8e394f6fff
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | INFO] Starting buffering for a6bdb33e-16d8-462e-aa33-0f8e394f6fff:72d6131e8924485f9e384e3096b35ba7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a6bdb33e-16d8-462e-aa33-0f8e394f6fff
+[NotebookApp | INFO] Starting buffering for a6bdb33e-16d8-462e-aa33-0f8e394f6fff:34c70588f73240f0a184c957b7b530ad
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a6bdb33e-16d8-462e-aa33-0f8e394f6fff
+[NotebookApp | INFO] Starting buffering for a6bdb33e-16d8-462e-aa33-0f8e394f6fff:c623b0ceea78473d836e4f95e5f28add
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a6bdb33e-16d8-462e-aa33-0f8e394f6fff
+[NotebookApp | INFO] Saving file at /Facial_recognition.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/Facial_recognition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for a6bdb33e-16d8-462e-aa33-0f8e394f6fff:3a3050b6556744148a1b6e5e786d09e1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a6bdb33e-16d8-462e-aa33-0f8e394f6fff
+[NotebookApp | WARNING] 404 GET /api/contents/Facial_recognition.ipynb?content=0&_=1558370500661 (192.168.10.160): No such file or directory: Facial_recognition.ipynb
+[NotebookApp | WARNING] No such file or directory: Facial_recognition.ipynb
+[NotebookApp | WARNING] 404 GET /api/contents/Facial_recognition.ipynb?content=0&_=1558370500661 (192.168.10.160) 1.21ms referer=https://saga-audio-3000.codio.io/notebooks/Facial_recognition.ipynb
+[NotebookApp | INFO] Uploading file to /Facial_recognition.ipynb
+[NotebookApp | INFO] Kernel started: 1dde1bc9-7c16-4e42-9e3c-777c083c149b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1dde1bc9-7c16-4e42-9e3c-777c083c149b
+[NotebookApp | INFO] Starting buffering for a6bdb33e-16d8-462e-aa33-0f8e394f6fff:6fc277ce0a5647288e98756b55213743
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a6bdb33e-16d8-462e-aa33-0f8e394f6fff
+[NotebookApp | INFO] Starting buffering for a6bdb33e-16d8-462e-aa33-0f8e394f6fff:96000d5db012468294827ab1ae9b3452
+[NotebookApp | INFO] Starting buffering for 1dde1bc9-7c16-4e42-9e3c-777c083c149b:3e163a37317144f4a5d8862e22d58687
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1dde1bc9-7c16-4e42-9e3c-777c083c149b
+[NotebookApp | INFO] Starting buffering for 1dde1bc9-7c16-4e42-9e3c-777c083c149b:d40ca70570844c56b444448f5f4d112a
+[NotebookApp | INFO] Kernel restarted: 1dde1bc9-7c16-4e42-9e3c-777c083c149b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1dde1bc9-7c16-4e42-9e3c-777c083c149b
+[NotebookApp | INFO] Restoring connection for 1dde1bc9-7c16-4e42-9e3c-777c083c149b:d40ca70570844c56b444448f5f4d112a
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | INFO] Starting buffering for 1dde1bc9-7c16-4e42-9e3c-777c083c149b:d40ca70570844c56b444448f5f4d112a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1dde1bc9-7c16-4e42-9e3c-777c083c149b
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: a6bdb33e-16d8-462e-aa33-0f8e394f6fff
+[NotebookApp | INFO] Kernel shutdown: 1dde1bc9-7c16-4e42-9e3c-777c083c149b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(saga-audio or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(april-tornado or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Facial_Recognition_System.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: be155efe-3ba2-4309-9424-b66f47251ad9
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel be155efe-3ba2-4309-9424-b66f47251ad9
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/Facial_Recognition_System.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for be155efe-3ba2-4309-9424-b66f47251ad9:e4f4eeb93ce44800ac165614a268efe0
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(road-panel or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: b644439a-578b-4851-8bea-dca8727eadd7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b644439a-578b-4851-8bea-dca8727eadd7
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | INFO] Starting buffering for b644439a-578b-4851-8bea-dca8727eadd7:99fff48bbb1d46a4a5c00c9cd72a6ffb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b644439a-578b-4851-8bea-dca8727eadd7
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | INFO] Starting buffering for b644439a-578b-4851-8bea-dca8727eadd7:2f5eec27ad384dbf8b7dec65f74114c5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b644439a-578b-4851-8bea-dca8727eadd7
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | INFO] Starting buffering for b644439a-578b-4851-8bea-dca8727eadd7:21a3c9383ea74d328cd84ba94167e7d6
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b644439a-578b-4851-8bea-dca8727eadd7
+[NotebookApp | INFO] Starting buffering for b644439a-578b-4851-8bea-dca8727eadd7:d19f9139a3284ba482fc88e55246e554
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b644439a-578b-4851-8bea-dca8727eadd7
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | INFO] Starting buffering for b644439a-578b-4851-8bea-dca8727eadd7:b1e804a3f7444c6ba94a2b5b304cb852
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b644439a-578b-4851-8bea-dca8727eadd7
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | INFO] Starting buffering for b644439a-578b-4851-8bea-dca8727eadd7:0b5756ed2f724124823150488bad289b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b644439a-578b-4851-8bea-dca8727eadd7
+[NotebookApp | INFO] Starting buffering for b644439a-578b-4851-8bea-dca8727eadd7:065070bf5fbd42208e5028604046243c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b644439a-578b-4851-8bea-dca8727eadd7
+[NotebookApp | INFO] Starting buffering for b644439a-578b-4851-8bea-dca8727eadd7:3382048172d348ab89918f76ef2f25d5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b644439a-578b-4851-8bea-dca8727eadd7
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/Facial_Recognition_System.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | INFO] Starting buffering for b644439a-578b-4851-8bea-dca8727eadd7:a8146cf903c040cea00054bb87e1e064
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(club-botanic or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: c04a2fe9-4f70-4e33-acd3-2ac21622607b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c04a2fe9-4f70-4e33-acd3-2ac21622607b
+[NotebookApp | INFO] Starting buffering for c04a2fe9-4f70-4e33-acd3-2ac21622607b:1dbad12889044ce282b70a9c89a921b1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c04a2fe9-4f70-4e33-acd3-2ac21622607b
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | INFO] Starting buffering for c04a2fe9-4f70-4e33-acd3-2ac21622607b:2e74da21719f4e5a83ec94ad51cd6171
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(herman-glass or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: d3ff795a-66fe-4d04-9bcb-7a7c7a98265e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d3ff795a-66fe-4d04-9bcb-7a7c7a98265e
+[NotebookApp | INFO] Starting buffering for d3ff795a-66fe-4d04-9bcb-7a7c7a98265e:559753d188194e5189ce07a911ac82f7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d3ff795a-66fe-4d04-9bcb-7a7c7a98265e
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | INFO] Starting buffering for d3ff795a-66fe-4d04-9bcb-7a7c7a98265e:adf64b25afd74dce8b6edeb04f25ad72
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: d3ff795a-66fe-4d04-9bcb-7a7c7a98265e
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(herman-glass or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 17d7c806-a1d0-4813-a1cd-90ab4717b6d8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 17d7c806-a1d0-4813-a1cd-90ab4717b6d8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 17d7c806-a1d0-4813-a1cd-90ab4717b6d8
+[NotebookApp | INFO] Starting buffering for 17d7c806-a1d0-4813-a1cd-90ab4717b6d8:70983dbd79354b89a938dc33d05080b3
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 17d7c806-a1d0-4813-a1cd-90ab4717b6d8
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(herman-glass or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 781b9a89-3650-4c00-9ef5-9e8b2a4c14ad
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 781b9a89-3650-4c00-9ef5-9e8b2a4c14ad
+[NotebookApp | INFO] Starting buffering for 781b9a89-3650-4c00-9ef5-9e8b2a4c14ad:e4393df360cc4b948b3342dd3ea34b51
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 781b9a89-3650-4c00-9ef5-9e8b2a4c14ad
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(herman-glass or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 51dba0a2-5297-418b-9d53-f3c9c79c436f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 51dba0a2-5297-418b-9d53-f3c9c79c436f
+[NotebookApp | INFO] Starting buffering for 51dba0a2-5297-418b-9d53-f3c9c79c436f:2050fdbf75c14e42883e17f466f3c8cc
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 51dba0a2-5297-418b-9d53-f3c9c79c436f
+[NotebookApp | INFO] Starting buffering for 51dba0a2-5297-418b-9d53-f3c9c79c436f:b1a923fc2a3a4a8c85a31e74642ced53
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 51dba0a2-5297-418b-9d53-f3c9c79c436f
+[NotebookApp | INFO] Saving file at /.ipynb_checkpoints/Facial_Recognition_System-checkpoint.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/.ipynb_checkpoints/Facial_Recognition_System-checkpoint.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Kernel started: f03dbd3a-e7be-4320-bb90-79e12c5bf2b7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f03dbd3a-e7be-4320-bb90-79e12c5bf2b7
+[NotebookApp | INFO] Starting buffering for 51dba0a2-5297-418b-9d53-f3c9c79c436f:ae00b52b40fc41d58fec86673bb06255
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 51dba0a2-5297-418b-9d53-f3c9c79c436f
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/Facial_Recognition_System.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /.ipynb_checkpoints/Facial_Recognition_System-checkpoint.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/codio/workspace/.ipynb_checkpoints/Facial_Recognition_System-checkpoint.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for f03dbd3a-e7be-4320-bb90-79e12c5bf2b7:5939a47ad4ce48bf8563d965aeac4b38
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f03dbd3a-e7be-4320-bb90-79e12c5bf2b7
+[NotebookApp | INFO] Starting buffering for f03dbd3a-e7be-4320-bb90-79e12c5bf2b7:ea4f84bac0fb46e386812304096362f0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f03dbd3a-e7be-4320-bb90-79e12c5bf2b7
+[NotebookApp | INFO] Starting buffering for f03dbd3a-e7be-4320-bb90-79e12c5bf2b7:17e10cda9dd14904878168e112103e6c
+[NotebookApp | INFO] Starting buffering for 51dba0a2-5297-418b-9d53-f3c9c79c436f:71301e5ed5b74fa8bd358f8f3e25c88b
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 51dba0a2-5297-418b-9d53-f3c9c79c436f
+[NotebookApp | INFO] Kernel shutdown: f03dbd3a-e7be-4320-bb90-79e12c5bf2b7
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(herman-glass or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 94488c03-e3d0-4c08-9e8c-65cb9e9fd8fb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 94488c03-e3d0-4c08-9e8c-65cb9e9fd8fb
+[NotebookApp | INFO] Kernel started: 5eb0e3ca-164e-4d4d-9965-a1b84dba322b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5eb0e3ca-164e-4d4d-9965-a1b84dba322b
+[NotebookApp | INFO] Starting buffering for 5eb0e3ca-164e-4d4d-9965-a1b84dba322b:3e4dd9653637417493c29f0af7632f80
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5eb0e3ca-164e-4d4d-9965-a1b84dba322b
+[NotebookApp | INFO] Starting buffering for 5eb0e3ca-164e-4d4d-9965-a1b84dba322b:d6c81ad53ed0497a873014df188032b5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5eb0e3ca-164e-4d4d-9965-a1b84dba322b
+[NotebookApp | INFO] Starting buffering for 5eb0e3ca-164e-4d4d-9965-a1b84dba322b:9faa663246c3443480ba85783dbbff6d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5eb0e3ca-164e-4d4d-9965-a1b84dba322b
+[NotebookApp | INFO] Starting buffering for 5eb0e3ca-164e-4d4d-9965-a1b84dba322b:df6cdde2464c48d7a2ebf9c63b04be98
+[NotebookApp | INFO] Starting buffering for 94488c03-e3d0-4c08-9e8c-65cb9e9fd8fb:0e02911e540e4a9a85a3d0ef1d5510ba
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5eb0e3ca-164e-4d4d-9965-a1b84dba322b
+[NotebookApp | INFO] Starting buffering for 5eb0e3ca-164e-4d4d-9965-a1b84dba322b:18c0b6bc3de84da3867ce5a6611fa2f5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5eb0e3ca-164e-4d4d-9965-a1b84dba322b
+[NotebookApp | INFO] Starting buffering for 5eb0e3ca-164e-4d4d-9965-a1b84dba322b:08092e6c3c2346b999b7210306b101eb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5eb0e3ca-164e-4d4d-9965-a1b84dba322b
+[NotebookApp | INFO] Starting buffering for 5eb0e3ca-164e-4d4d-9965-a1b84dba322b:0a17080bb7aa4fb1b0fab4891d869b96
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5eb0e3ca-164e-4d4d-9965-a1b84dba322b
+[NotebookApp | INFO] Starting buffering for 5eb0e3ca-164e-4d4d-9965-a1b84dba322b:236a1ef4e92f4f3c809f09ccc9ced84d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5eb0e3ca-164e-4d4d-9965-a1b84dba322b
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | INFO] Starting buffering for 5eb0e3ca-164e-4d4d-9965-a1b84dba322b:c90f1c0f51ec4a7e9758d29c4e569442
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5eb0e3ca-164e-4d4d-9965-a1b84dba322b
+[NotebookApp | INFO] Starting buffering for 5eb0e3ca-164e-4d4d-9965-a1b84dba322b:2a5f56d142754e6a87bc1241ea091cd3
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | INFO] Kernel shutdown: 94488c03-e3d0-4c08-9e8c-65cb9e9fd8fb
+[NotebookApp | INFO] Kernel shutdown: 5eb0e3ca-164e-4d4d-9965-a1b84dba322b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(herman-glass or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 69bc3881-e898-4431-a6b5-bded9b149610
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 69bc3881-e898-4431-a6b5-bded9b149610
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(acrobat-folio or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 35c54266-4971-4285-b2f2-dcc5a56b4ad2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 35c54266-4971-4285-b2f2-dcc5a56b4ad2
+[NotebookApp | INFO] Saving file at /Facial_Recognition_System.ipynb
+[NotebookApp | INFO] Starting buffering for 35c54266-4971-4285-b2f2-dcc5a56b4ad2:aa23c80f16644e9f81fabf418286ce36
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(doctor-susan or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(doctor-susan or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 8ecb2de7-c2d8-4798-9745-ca5335becf9f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8ecb2de7-c2d8-4798-9745-ca5335becf9f
+[NotebookApp | INFO] Starting buffering for 8ecb2de7-c2d8-4798-9745-ca5335becf9f:f0af3c5d8ba4425b875bfa4e28493f17
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8ecb2de7-c2d8-4798-9745-ca5335becf9f
+[NotebookApp | INFO] Starting buffering for 8ecb2de7-c2d8-4798-9745-ca5335becf9f:2a7f4f113ae9496ca8bf16dd2f8bba29
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8ecb2de7-c2d8-4798-9745-ca5335becf9f
+[NotebookApp | INFO] Starting buffering for 8ecb2de7-c2d8-4798-9745-ca5335becf9f:39f6704808b6421e82971351b1b99864
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 8ecb2de7-c2d8-4798-9745-ca5335becf9f
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(doctor-susan or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 3479cacb-63c8-4949-8868-e622a1551889
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3479cacb-63c8-4949-8868-e622a1551889
+[NotebookApp | INFO] Starting buffering for 3479cacb-63c8-4949-8868-e622a1551889:4195c120df6d449481b4b81e17e97844
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3479cacb-63c8-4949-8868-e622a1551889
+[NotebookApp | INFO] Starting buffering for 3479cacb-63c8-4949-8868-e622a1551889:04dd35f5aed5408489a695929a1e2ffa
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 3479cacb-63c8-4949-8868-e622a1551889
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(doctor-susan or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
