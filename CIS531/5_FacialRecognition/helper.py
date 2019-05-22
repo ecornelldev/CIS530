@@ -9,12 +9,12 @@ import traceback
 def runtest(test,name):
     print('Running Test: %s ... ' % (name),end='')
     try:
-        if test(): 
+        if test():
             print('✔ Passed!')
         else:
-            print("✖ failed! The output of your function does not match the instructor's code. Check your code and try again.")           
+            print("✖ Failed! The output of your function does not match the expected output. Check your code and try again.")
     except Exception as e:
-        print('✖ failed! Your code raises an exception. The following is the traceback of the failure')
+        print('✖ Failed! Your code raises an exception. The following is the traceback of the failure')
         print(' '.join(traceback.format_tb(sys.exc_info()[2])))
 
 def loaddata(filename):
@@ -25,7 +25,7 @@ def loaddata(filename):
     yTe = np.round(data["yTe"]); # load in Testing labels
     return xTr.T,yTr.T,xTe.T,yTe.T
 
-def visualize_knn_2D(findknn): 
+def visualize_knn_2D(findknn):
     global N,k,hp,x,hl,xt,ht
     fig = plt.figure()
     ax = fig.add_subplot(111)
@@ -43,11 +43,11 @@ def visualize_knn_2D(findknn):
     def onclick(event):
         global N,k,hp,x,hl,xt,ht
 
-        if ht is None:        
-            ht=plt.plot(event.xdata,event.ydata,'ro')    
+        if ht is None:
+            ht=plt.plot(event.xdata,event.ydata,'ro')
         ht[0].set_data(event.xdata,event.ydata)
         xt=np.array([ht[0].get_data()])
-        inds,dists=findknn(x,xt,k); # find k nearest neighbors 
+        inds,dists=findknn(x,xt,k); # find k nearest neighbors
         xdata=[]
         ydata=[]
 
@@ -64,23 +64,23 @@ def visualize_knn_2D(findknn):
         else:
             hl[0].set_data(xdata,ydata)
 
-        
+
     cid = fig.canvas.mpl_connect('button_press_event', onclick)
     plt.title('Click to add test point')
-    
+
 def visualize_knn_images(findknn, imageType='faces'):
     global who, xTr, xTe, yTr, yTe, xdim, ydim
     fig = plt.figure()
     who=0
-    
+
     if imageType == 'faces':
         xTr,yTr,xTe,yTe = loaddata("faces.mat")
         xdim = 38
-        ydim = 31 
+        ydim = 31
     else:
         xTr,yTr,xTe,yTe = loaddata("digits.mat")
         xdim = 16
-        ydim = 16 
+        ydim = 16
 
     # normalize all pixel values to [0,1]
     ma = np.max(xTe.flatten())
@@ -100,7 +100,7 @@ def visualize_knn_images(findknn, imageType='faces'):
             sb+=1
 
             indices, dists = findknn(xTr,np.array(xTe[who,:], ndmin=2), 3)
-            for j in range(3):            
+            for j in range(3):
                 plt.subplot(4,4,sb)
                 plotimage(xdim, ydim, xTr[indices[j], :].reshape(ydim, xdim).T,int(yTr[indices[j]]==yTe[who]))
                 plt.axis('off')
@@ -122,15 +122,15 @@ def plotimage(xdim, ydim, M,d=2): # plot an image and draw a red/blue/green box 
     Q[[0,-1],:,d]=1
     Q[:,[0,-1],d]=1
     plt.imshow(Q, cmap=plt.cm.binary_r)
-    
+
 def plotfaces(X, xdim=38, ydim=31 ):
-    n, d = X.shape            
+    n, d = X.shape
     m=np.ceil(np.sqrt(n))
     for i in range(n):
         plt.subplot(m,m,i+1)
         plt.imshow(X[i, :].reshape(ydim, xdim).T, cmap=plt.cm.binary_r)
         plt.axis('off')
-        
+
 def visualize_knn_boundary(knnclassifier):
     globalK=np.ones(1, dtype=int);
     Xdata=[]
@@ -181,7 +181,7 @@ def findknn_grader(xTr,xTe,k):
     indices = np.argsort(D, axis=0)
     dists = np.sort(D, axis=0)
     return indices[:k,:], dists[:k,:]
-    
+
 def innerproduct(X,Z=None):
     if Z is None: # case when there is only one input (X)
         return innerproduct(X, X)
