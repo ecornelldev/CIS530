@@ -2,8 +2,8 @@ import numpy as np
 import traceback
 import sys
 
-def runtest(test,name):
-    print('Running Test: %s ... ' % (name),end='')
+def runtest(test, name):
+    print('Running Test: %s ... ' % (name), end='')
     try:
         if test():
             print('✔ Passed!')
@@ -13,6 +13,9 @@ def runtest(test,name):
         print('✖ Failed!\n Your code raises an exception. The following is the traceback of the failure:')
         print(' '.join(traceback.format_tb(sys.exc_info()[2])))
 
+
+def square_loss(pred, truth):
+    return np.mean((pred - truth)**2)
 
 
 def grid_search_grader(xTr, yTr, xVal, yVal, depths):
@@ -36,7 +39,7 @@ def grid_search_grader(xTr, yTr, xVal, yVal, depths):
     
 
     for i in depths:
-        tree = h.RegressionTree(i)
+        tree = RegressionTree(i)
         tree.fit(xTr, yTr)
         
         training_loss = square_loss(tree.predict(xTr), yTr)
@@ -45,7 +48,43 @@ def grid_search_grader(xTr, yTr, xVal, yVal, depths):
         validation_losses.append(validation_loss)
     
     best_depth = depths[np.argmin(validation_losses)]
+    return best_depth, training_losses, validation_losses
 
+
+def cross_validation_grader(xTr, yTr, depths, indices):
+    '''
+    Input:
+        xTr: nxd matrix (training data)
+        yTr: n vector (training data)
+        depths: a list of len k
+        indices: indices from generate_kFold
+    Returns:
+        best_depth: the best parameter 
+        training losses: a list of len k. the i-th entry corresponds to the the average training loss
+                the tree of depths[i]
+        validation_losses: a list of len k. the i-th entry corresponds to the the average validation loss
+                the tree of depths[i] 
+    '''
+    training_losses = []
+    validation_losses = []
+    best_depth = None
+    
+    for train_indices, validation_indices in indices:
+        xtrain, ytrain = xTr[train_indices], yTr[train_indices]
+        xval, yval = xTr[validation_indices], yTr[validation_indices]
+        
+        _, training_loss, validation_loss = grid_search_grader(xtrain, ytrain, xval, yval, depths)
+        
+        training_losses.append(training_loss)
+        validation_losses.append(validation_loss)
+    
+    training_losses = np.mean(training_losses, axis=0)
+    validation_losses = np.mean(validation_losses, axis=0)
+    
+    best_depth = depths[np.argmin(validation_losses)]
+    best_tree = RegressionTree(depth=best_depth)
+    best_tree.fit(xTr, yTr)
+    
     return best_depth, training_losses, validation_losses
 
 
