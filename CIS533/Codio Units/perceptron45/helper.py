@@ -14,3 +14,10 @@ def runtest(test,name):
         print(' '.join(traceback.format_tb(sys.exc_info()[2])))
 
 
+def classify_linear_grader(xs,w,b=None):
+    w = w.flatten()    
+    predictions=np.zeros(xs.shape[0])
+    if b is None:
+        b = 0
+    predictions = np.sign(xs.dot(w) + b)
+    return predictions	
