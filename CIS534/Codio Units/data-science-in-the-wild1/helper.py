@@ -1,6 +1,48 @@
 import numpy as np
 
 
+def runtest(test, name):
+    print('Running Test: %s ... ' % (name), end='')
+    try:
+        if test():
+            print('✔ Passed!')
+        else:
+            print("✖ Failed!\n The output of your function does not match the expected output. Check your code and try again.")
+    except Exception as e:
+        print('✖ Failed!\n Your code raises an exception. The following is the traceback of the failure:')
+        print(' '.join(traceback.format_tb(sys.exc_info()[2])))
+
+
+def load_data_grader(file='heart_disease_train.csv', label=True):
+    '''
+    Input:
+        file: filename of the dataset
+        label: a boolean to decide whether to return the labels or not
+    Returns:
+        X: patient attributes
+        y: severity
+    '''
+    X = None
+    y = None
+    with open(file) as f:
+        columns = f.readline().rstrip().split(',')
+        df = {i: [] for i in columns}
+        
+        for i in f.readlines():
+            for ind_j, j in enumerate(i.rstrip().split(',')):
+                df[columns[ind_j]].append(float(j))
+    
+    
+    if label:
+        y = np.array(df['label'])
+        columns.remove('label')
+        X = np.vstack([df[i] for i in columns]).T
+        return X, y
+    else:
+        X = np.vstack([df[i] for i in columns]).T
+        return X
+
+
 class TreeNode(object):
     """Tree class.
     
