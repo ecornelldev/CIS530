@@ -1,4 +1,52 @@
 import numpy as np
+import traceback
+import sys
+
+def runtest(test,name):
+    print('Running Test: %s ... ' % (name),end='')
+    try:
+        if test():
+            print('✔ Passed!')
+        else:
+            print("✖ Failed!\n The output of your function does not match the expected output. Check your code and try again.")
+    except Exception as e:
+        print('✖ Failed!\n Your code raises an exception. The following is the traceback of the failure:')
+        print(' '.join(traceback.format_tb(sys.exc_info()[2])))
+
+
+
+def grid_search_grader(xTr, yTr, xVal, yVal, depths):
+    '''
+    Input:
+        xTr: nxd matrix
+        yTr: n vector
+        xVal: mxd matrix
+        yVal: m vector
+        depths: a list of len k
+    Return:
+        best_depth: the depth that yields that lowest loss on the validation set
+        training losses: a list of len k. the i-th entry corresponds to the the training loss
+                the tree of depths[i]
+        validation_losses: a list of len k. the i-th entry corresponds to the the validation loss
+                the tree of depths[i]
+    '''
+    training_losses = []
+    validation_losses = []
+    best_depth = None
+    
+
+    for i in depths:
+        tree = h.RegressionTree(i)
+        tree.fit(xTr, yTr)
+        
+        training_loss = square_loss(tree.predict(xTr), yTr)
+        validation_loss = square_loss(tree.predict(xVal), yVal)
+        training_losses.append(training_loss)
+        validation_losses.append(validation_loss)
+    
+    best_depth = depths[np.argmin(validation_losses)]
+
+    return best_depth, training_losses, validation_losses
 
 
 class TreeNode(object):
