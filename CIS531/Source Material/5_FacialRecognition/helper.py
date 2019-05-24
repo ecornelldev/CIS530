@@ -132,6 +132,7 @@ def plotfaces(X, xdim=38, ydim=31 ):
         plt.axis('off')
 
 def visualize_knn_boundary(knnclassifier):
+    global globalK
     globalK=np.ones(1, dtype=int);
     Xdata=[]
     ldata=[]
@@ -158,6 +159,7 @@ def visualize_knn_boundary(knnclassifier):
         return(boundary)
 
     def onclickkdemo(event, Xdata, ldata, globalK, ax, knnclassifier):
+        global globalK
         if event.key == 'p': # add positive point
             ax.plot(event.xdata,event.ydata,'or')
             label=1
@@ -171,7 +173,7 @@ def visualize_knn_boundary(knnclassifier):
             ldata.append(label);
             Xdata.append(pos)
         if event.key == 'h':
-            globalK=(globalK+1) % len(ldata)+1;
+            globalK=globalK % (len(ldata)-1);
         visboundary(globalK, Xdata, ldata, ax, knnclassifier)
         plt.title('k=%i' % globalK)
     cid = fig.canvas.mpl_connect('button_press_event', lambda event: onclickkdemo(event, Xdata, ldata, globalK, ax, knnclassifier))
