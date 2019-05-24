@@ -173,7 +173,7 @@ def visualize_knn_boundary(knnclassifier):
             ldata.append(label);
             Xdata.append(pos)
         if event.key == 'h':
-            globalK=globalK % (len(ldata)-1);
+            globalK=globalK % (len(ldata)-1)+1;
         visboundary(globalK, Xdata, ldata, ax, knnclassifier)
         plt.title('k=%i' % globalK)
     cid = fig.canvas.mpl_connect('button_press_event', lambda event: onclickkdemo(event, Xdata, ldata, globalK, ax, knnclassifier))
