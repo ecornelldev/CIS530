@@ -181,6 +181,16 @@ def findknn_grader(xTr,xTe,k):
     indices = np.argsort(D, axis=0)
     dists = np.sort(D, axis=0)
     return indices[:k,:], dists[:k,:]
+  
+def accuracy_grader(truth,preds):
+    
+    truth = truth.flatten()
+    preds = preds.flatten()
+
+    if len(truth) == 0 and len(preds) == 0:
+        output = 0
+        return output
+    return np.mean(truth == preds)
 
 def innerproduct(X,Z=None):
     if Z is None: # case when there is only one input (X)
