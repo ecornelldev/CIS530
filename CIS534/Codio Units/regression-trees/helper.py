@@ -2,17 +2,6 @@ import numpy as np
 import traceback
 import sys
 
-def runtest(test,name):
-    print('Running Test: %s ... ' % (name),end='')
-    try:
-        if test():
-            print('✔ Passed!')
-        else:
-            print("✖ Failed! The output of your function does not match the expected output. Check your code and try again.")
-    except Exception as e:
-        print('✖ Failed! Your code raises an exception. The following is the traceback of the failure:')
-        print(' '.join(traceback.format_tb(sys.exc_info()[2])))
-        
 # create a few arrays  
        
 xor2 = np.array([[1, 1, 0, 0],
@@ -32,6 +21,18 @@ yor4 = np.array( [1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1])
 
 xor5 = np.array([[0],[1],[1]])
 yor5 = np.array([1,1,-1])
+
+
+def runtest(test,name):
+    print('Running Test: %s ... ' % (name),end='')
+    try:
+        if test():
+            print('✔ Passed!')
+        else:
+            print("✖ Failed! The output of your function does not match the expected output. Check your code and try again.")
+    except Exception as e:
+        print('✖ Failed! Your code raises an exception. The following is the traceback of the failure:')
+        print(' '.join(traceback.format_tb(sys.exc_info()[2])))
         
         
 def DFSxor(t):

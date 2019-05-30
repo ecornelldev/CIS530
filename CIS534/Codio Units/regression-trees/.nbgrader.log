@@ -333,3 +333,96 @@
 [NotebookApp | INFO] The Jupyter Notebook is running at:
 [NotebookApp | INFO] http://(arrow-protect or 127.0.0.1):3000/
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 907d6106-ad9c-4dee-90af-6f7f6898c9d5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 907d6106-ad9c-4dee-90af-6f7f6898c9d5
+[NotebookApp | INFO] Starting buffering for 907d6106-ad9c-4dee-90af-6f7f6898c9d5:501e1e47f71845de99f616fcd7ff792e
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 907d6106-ad9c-4dee-90af-6f7f6898c9d5
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(arrow-protect or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 48541ed9-44e2-4152-9073-8332d6c446a5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 48541ed9-44e2-4152-9073-8332d6c446a5
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.160) 6.40ms referer=https://arrow-protect-3000.codio.io/notebooks/Regression_tree.ipynb
+[NotebookApp | INFO] Starting buffering for 48541ed9-44e2-4152-9073-8332d6c446a5:d4042e67d0ff491081fdc0c858fa8fa1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 48541ed9-44e2-4152-9073-8332d6c446a5
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.205) 1.15ms referer=https://arrow-protect-3000.codio.io/notebooks/Regression_tree.ipynb
+[NotebookApp | INFO] Starting buffering for 48541ed9-44e2-4152-9073-8332d6c446a5:07a0c46d8e514a1b9465b6c97a80ce6a
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 48541ed9-44e2-4152-9073-8332d6c446a5
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(arrow-protect or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: d6e9ca5d-62f5-4def-b8e8-6e4f8872d112
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d6e9ca5d-62f5-4def-b8e8-6e4f8872d112
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.205) 6.64ms referer=https://arrow-protect-3000.codio.io/notebooks/Regression_tree.ipynb
+[NotebookApp | INFO] Starting buffering for d6e9ca5d-62f5-4def-b8e8-6e4f8872d112:32b96e4190d2492c9a257cacdaa6c509
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d6e9ca5d-62f5-4def-b8e8-6e4f8872d112
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.205) 1.28ms referer=https://arrow-protect-3000.codio.io/notebooks/Regression_tree.ipynb
+[NotebookApp | INFO] Starting buffering for d6e9ca5d-62f5-4def-b8e8-6e4f8872d112:2d1bfe6b2a6c40c88508dd2a24cfc938
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d6e9ca5d-62f5-4def-b8e8-6e4f8872d112
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.160) 1.32ms referer=https://arrow-protect-3000.codio.io/notebooks/Regression_tree.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(option-portal or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 0560da23-67d2-42a8-a9bc-1bf7b4d4b3b1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0560da23-67d2-42a8-a9bc-1bf7b4d4b3b1
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.212) 6.75ms referer=https://option-portal-3000.codio.io/notebooks/Regression_tree.ipynb
+[NotebookApp | INFO] Starting buffering for 0560da23-67d2-42a8-a9bc-1bf7b4d4b3b1:9754bce4fc74400184023088a1d126ee
+[NotebookApp | WARNING] Notebook Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0560da23-67d2-42a8-a9bc-1bf7b4d4b3b1
+[NotebookApp | INFO] Saving file at /Regression_tree.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.205) 1.34ms referer=https://option-portal-3000.codio.io/notebooks/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /Regression_tree.ipynb
+[NotebookApp | INFO] Starting buffering for 0560da23-67d2-42a8-a9bc-1bf7b4d4b3b1:9a0b63726e464de98a7a0cb54e34e7a6
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0560da23-67d2-42a8-a9bc-1bf7b4d4b3b1
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.205) 1.33ms referer=https://option-portal-3000.codio.io/notebooks/Regression_tree.ipynb
+[NotebookApp | INFO] Starting buffering for 0560da23-67d2-42a8-a9bc-1bf7b4d4b3b1:79fd11470ab74ee18ce0f35822f063b3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0560da23-67d2-42a8-a9bc-1bf7b4d4b3b1
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.205) 1.16ms referer=https://option-portal-3000.codio.io/notebooks/Regression_tree.ipynb
+[NotebookApp | INFO] Starting buffering for 0560da23-67d2-42a8-a9bc-1bf7b4d4b3b1:93058547e3ce4136bee8d746a04b9656
+[NotebookApp | INFO] Kernel restarted: 0560da23-67d2-42a8-a9bc-1bf7b4d4b3b1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0560da23-67d2-42a8-a9bc-1bf7b4d4b3b1
+[NotebookApp | INFO] Restoring connection for 0560da23-67d2-42a8-a9bc-1bf7b4d4b3b1:93058547e3ce4136bee8d746a04b9656
+[NotebookApp | INFO] Replaying 8 buffered messages
+[NotebookApp | INFO] Saving file at /Regression_tree.ipynb
+[NotebookApp | INFO] Starting buffering for 0560da23-67d2-42a8-a9bc-1bf7b4d4b3b1:93058547e3ce4136bee8d746a04b9656
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(sardine-explain or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(sardine-explain or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 30e3bb24-b9d8-4d55-b1c0-7f8bbcf7e696
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 30e3bb24-b9d8-4d55-b1c0-7f8bbcf7e696
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.205) 6.62ms referer=https://sardine-explain-3000.codio.io/notebooks/Regression_tree.ipynb
+[NotebookApp | INFO] Starting buffering for 30e3bb24-b9d8-4d55-b1c0-7f8bbcf7e696:7aeb4913eebd473a88f0e15ba4244440
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 30e3bb24-b9d8-4d55-b1c0-7f8bbcf7e696
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(sardine-explain or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: a9607073-52b2-40ba-af8b-cac5a354dabf

@@ -1,0 +1,115 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(london-clarion or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 12c0a4ab-c633-43f4-b05f-fb385b1be7a3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 12c0a4ab-c633-43f4-b05f-fb385b1be7a3
+[NotebookApp | INFO] Starting buffering for 12c0a4ab-c633-43f4-b05f-fb385b1be7a3:3a1d2a63316a44e29c3b4189b36d5187
+[NotebookApp | WARNING] Notebook Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 12c0a4ab-c633-43f4-b05f-fb385b1be7a3
+[NotebookApp | INFO] Saving file at /Data Science in the Wild.ipynb
+[NotebookApp | INFO] Starting buffering for 12c0a4ab-c633-43f4-b05f-fb385b1be7a3:f97c24c605ce48d2828549600e9178e4
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(consul-junior or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 11eae0ce-b8be-4621-bef8-605803ac17af
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 11eae0ce-b8be-4621-bef8-605803ac17af
+[NotebookApp | INFO] Starting buffering for 11eae0ce-b8be-4621-bef8-605803ac17af:22a39b77d87b4c37bf22b687303da1ad
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 11eae0ce-b8be-4621-bef8-605803ac17af
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(consul-junior or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: a49ca7b1-9a9c-4863-98b1-90309aa766fb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a49ca7b1-9a9c-4863-98b1-90309aa766fb
+[NotebookApp | WARNING] WebSocket ping timeout after 119980 ms.
+[NotebookApp | INFO] Starting buffering for a49ca7b1-9a9c-4863-98b1-90309aa766fb:83a67218b10846618e372c1b271cccd9
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: a49ca7b1-9a9c-4863-98b1-90309aa766fb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(consul-junior or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f8497668-2f93-4436-935f-cd6110388d88
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f8497668-2f93-4436-935f-cd6110388d88
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(sherman-decade or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(sherman-decade or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 6c2e3465-7351-4c1c-a35d-1c2f943bc2d2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6c2e3465-7351-4c1c-a35d-1c2f943bc2d2
+[NotebookApp | INFO] Starting buffering for 6c2e3465-7351-4c1c-a35d-1c2f943bc2d2:df34ea47239b45f38ce2ff3a26d51480
+[NotebookApp | WARNING] Notebook Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6c2e3465-7351-4c1c-a35d-1c2f943bc2d2
+[NotebookApp | INFO] Saving file at /Data Science in the Wild.ipynb
+[NotebookApp | INFO] Starting buffering for 6c2e3465-7351-4c1c-a35d-1c2f943bc2d2:5042c3a700eb4e8ebbb92db7e586ca57
+[NotebookApp | WARNING] Notebook Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6c2e3465-7351-4c1c-a35d-1c2f943bc2d2
+[NotebookApp | INFO] Starting buffering for 6c2e3465-7351-4c1c-a35d-1c2f943bc2d2:596a170ce03b4516bc053ccdcd481dcc
+[NotebookApp | WARNING] Notebook Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6c2e3465-7351-4c1c-a35d-1c2f943bc2d2
+[NotebookApp | INFO] Saving file at /Data Science in the Wild.ipynb
+[NotebookApp | INFO] Saving file at /Data Science in the Wild.ipynb
+[NotebookApp | INFO] Starting buffering for 6c2e3465-7351-4c1c-a35d-1c2f943bc2d2:78d1375330dc4766809687e1ea081786
+[NotebookApp | INFO] Kernel restarted: 6c2e3465-7351-4c1c-a35d-1c2f943bc2d2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 6c2e3465-7351-4c1c-a35d-1c2f943bc2d2
+[NotebookApp | INFO] Restoring connection for 6c2e3465-7351-4c1c-a35d-1c2f943bc2d2:78d1375330dc4766809687e1ea081786
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Data Science in the Wild.ipynb
+[NotebookApp | INFO] Saving file at /Data Science in the Wild.ipynb
+[NotebookApp | INFO] Starting buffering for 6c2e3465-7351-4c1c-a35d-1c2f943bc2d2:78d1375330dc4766809687e1ea081786
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(package-ruby or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(package-ruby or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 2d7eeed6-54ae-4156-97c3-81a3f54a8b51
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2d7eeed6-54ae-4156-97c3-81a3f54a8b51
+[NotebookApp | INFO] Starting buffering for 2d7eeed6-54ae-4156-97c3-81a3f54a8b51:9fc7a72099d64f88b45e2bf6e8698e1b
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 2d7eeed6-54ae-4156-97c3-81a3f54a8b51
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(package-ruby or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 5346b70c-b5f9-4c5b-9a55-7b89315db13d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5346b70c-b5f9-4c5b-9a55-7b89315db13d
