@@ -1,0 +1,171 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(input-elvis or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 95b25751-9f47-4e9e-8a3f-da9a657c2109
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 95b25751-9f47-4e9e-8a3f-da9a657c2109
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.205) 6.75ms referer=https://input-elvis-3000.codio.io/notebooks/Euclidean%20Distance%20Function%20Without%20Loops.ipynb
+[NotebookApp | INFO] Saving file at /Euclidean Distance Function Without Loops.ipynb
+[NotebookApp | INFO] Starting buffering for 95b25751-9f47-4e9e-8a3f-da9a657c2109:ec3a661c6bd44f91b0dd8bef87534d96
+[NotebookApp | INFO] Kernel restarted: 95b25751-9f47-4e9e-8a3f-da9a657c2109
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 95b25751-9f47-4e9e-8a3f-da9a657c2109
+[NotebookApp | INFO] Restoring connection for 95b25751-9f47-4e9e-8a3f-da9a657c2109:ec3a661c6bd44f91b0dd8bef87534d96
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Euclidean Distance Function Without Loops.ipynb
+[NotebookApp | INFO] Starting buffering for 95b25751-9f47-4e9e-8a3f-da9a657c2109:ec3a661c6bd44f91b0dd8bef87534d96
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(donor-archive or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 8d5614dd-addb-4332-8c9d-cfe3c0b85183
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8d5614dd-addb-4332-8c9d-cfe3c0b85183
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.160) 6.10ms referer=https://donor-archive-3000.codio.io/notebooks/Euclidean%20Distance%20Function%20Without%20Loops.ipynb
+[NotebookApp | INFO] Saving file at /Euclidean Distance Function Without Loops.ipynb
+[NotebookApp | WARNING] WebSocket ping timeout after 119974 ms.
+[NotebookApp | INFO] Starting buffering for 8d5614dd-addb-4332-8c9d-cfe3c0b85183:d5beb4cd645b4a1d8a44fe558ec0fcd5
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 8d5614dd-addb-4332-8c9d-cfe3c0b85183
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(donor-archive or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: a791d117-84fc-4e95-8bfd-b952fdf9c041
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a791d117-84fc-4e95-8bfd-b952fdf9c041
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a791d117-84fc-4e95-8bfd-b952fdf9c041
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.160) 9.22ms referer=https://donor-archive-3000.codio.io/notebooks/Euclidean%20Distance%20Function%20Without%20Loops.ipynb
+[NotebookApp | INFO] Starting buffering for a791d117-84fc-4e95-8bfd-b952fdf9c041:300694ebf0674edcaa4a04cf378f10f5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a791d117-84fc-4e95-8bfd-b952fdf9c041
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.160) 1.81ms referer=https://donor-archive-3000.codio.io/notebooks/Euclidean%20Distance%20Function%20Without%20Loops.ipynb
+[NotebookApp | INFO] Starting buffering for a791d117-84fc-4e95-8bfd-b952fdf9c041:4be4fe214a1c4a5085dde67ea47d882d
+[NotebookApp | INFO] Kernel restarted: a791d117-84fc-4e95-8bfd-b952fdf9c041
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a791d117-84fc-4e95-8bfd-b952fdf9c041
+[NotebookApp | INFO] Restoring connection for a791d117-84fc-4e95-8bfd-b952fdf9c041:4be4fe214a1c4a5085dde67ea47d882d
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Euclidean Distance Function Without Loops.ipynb
+[NotebookApp | INFO] Starting buffering for a791d117-84fc-4e95-8bfd-b952fdf9c041:4be4fe214a1c4a5085dde67ea47d882d
+[NotebookApp | INFO] Kernel restarted: a791d117-84fc-4e95-8bfd-b952fdf9c041
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a791d117-84fc-4e95-8bfd-b952fdf9c041
+[NotebookApp | INFO] Restoring connection for a791d117-84fc-4e95-8bfd-b952fdf9c041:4be4fe214a1c4a5085dde67ea47d882d
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Euclidean Distance Function Without Loops.ipynb
+[NotebookApp | INFO] Starting buffering for a791d117-84fc-4e95-8bfd-b952fdf9c041:4be4fe214a1c4a5085dde67ea47d882d
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: a791d117-84fc-4e95-8bfd-b952fdf9c041
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(donor-archive or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: cdd8f56a-2f1f-401f-837e-69de91afc445
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cdd8f56a-2f1f-401f-837e-69de91afc445
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.205) 6.87ms referer=https://donor-archive-3000.codio.io/notebooks/Euclidean%20Distance%20Function%20Without%20Loops.ipynb
+[NotebookApp | INFO] Starting buffering for cdd8f56a-2f1f-401f-837e-69de91afc445:63a4717b7237421db3306db89f4bd81e
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: cdd8f56a-2f1f-401f-837e-69de91afc445
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(donor-archive or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 34eae172-cd0f-4dae-9255-c5b43acfa2ef
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 34eae172-cd0f-4dae-9255-c5b43acfa2ef
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.212) 8.38ms referer=https://donor-archive-3000.codio.io/notebooks/Euclidean%20Distance%20Function%20Without%20Loops.ipynb
+[NotebookApp | INFO] Starting buffering for 34eae172-cd0f-4dae-9255-c5b43acfa2ef:9ed85d4ac209463c8481b4b0b5296f4c
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 34eae172-cd0f-4dae-9255-c5b43acfa2ef
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(donor-archive or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 7e9afa1d-40c0-4639-b52e-3b4656251ba9
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7e9afa1d-40c0-4639-b52e-3b4656251ba9
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.205) 9.19ms referer=https://donor-archive-3000.codio.io/notebooks/Euclidean%20Distance%20Function%20Without%20Loops.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(madrid-chamber or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Euclidean Distance Function Without Loops.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d032f3ea-a63e-46b0-a911-f7b04164687c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d032f3ea-a63e-46b0-a911-f7b04164687c
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.160) 6.28ms referer=https://madrid-chamber-3000.codio.io/notebooks/Euclidean%20Distance%20Function%20Without%20Loops.ipynb
+[NotebookApp | INFO] Saving file at /Euclidean Distance Function Without Loops.ipynb
+[NotebookApp | INFO] Starting buffering for d032f3ea-a63e-46b0-a911-f7b04164687c:6689c573744c4fda8f7091ee80e331fa
+[NotebookApp | INFO] Kernel restarted: d032f3ea-a63e-46b0-a911-f7b04164687c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d032f3ea-a63e-46b0-a911-f7b04164687c
+[NotebookApp | INFO] Restoring connection for d032f3ea-a63e-46b0-a911-f7b04164687c:6689c573744c4fda8f7091ee80e331fa
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Starting buffering for d032f3ea-a63e-46b0-a911-f7b04164687c:6689c573744c4fda8f7091ee80e331fa
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d032f3ea-a63e-46b0-a911-f7b04164687c
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.212) 1.43ms referer=https://madrid-chamber-3000.codio.io/notebooks/Euclidean%20Distance%20Function%20Without%20Loops.ipynb
+[NotebookApp | INFO] Saving file at /Euclidean Distance Function Without Loops.ipynb
+[NotebookApp | INFO] Saving file at /Euclidean Distance Function Without Loops.ipynb
+[NotebookApp | INFO] Starting buffering for d032f3ea-a63e-46b0-a911-f7b04164687c:63edd87ea3604d7bb501c37dd03e0c5e
+[NotebookApp | INFO] Kernel restarted: d032f3ea-a63e-46b0-a911-f7b04164687c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d032f3ea-a63e-46b0-a911-f7b04164687c
+[NotebookApp | INFO] Restoring connection for d032f3ea-a63e-46b0-a911-f7b04164687c:63edd87ea3604d7bb501c37dd03e0c5e
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Euclidean Distance Function Without Loops.ipynb
+[NotebookApp | INFO] Starting buffering for d032f3ea-a63e-46b0-a911-f7b04164687c:63edd87ea3604d7bb501c37dd03e0c5e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d032f3ea-a63e-46b0-a911-f7b04164687c
+[NotebookApp | INFO] Starting buffering for d032f3ea-a63e-46b0-a911-f7b04164687c:0af7d60fc4f24fae8df8b2f5627d2664
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(monarch-prague or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 109b43ff-9c56-4d96-a328-cd5f90db3e4b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 109b43ff-9c56-4d96-a328-cd5f90db3e4b
+[NotebookApp | INFO] Starting buffering for 109b43ff-9c56-4d96-a328-cd5f90db3e4b:a406a28d570d456a984e8021b226bee3
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 109b43ff-9c56-4d96-a328-cd5f90db3e4b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(monarch-prague or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: a52bce99-217c-494b-bb53-c1f91fb9cf40
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a52bce99-217c-494b-bb53-c1f91fb9cf40
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.205) 6.71ms referer=https://monarch-prague-3000.codio.io/notebooks/Euclidean%20Distance%20Function%20Without%20Loops.ipynb
+[NotebookApp | INFO] Saving file at /Euclidean Distance Function Without Loops.ipynb
+[NotebookApp | INFO] Starting buffering for a52bce99-217c-494b-bb53-c1f91fb9cf40:9462b2c22d3e4bea8dcd68d88541fec6
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: a52bce99-217c-494b-bb53-c1f91fb9cf40
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(monarch-prague or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: b7ff3356-c1ad-47be-bd2f-e090aab06be1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b7ff3356-c1ad-47be-bd2f-e090aab06be1
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.212) 6.96ms referer=https://monarch-prague-3000.codio.io/notebooks/Euclidean%20Distance%20Function%20Without%20Loops.ipynb
+[NotebookApp | INFO] Starting buffering for b7ff3356-c1ad-47be-bd2f-e090aab06be1:9b8529ca97734edb85b47cff6ca1af05
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: b7ff3356-c1ad-47be-bd2f-e090aab06be1
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(monarch-prague or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
