@@ -6,7 +6,7 @@ In this exercise, you will need to write a function that assumes conditional ind
 
 P(x|y=c) = [0.212, 0.234, 0.155, .021, .04]
 
-Since we are assuming independence, we can simply multiply these probabilities to get the so-called class conditional probability of observing this data point (i.e. this combination of feature values).
+Since we are assuming independence, we can simply multiply these probabilities to get the class conditional probability of observing this data point (i.e. this combination of feature values).
 
 Instructions:
 
