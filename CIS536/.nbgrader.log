@@ -1,0 +1,48 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS536
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=e3581a3ea172e2beba06688340cbac773135a383112764da
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-18024-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=e3581a3ea172e2beba06688340cbac773135a383112764da
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS536/source/./KernelSVM/.nbgrader.log -> /home/cheng/Desktop/CIS530/CIS536/release/./KernelSVM/.nbgrader.log
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS536/source/./KernelSVM/helper.py -> /home/cheng/Desktop/CIS530/CIS536/release/./KernelSVM/helper.py
+[NotebookApp | INFO] Updating/creating assignment 'KernelSVM': {}
+[NotebookApp | INFO] Converting notebook /home/cheng/Desktop/CIS530/CIS536/source/./KernelSVM/Kernel SVM.ipynb
+[NotebookApp | INFO] Writing 38173 bytes to /home/cheng/Desktop/CIS530/CIS536/release/./KernelSVM/Kernel SVM.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS536/source/./LinearSVM/yinyang.png -> /home/cheng/Desktop/CIS530/CIS536/release/./LinearSVM/yinyang.png
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS536/source/./LinearSVM/.nbgrader.log -> /home/cheng/Desktop/CIS530/CIS536/release/./LinearSVM/.nbgrader.log
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS536/source/./LinearSVM/helper.py -> /home/cheng/Desktop/CIS530/CIS536/release/./LinearSVM/helper.py
+[NotebookApp | INFO] Updating/creating assignment 'LinearSVM': {}
+[NotebookApp | INFO] Converting notebook /home/cheng/Desktop/CIS530/CIS536/source/./LinearSVM/linearSVM.ipynb
+[NotebookApp | INFO] Writing 22096 bytes to /home/cheng/Desktop/CIS530/CIS536/release/./LinearSVM/linearSVM.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] Notebook release/KernelSVM/Kernel SVM.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7c61315e-7995-4aa9-ad29-245c70ec27f6
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7c61315e-7995-4aa9-ad29-245c70ec27f6
+[NotebookApp | WARNING] Notebook release/LinearSVM/linearSVM.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/release/LinearSVM/yinyang.png (127.0.0.1) 1.04ms
+[NotebookApp | INFO] Kernel started: ddf5095f-8639-4338-9fa2-187a753a2e54
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ddf5095f-8639-4338-9fa2-187a753a2e54
+[NotebookApp | INFO] Starting buffering for ddf5095f-8639-4338-9fa2-187a753a2e54:27b1926c08a0466fb05837e95cfbc3a9
+[NotebookApp | INFO] Starting buffering for 7c61315e-7995-4aa9-ad29-245c70ec27f6:8a92fbfc8d3949f9830338ee3e722b09
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Kernel shutdown: 7c61315e-7995-4aa9-ad29-245c70ec27f6
+[NotebookApp | INFO] Kernel shutdown: ddf5095f-8639-4338-9fa2-187a753a2e54

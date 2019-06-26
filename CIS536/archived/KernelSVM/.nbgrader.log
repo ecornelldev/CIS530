@@ -1,0 +1,40 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS536/source/KernelSVM
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=7d887b9f45b7cddbc1a6206345821c717aaf8ea1cc6be3cb
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-2814-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=7d887b9f45b7cddbc1a6206345821c717aaf8ea1cc6be3cb
+[NotebookApp | INFO] Kernel started: 82e2bb85-f19b-4d3c-9b81-bfebeb1ca78f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 82e2bb85-f19b-4d3c-9b81-bfebeb1ca78f
+[NotebookApp | INFO] Saving file at /KernelSVM_dev.ipynb
+[NotebookApp | INFO] Saving file at /KernelSVM_dev.ipynb
+[NotebookApp | INFO] Saving file at /KernelSVM_dev.ipynb
+[NotebookApp | INFO] Saving file at /KernelSVM_dev.ipynb
+[NotebookApp | INFO] Saving file at /KernelSVM_dev.ipynb
+[NotebookApp | INFO] Saving file at /KernelSVM_dev.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/yinyang.png (127.0.0.1): No such file or directory: yinyang.png
+[NotebookApp | WARNING] 404 GET /notebooks/yinyang.png (127.0.0.1) 6.25ms referer=http://localhost:8888/notebooks/python_HW6_KERNEL_solution.ipynb
+[NotebookApp | WARNING] 404 GET /notebooks/crossval.png (127.0.0.1): No such file or directory: crossval.png
+[NotebookApp | WARNING] 404 GET /notebooks/crossval.png (127.0.0.1) 1.22ms referer=http://localhost:8888/notebooks/python_HW6_KERNEL_solution.ipynb
+[NotebookApp | INFO] Kernel started: c99eb599-076b-46de-bf33-2b6d0d5712c8
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c99eb599-076b-46de-bf33-2b6d0d5712c8
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 1.00ms referer=http://localhost:8888/notebooks/python_HW6_KERNEL_solution.ipynb
+[NotebookApp | INFO] Saving file at /KernelSVM_dev.ipynb
+[NotebookApp | INFO] Saving file at /KernelSVM_dev.ipynb
+[NotebookApp | INFO] Saving file at /KernelSVM_dev.ipynb
+[NotebookApp | INFO] Saving file at /KernelSVM_dev.ipynb
+[NotebookApp | INFO] Saving file at /KernelSVM_dev.ipynb
+[NotebookApp | INFO] Starting buffering for c99eb599-076b-46de-bf33-2b6d0d5712c8:9624d9057b914b058456854220cfb216
+[NotebookApp | INFO] Starting buffering for 82e2bb85-f19b-4d3c-9b81-bfebeb1ca78f:d9c077385924415d81339b4a6705bd63
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Shutting down 2 kernels
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Kernel shutdown: 82e2bb85-f19b-4d3c-9b81-bfebeb1ca78f
+[NotebookApp | INFO] Kernel shutdown: c99eb599-076b-46de-bf33-2b6d0d5712c8
