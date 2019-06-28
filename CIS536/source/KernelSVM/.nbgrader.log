@@ -38,3 +38,23 @@
 [NotebookApp | CRITICAL] received signal 2, stopping
 [NotebookApp | INFO] Kernel shutdown: 82e2bb85-f19b-4d3c-9b81-bfebeb1ca78f
 [NotebookApp | INFO] Kernel shutdown: c99eb599-076b-46de-bf33-2b6d0d5712c8
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/cave/Desktop/CIS530/CIS536/source/KernelSVM
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=1be59922784e7d4d3c94c751b2f57f02e728c3dfb435c0f5
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/cave/Library/Jupyter/runtime/nbserver-14470-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=1be59922784e7d4d3c94c751b2f57f02e728c3dfb435c0f5
+[NotebookApp | WARNING] Notebook Kernel SVM.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 44fc0db2-ed72-4c79-9411-dcb119a77253
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 44fc0db2-ed72-4c79-9411-dcb119a77253
+[NotebookApp | INFO] Saving file at /Kernel SVM.ipynb
+[NotebookApp | WARNING] Notebook Kernel SVM.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /Kernel SVM.ipynb
+[NotebookApp | INFO] Saving file at /Kernel SVM.ipynb
+[NotebookApp | INFO] Starting buffering for 44fc0db2-ed72-4c79-9411-dcb119a77253:3f6de835f4094fa981360fdfae0deb02
