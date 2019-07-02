@@ -137,25 +137,36 @@
 [NotebookApp | INFO] The Jupyter Notebook is running at:
 [NotebookApp | INFO] http://(genius-igor or 127.0.0.1):3000/
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[NotebookApp | CRITICAL] received signal 15, stopping
-[NotebookApp | INFO] Shutting down 0 kernels
 [NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
 [NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
 [NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
 [NotebookApp | INFO] The Jupyter Notebook is running at:
-[NotebookApp | INFO] http://(genius-igor or 127.0.0.1):3000/
+[NotebookApp | INFO] http://(hilton-apropos or 127.0.0.1):3000/
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[NotebookApp | INFO] Kernel started: 1ecc05a0-12cf-418f-8a7e-5737bf53f9a5
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 1ecc05a0-12cf-418f-8a7e-5737bf53f9a5
-[NotebookApp | INFO] Starting buffering for 1ecc05a0-12cf-418f-8a7e-5737bf53f9a5:32655d2bd29644289ead3ce74a34ef6e
+[NotebookApp | WARNING] Notebook Cross Validation.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: ee0a55c7-c5b2-4b58-9019-b77e98f006bd
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ee0a55c7-c5b2-4b58-9019-b77e98f006bd
+[NotebookApp | INFO] Starting buffering for ee0a55c7-c5b2-4b58-9019-b77e98f006bd:b613becaed3e40658e826381049adc41
 [NotebookApp | CRITICAL] received signal 15, stopping
 [NotebookApp | INFO] Shutting down 1 kernel
-[NotebookApp | INFO] Kernel shutdown: 1ecc05a0-12cf-418f-8a7e-5737bf53f9a5
+[NotebookApp | INFO] Kernel shutdown: ee0a55c7-c5b2-4b58-9019-b77e98f006bd
 [NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
 [NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
 [NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
 [NotebookApp | INFO] The Jupyter Notebook is running at:
-[NotebookApp | INFO] http://(genius-igor or 127.0.0.1):3000/
+[NotebookApp | INFO] http://(hilton-apropos or 127.0.0.1):3000/
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[NotebookApp | INFO] Kernel started: 8f8c3104-69bf-49be-93f1-070d9d9bca6c
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8f8c3104-69bf-49be-93f1-070d9d9bca6c
+[NotebookApp | WARNING] Notebook Cross Validation.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7af78b61-decd-44be-91a9-76c06feb2203
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(include-corner or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Cross Validation.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: f357994a-9907-45ec-be33-81a3ed2ecf31
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f357994a-9907-45ec-be33-81a3ed2ecf31
+[NotebookApp | INFO] Starting buffering for f357994a-9907-45ec-be33-81a3ed2ecf31:4bbad714d22c42a98eedb537eff37dec
+[NotebookApp | WARNING] Notebook Cross Validation.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f357994a-9907-45ec-be33-81a3ed2ecf31

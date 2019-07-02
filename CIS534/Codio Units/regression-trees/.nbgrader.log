@@ -404,25 +404,49 @@
 [NotebookApp | INFO] The Jupyter Notebook is running at:
 [NotebookApp | INFO] http://(sardine-explain or 127.0.0.1):3000/
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[NotebookApp | CRITICAL] received signal 15, stopping
-[NotebookApp | INFO] Shutting down 0 kernels
 [NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
 [NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
 [NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
 [NotebookApp | INFO] The Jupyter Notebook is running at:
-[NotebookApp | INFO] http://(sardine-explain or 127.0.0.1):3000/
+[NotebookApp | INFO] http://(giant-drama or 127.0.0.1):3000/
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[NotebookApp | INFO] Kernel started: 30e3bb24-b9d8-4d55-b1c0-7f8bbcf7e696
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 30e3bb24-b9d8-4d55-b1c0-7f8bbcf7e696
-[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.205) 6.62ms referer=https://sardine-explain-3000.codio.io/notebooks/Regression_tree.ipynb
-[NotebookApp | INFO] Starting buffering for 30e3bb24-b9d8-4d55-b1c0-7f8bbcf7e696:7aeb4913eebd473a88f0e15ba4244440
+[NotebookApp | WARNING] Notebook Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 0852cd9b-1466-419e-bad0-8f76e031d0f7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0852cd9b-1466-419e-bad0-8f76e031d0f7
+[NotebookApp | INFO] Starting buffering for 0852cd9b-1466-419e-bad0-8f76e031d0f7:bce0d82880b6424d9435389fcfc29592
 [NotebookApp | CRITICAL] received signal 15, stopping
 [NotebookApp | INFO] Shutting down 1 kernel
-[NotebookApp | INFO] Kernel shutdown: 30e3bb24-b9d8-4d55-b1c0-7f8bbcf7e696
+[NotebookApp | INFO] Kernel shutdown: 0852cd9b-1466-419e-bad0-8f76e031d0f7
 [NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
 [NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
 [NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
 [NotebookApp | INFO] The Jupyter Notebook is running at:
-[NotebookApp | INFO] http://(sardine-explain or 127.0.0.1):3000/
+[NotebookApp | INFO] http://(giant-drama or 127.0.0.1):3000/
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[NotebookApp | INFO] Kernel started: a9607073-52b2-40ba-af8b-cac5a354dabf
+[NotebookApp | WARNING] Notebook Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 4c3001b6-80ec-418a-bf62-8c03b69b7d29
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4c3001b6-80ec-418a-bf62-8c03b69b7d29
+[NotebookApp | INFO] Starting buffering for 4c3001b6-80ec-418a-bf62-8c03b69b7d29:1c76134076f04260a897fc7772f2a6de
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(buzzer-prize or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 00ba4d45-b126-4d6d-bc18-490889719b12
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 00ba4d45-b126-4d6d-bc18-490889719b12
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (192.168.10.160) 6.68ms referer=https://buzzer-prize-3000.codio.io/notebooks/Regression_tree.ipynb
+[NotebookApp | INFO] Starting buffering for 00ba4d45-b126-4d6d-bc18-490889719b12:f0fff65af4ee423f9032df1c9766e0c5
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 00ba4d45-b126-4d6d-bc18-490889719b12
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(buzzer-prize or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 0ed02e44-aeb9-4379-99c5-c0353fc69603
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0ed02e44-aeb9-4379-99c5-c0353fc69603

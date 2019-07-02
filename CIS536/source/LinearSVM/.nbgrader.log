@@ -1,0 +1,20 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS536/source/LinearSVM
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=1286392fdb392cd55aae1d3b0c9d1ac287dc20664cab5cff
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-21729-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=1286392fdb392cd55aae1d3b0c9d1ac287dc20664cab5cff
+[NotebookApp | INFO] 302 GET /notebooks/yinyang.png (127.0.0.1) 0.65ms
+[NotebookApp | WARNING] 404 GET /notebooks/crossval.png (127.0.0.1): No such file or directory: crossval.png
+[NotebookApp | WARNING] 404 GET /notebooks/crossval.png (127.0.0.1) 5.32ms referer=http://localhost:8889/notebooks/linearSVM.ipynb
+[NotebookApp | INFO] Kernel started: dbdb9786-47b3-400c-99d3-1aa617d68d7c
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dbdb9786-47b3-400c-99d3-1aa617d68d7c
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 0.98ms referer=http://localhost:8889/notebooks/linearSVM.ipynb
+[NotebookApp | INFO] Saving file at /linearSVM.ipynb
+[NotebookApp | INFO] Starting buffering for dbdb9786-47b3-400c-99d3-1aa617d68d7c:9a87a388e6334f7f81fb50e79acb0805

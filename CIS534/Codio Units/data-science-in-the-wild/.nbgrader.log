@@ -91,25 +91,45 @@
 [NotebookApp | INFO] The Jupyter Notebook is running at:
 [NotebookApp | INFO] http://(package-ruby or 127.0.0.1):3000/
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[NotebookApp | CRITICAL] received signal 15, stopping
-[NotebookApp | INFO] Shutting down 0 kernels
 [NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
 [NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
 [NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
 [NotebookApp | INFO] The Jupyter Notebook is running at:
-[NotebookApp | INFO] http://(package-ruby or 127.0.0.1):3000/
+[NotebookApp | INFO] http://(dolby-wedding or 127.0.0.1):3000/
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[NotebookApp | INFO] Kernel started: 2d7eeed6-54ae-4156-97c3-81a3f54a8b51
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 2d7eeed6-54ae-4156-97c3-81a3f54a8b51
-[NotebookApp | INFO] Starting buffering for 2d7eeed6-54ae-4156-97c3-81a3f54a8b51:9fc7a72099d64f88b45e2bf6e8698e1b
+[NotebookApp | WARNING] Notebook Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d017efa4-e900-4990-9176-c8c7a11aece9
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d017efa4-e900-4990-9176-c8c7a11aece9
+[NotebookApp | INFO] Starting buffering for d017efa4-e900-4990-9176-c8c7a11aece9:fc19cb3ed4bf4aff8ea64c68ac1ae8ae
+[NotebookApp | WARNING] Notebook Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d017efa4-e900-4990-9176-c8c7a11aece9
+[NotebookApp | INFO] Starting buffering for d017efa4-e900-4990-9176-c8c7a11aece9:b055e432be3f42028625a6b25e17e0e7
+[NotebookApp | WARNING] Notebook Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d017efa4-e900-4990-9176-c8c7a11aece9
+[NotebookApp | INFO] Starting buffering for d017efa4-e900-4990-9176-c8c7a11aece9:40b0a0269cc44b628341dfe7a0d44aee
 [NotebookApp | CRITICAL] received signal 15, stopping
 [NotebookApp | INFO] Shutting down 1 kernel
-[NotebookApp | INFO] Kernel shutdown: 2d7eeed6-54ae-4156-97c3-81a3f54a8b51
+[NotebookApp | INFO] Kernel shutdown: d017efa4-e900-4990-9176-c8c7a11aece9
 [NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
 [NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
 [NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
 [NotebookApp | INFO] The Jupyter Notebook is running at:
-[NotebookApp | INFO] http://(package-ruby or 127.0.0.1):3000/
+[NotebookApp | INFO] http://(dolby-wedding or 127.0.0.1):3000/
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[NotebookApp | INFO] Kernel started: 5346b70c-b5f9-4c5b-9a55-7b89315db13d
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5346b70c-b5f9-4c5b-9a55-7b89315db13d
+[NotebookApp | WARNING] Notebook Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 5dd6019a-7496-4b53-b615-f23fec1fc148
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://(pelican-quality or 127.0.0.1):3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: cddbcda9-476c-4b51-9c41-962c772b9d6b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cddbcda9-476c-4b51-9c41-962c772b9d6b
+[NotebookApp | INFO] Starting buffering for cddbcda9-476c-4b51-9c41-962c772b9d6b:773573b5f12c4cf7ad227e8b0b5bdf27
+[NotebookApp | WARNING] Notebook Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cddbcda9-476c-4b51-9c41-962c772b9d6b
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: cddbcda9-476c-4b51-9c41-962c772b9d6b
