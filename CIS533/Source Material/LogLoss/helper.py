@@ -14,10 +14,9 @@ def runtest(test,name):
         print(' '.join(traceback.format_tb(sys.exc_info()[2])))
 
 
-def log_loss_grader(X, y, w):
-    h_x = np.dot(X, w)
+def log_loss_grader(X, y, w, b=0):
     #log_likelihood = np.sum(y*h_x - np.log(1 + np.exp(h_x))) # <-- wrong kqw
-    log_likelihood =  np.sum(np.log(1+np.exp(-y*(X@w))))
+    log_likelihood =  np.sum(np.log(1+np.exp(-y*(X@w + b))))
     return log_likelihood
 
 
@@ -26,21 +25,25 @@ def sigmoid_grader(z):
     return sgmd
 
 
-def gradient_grader(X, y, w):
+def gradient_grader(X, y, w, b):
     # h_x = np.dot(X, w)
     # y_hat = sigmoid_grader(h_x)
     # grad = np.dot(X.T, (y_hat-y))
-    grad = -X.T@(y*sigmoid_grader(-y*(X@w)))
-    return grad
+    temp = (-y*sigmoid_grader(-y*(X@w + b)))
+    wgrad = X.T@temp
+    bgrad = np.sum(temp)
+    return wgrad, bgrad
 
 
 
-def logistic_regression_grader(X, y, max_iter, alpha,gradfunc=gradient_grader):
+def logistic_regression_grader(X, y, max_iter, alpha, gradfunc=gradient_grader):
     n, d = X.shape
-    weights = np.zeros(d)
+    w = np.zeros(d)
+    b = 0.0
     losses = np.zeros(max_iter)     
     for step in range(max_iter):
-        grad = gradfunc(X, y, weights)
-        weights -= alpha * grad
-        losses[step] = log_loss_grader(X, y, weights)    
-    return weights, losses
+        wgrad, bgrad = gradfunc(X, y, w, b)
+        w -= alpha * wgrad
+        b -= alpha * bgrad
+        losses[step] = log_loss_grader(X, y, w, b)    
+    return w, b, losses

@@ -1,0 +1,53 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS533/Source Material/LogLoss
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=f88b47c0c596bf477bf20d07cbf1d1c85a528c9bbb55239f
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-2508-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=f88b47c0c596bf477bf20d07cbf1d1c85a528c9bbb55239f
+[NotebookApp | WARNING] Notebook logistic_loss.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 4593a3c7-63ef-4aa2-a12e-600b75b6ad50
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 4593a3c7-63ef-4aa2-a12e-600b75b6ad50
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | WARNING] Notebook logistic_loss.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | WARNING] Notebook logistic_loss.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | WARNING] Notebook logistic_loss.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | WARNING] Notebook logistic_loss.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | WARNING] Notebook logistic_loss.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | WARNING] Notebook logistic_loss.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | WARNING] Notebook logistic_loss.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | WARNING] Notebook logistic_loss.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | WARNING] Notebook logistic_loss.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | WARNING] Notebook logistic_loss.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | WARNING] Notebook logistic_loss.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | WARNING] Notebook logistic_loss.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | WARNING] Notebook logistic_loss.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | WARNING] Notebook logistic_loss.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | INFO] Saving file at /logistic_loss.ipynb
+[NotebookApp | INFO] Starting buffering for 4593a3c7-63ef-4aa2-a12e-600b75b6ad50:a96454864f73447ca7b96ac61eff1ab4
