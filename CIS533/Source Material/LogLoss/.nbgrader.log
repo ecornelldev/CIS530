@@ -51,3 +51,33 @@
 [NotebookApp | INFO] Saving file at /logistic_loss.ipynb
 [NotebookApp | INFO] Saving file at /logistic_loss.ipynb
 [NotebookApp | INFO] Starting buffering for 4593a3c7-63ef-4aa2-a12e-600b75b6ad50:a96454864f73447ca7b96ac61eff1ab4
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS533/Source Material/LogLoss
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=9b47b491421badf53108e324ee996f574f2f43edefb8af17
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-7128-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=9b47b491421badf53108e324ee996f574f2f43edefb8af17
+[NotebookApp | INFO] Kernel started: b00ffe51-2960-4854-8065-c14ada86f8fa
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b00ffe51-2960-4854-8065-c14ada86f8fa
+[NotebookApp | INFO] Starting buffering for b00ffe51-2960-4854-8065-c14ada86f8fa:7b02b641df1547b38688b74c7c5e0093
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS533/Source Material/LogLoss
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8890/?token=76bfd33e6843d0bff6227ca1ebfb0981362820236fca6323
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-8862-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8890/?token=76bfd33e6843d0bff6227ca1ebfb0981362820236fca6323
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
