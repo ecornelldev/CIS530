@@ -1,0 +1,432 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS535
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=51fb678d3ae4465a6cda2e5d82c86c7aff3d70d8e37c7eaa
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-9248-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=51fb678d3ae4465a6cda2e5d82c86c7aff3d70d8e37c7eaa
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] Notebook source/BV/python_HW5_BV_solutions.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/source/BV/bias.jpg (127.0.0.1) 0.63ms
+[NotebookApp | INFO] Kernel started: dd3cc575-3cf9-4065-bc0f-b6436b643b4a
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel dd3cc575-3cf9-4065-bc0f-b6436b643b4a
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (127.0.0.1) 5.35ms referer=http://localhost:8888/notebooks/source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 0.80ms referer=http://localhost:8888/notebooks/source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS535
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=e8d20205bd86f9ffc3e49521f3d449893c1cdea89e749569
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-5807-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=e8d20205bd86f9ffc3e49521f3d449893c1cdea89e749569
+[NotebookApp | INFO] 302 GET /notebooks/Project%205%20Bias%20Variance%20Tradeoff/bias.jpg (127.0.0.1) 0.65ms
+[NotebookApp | INFO] Kernel started: f3f2c877-1f23-4e6f-a4da-26221a96178e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel f3f2c877-1f23-4e6f-a4da-26221a96178e
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (127.0.0.1) 4.36ms referer=http://localhost:8888/notebooks/Project%205%20Bias%20Variance%20Tradeoff/python_HW5_BV_solutions.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 0.83ms referer=http://localhost:8888/notebooks/Project%205%20Bias%20Variance%20Tradeoff/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/source/BV/bias.jpg (127.0.0.1) 0.62ms
+[NotebookApp | INFO] Kernel started: fe45162c-a761-44f6-b2d3-a1755e3fe936
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fe45162c-a761-44f6-b2d3-a1755e3fe936
+[NotebookApp | INFO] Saving file at /Project 5 Bias Variance Tradeoff/python_HW5_BV_solutions.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (127.0.0.1) 1.00ms referer=http://localhost:8888/notebooks/source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 0.96ms referer=http://localhost:8888/notebooks/source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /Project 5 Bias Variance Tradeoff/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /Project 5 Bias Variance Tradeoff/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /Project 5 Bias Variance Tradeoff/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /Project 5 Bias Variance Tradeoff/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /Project 5 Bias Variance Tradeoff/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Starting buffering for fe45162c-a761-44f6-b2d3-a1755e3fe936:66d3b54e46d341a180086c6edcb55206
+[NotebookApp | INFO] Kernel restarted: fe45162c-a761-44f6-b2d3-a1755e3fe936
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel fe45162c-a761-44f6-b2d3-a1755e3fe936
+[NotebookApp | INFO] Restoring connection for fe45162c-a761-44f6-b2d3-a1755e3fe936:66d3b54e46d341a180086c6edcb55206
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Starting buffering for fe45162c-a761-44f6-b2d3-a1755e3fe936:66d3b54e46d341a180086c6edcb55206
+[NotebookApp | INFO] Starting buffering for f3f2c877-1f23-4e6f-a4da-26221a96178e:6cef5554d285408595fc1f5b109af48b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS535
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=0aa65bc151b54b1cddcc669fd24a5fb00099c1d7f92342af
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-4615-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=0aa65bc151b54b1cddcc669fd24a5fb00099c1d7f92342af
+[NotebookApp | INFO] 302 GET /notebooks/source/BV/bias.jpg (127.0.0.1) 0.98ms
+[NotebookApp | INFO] Kernel started: a27f0e1d-49a9-4d33-87a5-2d980e0b9d5e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a27f0e1d-49a9-4d33-87a5-2d980e0b9d5e
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (127.0.0.1) 4.80ms referer=http://localhost:8888/notebooks/source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 0.86ms referer=http://localhost:8888/notebooks/source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/Project%205%20Bias%20Variance%20Tradeoff/bias.jpg (127.0.0.1) 0.93ms
+[NotebookApp | INFO] Kernel started: 3c9a4019-7f19-4fa4-b4f9-285c6c657c12
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3c9a4019-7f19-4fa4-b4f9-285c6c657c12
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (127.0.0.1) 1.07ms referer=http://localhost:8888/notebooks/Project%205%20Bias%20Variance%20Tradeoff/python_HW5_BV_solutions.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 0.94ms referer=http://localhost:8888/notebooks/Project%205%20Bias%20Variance%20Tradeoff/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Starting buffering for 3c9a4019-7f19-4fa4-b4f9-285c6c657c12:a7fbfeb93a524d36aa13c020cbc869f9
+[NotebookApp | INFO] Kernel restarted: 3c9a4019-7f19-4fa4-b4f9-285c6c657c12
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3c9a4019-7f19-4fa4-b4f9-285c6c657c12
+[NotebookApp | INFO] Restoring connection for 3c9a4019-7f19-4fa4-b4f9-285c6c657c12:a7fbfeb93a524d36aa13c020cbc869f9
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /Project 5 Bias Variance Tradeoff/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Starting buffering for a27f0e1d-49a9-4d33-87a5-2d980e0b9d5e:91790b84f1104975831f9fc8bab9796d
+[NotebookApp | INFO] Kernel restarted: a27f0e1d-49a9-4d33-87a5-2d980e0b9d5e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a27f0e1d-49a9-4d33-87a5-2d980e0b9d5e
+[NotebookApp | INFO] Restoring connection for a27f0e1d-49a9-4d33-87a5-2d980e0b9d5e:91790b84f1104975831f9fc8bab9796d
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS535/source/BV/python_HW5_BV_solutions.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Starting buffering for a27f0e1d-49a9-4d33-87a5-2d980e0b9d5e:91790b84f1104975831f9fc8bab9796d
+[NotebookApp | INFO] Kernel restarted: a27f0e1d-49a9-4d33-87a5-2d980e0b9d5e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a27f0e1d-49a9-4d33-87a5-2d980e0b9d5e
+[NotebookApp | INFO] Restoring connection for a27f0e1d-49a9-4d33-87a5-2d980e0b9d5e:91790b84f1104975831f9fc8bab9796d
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Starting buffering for a27f0e1d-49a9-4d33-87a5-2d980e0b9d5e:91790b84f1104975831f9fc8bab9796d
+[NotebookApp | INFO] Kernel restarted: a27f0e1d-49a9-4d33-87a5-2d980e0b9d5e
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a27f0e1d-49a9-4d33-87a5-2d980e0b9d5e
+[NotebookApp | INFO] Restoring connection for a27f0e1d-49a9-4d33-87a5-2d980e0b9d5e:91790b84f1104975831f9fc8bab9796d
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Starting buffering for 3c9a4019-7f19-4fa4-b4f9-285c6c657c12:a7fbfeb93a524d36aa13c020cbc869f9
+[NotebookApp | INFO] Kernel restarted: 3c9a4019-7f19-4fa4-b4f9-285c6c657c12
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3c9a4019-7f19-4fa4-b4f9-285c6c657c12
+[NotebookApp | INFO] Restoring connection for 3c9a4019-7f19-4fa4-b4f9-285c6c657c12:a7fbfeb93a524d36aa13c020cbc869f9
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Saving file at /source/BV/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Saving file at /Project 5 Bias Variance Tradeoff/python_HW5_BV_solutions.ipynb
+[NotebookApp | INFO] Starting buffering for 3c9a4019-7f19-4fa4-b4f9-285c6c657c12:a7fbfeb93a524d36aa13c020cbc869f9
+[NotebookApp | INFO] Starting buffering for a27f0e1d-49a9-4d33-87a5-2d980e0b9d5e:91790b84f1104975831f9fc8bab9796d
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS535
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=58b2523b85cc3c02e64252227589951ca35087e4c755c225
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-6559-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=58b2523b85cc3c02e64252227589951ca35087e4c755c225
+[NotebookApp | WARNING] delete /Project 5 Bias Variance Tradeoff
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS535/source/./AdaBoost/.nbgrader.log -> /home/cheng/Desktop/CIS530/CIS535/release/./AdaBoost/.nbgrader.log
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS535/source/./AdaBoost/helper.py -> /home/cheng/Desktop/CIS530/CIS535/release/./AdaBoost/helper.py
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS535/source/./AdaBoost/ion.mat -> /home/cheng/Desktop/CIS530/CIS535/release/./AdaBoost/ion.mat
+[NotebookApp | INFO] Updating/creating assignment 'AdaBoost': {}
+[NotebookApp | INFO] Converting notebook /home/cheng/Desktop/CIS530/CIS535/source/./AdaBoost/Bagging and AdaBoost.ipynb
+[NotebookApp | ERROR] There was an error processing assignment: /home/cheng/Desktop/CIS530/CIS535/source/./AdaBoost
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbgrader/converters/base.py", line 293, in convert_notebooks
+        self.convert_single_notebook(notebook_filename)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbgrader/converters/base.py", line 249, in convert_single_notebook
+        output, resources = self.exporter.from_filename(notebook_filename, resources=resources)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 179, in from_filename
+        return self.from_file(f, resources=resources, **kw)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 197, in from_file
+        return self.from_notebook_node(nbformat.read(file_stream, as_version=4), resources=resources, **kw)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/notebook.py", line 32, in from_notebook_node
+        nb_copy, resources = super(NotebookExporter, self).from_notebook_node(nb, resources, **kw)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 139, in from_notebook_node
+        nb_copy, resources = self._preprocess(nb_copy, resources)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 316, in _preprocess
+        nbc, resc = preprocessor(nbc, resc)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/preprocessors/base.py", line 47, in __call__
+        return self.preprocess(nb, resources)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbgrader/preprocessors/clearsolutions.py", line 130, in preprocess
+        nb, resources = super(ClearSolutions, self).preprocess(nb, resources)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/preprocessors/base.py", line 69, in preprocess
+        nb.cells[index], resources = self.preprocess_cell(cell, resources, index)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbgrader/preprocessors/clearsolutions.py", line 149, in preprocess_cell
+        "Solution region detected in a non-solution cell; please make sure "
+    RuntimeError: Solution region detected in a non-solution cell; please make sure all solution regions are within solution cells.
+    
+[NotebookApp | WARNING] Removing failed assignment: /home/cheng/Desktop/CIS530/CIS535/release/AdaBoost
+[NotebookApp | ERROR] There was an error processing assignment 'AdaBoost' for student '.'
+[NotebookApp | ERROR] Please see the the above traceback for details on the specific errors on the above failures.
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS535/source/./BV/.nbgrader.log -> /home/cheng/Desktop/CIS530/CIS535/release/./BV/.nbgrader.log
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS535/source/./BV/helper.py -> /home/cheng/Desktop/CIS530/CIS535/release/./BV/helper.py
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS535/source/./BV/bias.jpg -> /home/cheng/Desktop/CIS530/CIS535/release/./BV/bias.jpg
+[NotebookApp | INFO] Updating/creating assignment 'BV': {}
+[NotebookApp | INFO] Converting notebook /home/cheng/Desktop/CIS530/CIS535/source/./BV/Bias Variance Decomposition.ipynb
+[NotebookApp | INFO] Writing 31588 bytes to /home/cheng/Desktop/CIS530/CIS535/release/./BV/Bias Variance Decomposition.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS535/source/./AdaBoost/.nbgrader.log -> /home/cheng/Desktop/CIS530/CIS535/release/./AdaBoost/.nbgrader.log
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS535/source/./AdaBoost/helper.py -> /home/cheng/Desktop/CIS530/CIS535/release/./AdaBoost/helper.py
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS535/source/./AdaBoost/ion.mat -> /home/cheng/Desktop/CIS530/CIS535/release/./AdaBoost/ion.mat
+[NotebookApp | INFO] Updating/creating assignment 'AdaBoost': {}
+[NotebookApp | INFO] Converting notebook /home/cheng/Desktop/CIS530/CIS535/source/./AdaBoost/Bagging and AdaBoost.ipynb
+[NotebookApp | ERROR] There was an error processing assignment: /home/cheng/Desktop/CIS530/CIS535/source/./AdaBoost
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbgrader/converters/base.py", line 293, in convert_notebooks
+        self.convert_single_notebook(notebook_filename)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbgrader/converters/base.py", line 249, in convert_single_notebook
+        output, resources = self.exporter.from_filename(notebook_filename, resources=resources)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 179, in from_filename
+        return self.from_file(f, resources=resources, **kw)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 197, in from_file
+        return self.from_notebook_node(nbformat.read(file_stream, as_version=4), resources=resources, **kw)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/notebook.py", line 32, in from_notebook_node
+        nb_copy, resources = super(NotebookExporter, self).from_notebook_node(nb, resources, **kw)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 139, in from_notebook_node
+        nb_copy, resources = self._preprocess(nb_copy, resources)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/exporters/exporter.py", line 316, in _preprocess
+        nbc, resc = preprocessor(nbc, resc)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/preprocessors/base.py", line 47, in __call__
+        return self.preprocess(nb, resources)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbgrader/preprocessors/clearsolutions.py", line 130, in preprocess
+        nb, resources = super(ClearSolutions, self).preprocess(nb, resources)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbconvert/preprocessors/base.py", line 69, in preprocess
+        nb.cells[index], resources = self.preprocess_cell(cell, resources, index)
+      File "/home/cheng/anaconda3/lib/python3.7/site-packages/nbgrader/preprocessors/clearsolutions.py", line 149, in preprocess_cell
+        "Solution region detected in a non-solution cell; please make sure "
+    RuntimeError: Solution region detected in a non-solution cell; please make sure all solution regions are within solution cells.
+    
+[NotebookApp | WARNING] Removing failed assignment: /home/cheng/Desktop/CIS530/CIS535/release/AdaBoost
+[NotebookApp | ERROR] There was an error processing assignment 'AdaBoost' for student '.'
+[NotebookApp | ERROR] Please see the the above traceback for details on the specific errors on the above failures.
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Kernel started: 73708059-c244-4e72-b062-f18cd0c1356b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 73708059-c244-4e72-b062-f18cd0c1356b
+[NotebookApp | INFO] 302 GET /notebooks/source/BV/bias.jpg (127.0.0.1) 0.71ms
+[NotebookApp | INFO] Kernel started: b3118c27-1525-4e3f-9795-8db7844578e2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b3118c27-1525-4e3f-9795-8db7844578e2
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_AMS-Regular.otf (127.0.0.1) 5.93ms referer=http://localhost:8888/notebooks/source/BV/Bias%20Variance%20Decomposition.ipynb
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 1.15ms referer=http://localhost:8888/notebooks/source/BV/Bias%20Variance%20Decomposition.ipynb
+[NotebookApp | INFO] Saving file at /source/AdaBoost/Bagging and AdaBoost.ipynb
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS535/source/./AdaBoost/.nbgrader.log -> /home/cheng/Desktop/CIS530/CIS535/release/./AdaBoost/.nbgrader.log
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS535/source/./AdaBoost/helper.py -> /home/cheng/Desktop/CIS530/CIS535/release/./AdaBoost/helper.py
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS535/source/./AdaBoost/ion.mat -> /home/cheng/Desktop/CIS530/CIS535/release/./AdaBoost/ion.mat
+[NotebookApp | INFO] Updating/creating assignment 'AdaBoost': {}
+[NotebookApp | INFO] Converting notebook /home/cheng/Desktop/CIS530/CIS535/source/./AdaBoost/Bagging and AdaBoost.ipynb
+[NotebookApp | INFO] Writing 37253 bytes to /home/cheng/Desktop/CIS530/CIS535/release/./AdaBoost/Bagging and AdaBoost.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] Notebook release/AdaBoost/Bagging and AdaBoost.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 8b917c13-fccc-4e03-99a3-0227ce6da0b1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8b917c13-fccc-4e03-99a3-0227ce6da0b1
+[NotebookApp | INFO] Starting buffering for 73708059-c244-4e72-b062-f18cd0c1356b:8f40f01f99bf47dfb82adafc1898ee2c
+[NotebookApp | INFO] Kernel restarted: 73708059-c244-4e72-b062-f18cd0c1356b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 73708059-c244-4e72-b062-f18cd0c1356b
+[NotebookApp | INFO] Restoring connection for 73708059-c244-4e72-b062-f18cd0c1356b:8f40f01f99bf47dfb82adafc1898ee2c
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Starting buffering for b3118c27-1525-4e3f-9795-8db7844578e2:943288a33bc246118c430a682f11236f
+[NotebookApp | INFO] Kernel restarted: b3118c27-1525-4e3f-9795-8db7844578e2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b3118c27-1525-4e3f-9795-8db7844578e2
+[NotebookApp | INFO] Restoring connection for b3118c27-1525-4e3f-9795-8db7844578e2:943288a33bc246118c430a682f11236f
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /source/AdaBoost/Bagging and AdaBoost.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS535/source/AdaBoost/Bagging and AdaBoost.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /source/BV/Bias Variance Decomposition.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS535/source/BV/Bias Variance Decomposition.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for 8b917c13-fccc-4e03-99a3-0227ce6da0b1:6bc66b8f661646bc96535ab6a045e9a9
+[NotebookApp | INFO] Starting buffering for 73708059-c244-4e72-b062-f18cd0c1356b:8f40f01f99bf47dfb82adafc1898ee2c
+[NotebookApp | INFO] Starting buffering for b3118c27-1525-4e3f-9795-8db7844578e2:943288a33bc246118c430a682f11236f
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Shutting down 3 kernels
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Kernel shutdown: 73708059-c244-4e72-b062-f18cd0c1356b
+[NotebookApp | INFO] Kernel shutdown: b3118c27-1525-4e3f-9795-8db7844578e2
+[NotebookApp | INFO] Kernel shutdown: 8b917c13-fccc-4e03-99a3-0227ce6da0b1
