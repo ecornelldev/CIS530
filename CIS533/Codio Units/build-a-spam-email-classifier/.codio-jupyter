@@ -1,0 +1,5 @@
+nbgrader:
+   ExecutePreprocessor.timeout: 120
+   
+nbgrader:
+   ExecutePreprocessor.interrupt_on_timeout: True

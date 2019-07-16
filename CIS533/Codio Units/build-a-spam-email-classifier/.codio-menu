@@ -1,0 +1,34 @@
+{
+    "Logo": false,    
+    "Codio": false,    
+    "Help": false,
+    "Run": false,
+    "Debugger": false,
+    "Preview": false,
+    "Tools": false,
+    "Status": false,
+    "Edit": false,
+    "Find": false,
+    "View": false,
+    "File": false,
+    "Project": {
+         "Restart Box": true,
+         "Settings...": false,
+         "Stack": false,
+         "Permissions": false,
+         "Box Info": false,
+         "Reset Box...": false,
+         "Resync File Tree": false,
+         "Fork...": false,
+         "Share": false,
+         "Export as Zip...": false,
+         "QR Code for Preview URL": false,
+         "Delete...": false,
+         "Exit": false
+    },
+    "Education": {
+         "Submit Jupiter Assessments": true,
+         "Test Autograde Script": false
+    }
+}
+
