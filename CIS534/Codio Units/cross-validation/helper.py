@@ -51,24 +51,87 @@ def grid_search_grader(xTr, yTr, xVal, yVal, depths):
     return best_depth, training_losses, validation_losses
 
 
-def cross_validation_grader(xTr, yTr, depths, indices):
+def generate_kFold_grader(n, k):
     '''
     Input:
-        xTr: nxd matrix (training data)
-        yTr: n vector (training data)
-        depths: a list of len k
-        indices: indices from generate_kFold
+        n: number of training examples
+        k: number of folds
     Returns:
-        best_depth: the best parameter 
-        training losses: a list of len k. the i-th entry corresponds to the the average training loss
+        kfold_indices: a list of len k. Each entry takes the form
+        (training indices, validation indices)
+    '''
+    assert k >= 2
+    kfold_indices = []
+    
+    ### BEGIN SOLUTION
+    indices = np.array(range(n))
+    fold_size = n // k
+    
+    fold_indices = [indices[i*fold_size: (i+1)*fold_size] for i in range(k - 1)]
+    fold_indices.append(indices[(k-1)*fold_size:])
+    
+    
+    for i in range(k):
+        training_indices = [fold_indices[j] for j in range(k) if j != i]
+        validation_indices = fold_indices[i]
+        kfold_indices.append((np.concatenate(training_indices), validation_indices))
+    ### END SOLUTION
+    return kfold_indices
+
+
+def grid_search_grader(xTr, yTr, xVal, yVal, depths):
+    '''
+    Input:
+        xTr: nxd matrix
+        yTr: n vector
+        xVal: mxd matrix
+        yVal: m vector
+        depths: a list of len k
+    Return:
+        best_depth: the depth that yields that lowest loss on the validation set
+        training losses: a list of len k. the i-th entry corresponds to the the training loss
                 the tree of depths[i]
-        validation_losses: a list of len k. the i-th entry corresponds to the the average validation loss
-                the tree of depths[i] 
+        validation_losses: a list of len k. the i-th entry corresponds to the the validation loss
+                the tree of depths[i]
     '''
     training_losses = []
     validation_losses = []
     best_depth = None
     
+    ### BEGIN SOLUTION
+    for i in depths:
+        tree = RegressionTree(i)
+        tree.fit(xTr, yTr)
+        
+        training_loss = square_loss(tree.predict(xTr), yTr)
+        validation_loss = square_loss(tree.predict(xVal), yVal)
+        training_losses.append(training_loss)
+        validation_losses.append(validation_loss)
+    
+    best_depth = depths[np.argmin(validation_losses)]
+    ### END SOLUTION
+    return best_depth, training_losses, validation_losses
+
+def cross_validation_grader(xTr, yTr, depths, K):
+    '''
+    Input:
+        xTr: nxd matrix (training data)
+        yTr: n vector (training data)
+        depths: a list (of length l) depths to be tried out
+        K: the number of folds for K-fold cross validation
+    Returns:
+        best_depth: the best parameter 
+        training losses: a list of lenth l. the i-th entry corresponds to the the average training loss
+                the tree of depths[i]
+        validation_losses: a list of length l. the i-th entry corresponds to the the average validation loss
+                the tree of depths[i] 
+    '''
+    indices = generate_kFold_grader(len(xTr), K) # generate indices for 
+    training_losses = []
+    validation_losses = []
+    best_depth = None
+    
+    ### BEGIN SOLUTION
     for train_indices, validation_indices in indices:
         xtrain, ytrain = xTr[train_indices], yTr[train_indices]
         xval, yval = xTr[validation_indices], yTr[validation_indices]
@@ -80,13 +143,10 @@ def cross_validation_grader(xTr, yTr, depths, indices):
     
     training_losses = np.mean(training_losses, axis=0)
     validation_losses = np.mean(validation_losses, axis=0)
-    
     best_depth = depths[np.argmin(validation_losses)]
-    best_tree = RegressionTree(depth=best_depth)
-    best_tree.fit(xTr, yTr)
+    ### END SOLUTION
     
     return best_depth, training_losses, validation_losses
-
 
 class TreeNode(object):
     """Tree class.
