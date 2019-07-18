@@ -1,0 +1,37 @@
+{
+ "sections": [
+  {
+   "id": "9beed25a-7ca4-e547-4f9d-cdd906744aea",
+   "title": "About This Course",
+   "files": [
+    {
+     "path": "explore_data.ipynb",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/About-This-Course-9bee.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [
+  ".guides/load.js"
+ ],
+ "lexikonTopic": "",
+ "suppressPageNumbering": true,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": true,
+ "hideSectionsToggle": true,
+ "hideBackToDashboard": true,
+ "protectLayout": true
+}
