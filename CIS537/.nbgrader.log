@@ -1,0 +1,33 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS537
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=4d9fb69e5c9a6e03cc83c512b358de1425cbf2defaf4ae79
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-6656-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=4d9fb69e5c9a6e03cc83c512b358de1425cbf2defaf4ae79
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS537/source/./backprop/.nbgrader.log -> /home/cheng/Desktop/CIS530/CIS537/release/./backprop/.nbgrader.log
+[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS537/source/./backprop/helper.py -> /home/cheng/Desktop/CIS530/CIS537/release/./backprop/helper.py
+[NotebookApp | INFO] Updating/creating assignment 'backprop': {}
+[NotebookApp | INFO] Converting notebook /home/cheng/Desktop/CIS530/CIS537/source/./backprop/MLP.ipynb
+[NotebookApp | INFO] Writing 33407 bytes to /home/cheng/Desktop/CIS530/CIS537/release/./backprop/MLP.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] Notebook release/backprop/MLP.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: a422e29b-6143-4286-a42b-2945d0d81fe2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a422e29b-6143-4286-a42b-2945d0d81fe2
+[NotebookApp | INFO] Starting buffering for a422e29b-6143-4286-a42b-2945d0d81fe2:c4b6e1c6162c48128222366d01fe0ef1
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Kernel shutdown: a422e29b-6143-4286-a42b-2945d0d81fe2

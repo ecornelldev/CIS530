@@ -1,0 +1,118 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS537/backprop
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=5a235e63959156e95b929cb413be0178f0f204237e138c3e
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-1963-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=5a235e63959156e95b929cb413be0178f0f204237e138c3e
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] Notebook source/python HW8 - DL.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /notebooks/source/p08/overfitting.png (127.0.0.1): No such file or directory: source/p08/overfitting.png
+[NotebookApp | WARNING] 404 GET /notebooks/source/p08/overfitting.png (127.0.0.1) 4.52ms referer=http://localhost:8888/notebooks/source/python%20HW8%20-%20DL.ipynb
+[NotebookApp | INFO] Kernel started: efb04812-828d-4c4d-b962-77578ebab5db
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel efb04812-828d-4c4d-b962-77578ebab5db
+[NotebookApp | INFO] Saving file at /source/python HW8 - DL.ipynb
+[NotebookApp | WARNING] Notebook source/python HW8 - DL.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /source/python HW8 - DL.ipynb
+[NotebookApp | WARNING] Notebook source/python HW8 - DL.ipynb is not trusted
+[NotebookApp | WARNING] Notebook source/python_HW8_DL_starter.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /notebooks/source/p8/plot.png (127.0.0.1): No such file or directory: source/p8/plot.png
+[NotebookApp | WARNING] 404 GET /notebooks/source/p8/plot.png (127.0.0.1) 1.07ms referer=http://localhost:8888/notebooks/source/python_HW8_DL_starter.ipynb
+[NotebookApp | INFO] Kernel started: ba64032a-3c31-407e-8d1a-0d1aa80394bc
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ba64032a-3c31-407e-8d1a-0d1aa80394bc
+[NotebookApp | INFO] Saving file at /source/python HW8 - DL.ipynb
+[NotebookApp | INFO] Saving file at /source/python_HW8_DL_starter.ipynb
+[NotebookApp | INFO] Creating new notebook in /source
+[NotebookApp | INFO] Kernel started: 603ceae1-2135-4cac-9958-400460874e2b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 603ceae1-2135-4cac-9958-400460874e2b
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/python HW8 - DL.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/python HW8 - DL.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/python HW8 - DL.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS537/backprop/source/MLP.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS537/backprop/source/MLP.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS537/backprop/source/MLP.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/MLP.ipynb
+[NotebookApp | INFO] Saving file at /source/python HW8 - DL.ipynb
+[NotebookApp | INFO] Saving file at /source/python HW8 - DL.ipynb
