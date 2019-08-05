@@ -1,1 +1,0 @@
-$("#result").load("https://s3.amazonaws.com/ecornell/Codio/Courses/CIS530s/Guide/guideText.txt");

@@ -1,0 +1,2 @@
+nbgrader:
+   ExecutePreprocessor.timeout: 90

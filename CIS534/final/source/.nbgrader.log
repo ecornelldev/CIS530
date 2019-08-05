@@ -1,0 +1,118 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS534/final/source
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=5e1a0ac7b458f706e6e69b14308056414b24e74fb150e5e3
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-8270-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=5e1a0ac7b458f706e6e69b14308056414b24e74fb150e5e3
+[NotebookApp | WARNING] Notebook regression-trees/Regression_tree.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 5d0bdbf1-c5a1-4879-9da5-73839b5cd162
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5d0bdbf1-c5a1-4879-9da5-73839b5cd162
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Starting buffering for 5d0bdbf1-c5a1-4879-9da5-73839b5cd162:bafa51d1960148c6881f9fd5c50517c1
+[NotebookApp | INFO] Kernel restarted: 5d0bdbf1-c5a1-4879-9da5-73839b5cd162
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5d0bdbf1-c5a1-4879-9da5-73839b5cd162
+[NotebookApp | INFO] Restoring connection for 5d0bdbf1-c5a1-4879-9da5-73839b5cd162:bafa51d1960148c6881f9fd5c50517c1
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Starting buffering for 5d0bdbf1-c5a1-4879-9da5-73839b5cd162:bafa51d1960148c6881f9fd5c50517c1
+[NotebookApp | INFO] Kernel restarted: 5d0bdbf1-c5a1-4879-9da5-73839b5cd162
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5d0bdbf1-c5a1-4879-9da5-73839b5cd162
+[NotebookApp | INFO] Restoring connection for 5d0bdbf1-c5a1-4879-9da5-73839b5cd162:bafa51d1960148c6881f9fd5c50517c1
+[NotebookApp | INFO] Replaying 10 buffered messages
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS534/final/source/regression-trees/Regression_tree.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for 5d0bdbf1-c5a1-4879-9da5-73839b5cd162:bafa51d1960148c6881f9fd5c50517c1
+[NotebookApp | INFO] Kernel restarted: 5d0bdbf1-c5a1-4879-9da5-73839b5cd162
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5d0bdbf1-c5a1-4879-9da5-73839b5cd162
+[NotebookApp | INFO] Restoring connection for 5d0bdbf1-c5a1-4879-9da5-73839b5cd162:bafa51d1960148c6881f9fd5c50517c1
+[NotebookApp | INFO] Replaying 8 buffered messages
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Starting buffering for 5d0bdbf1-c5a1-4879-9da5-73839b5cd162:bafa51d1960148c6881f9fd5c50517c1
+[NotebookApp | INFO] Kernel restarted: 5d0bdbf1-c5a1-4879-9da5-73839b5cd162
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5d0bdbf1-c5a1-4879-9da5-73839b5cd162
+[NotebookApp | INFO] Restoring connection for 5d0bdbf1-c5a1-4879-9da5-73839b5cd162:bafa51d1960148c6881f9fd5c50517c1
+[NotebookApp | INFO] Replaying 8 buffered messages
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS534/final/source/regression-trees/Regression_tree.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | WARNING] Notebook cross-validation/Cross Validation.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7b67abb8-8e81-42c0-91e4-78727d608c38
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7b67abb8-8e81-42c0-91e4-78727d608c38
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /cross-validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /cross-validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /cross-validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /cross-validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /cross-validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /cross-validation/Cross Validation.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS534/final/source/cross-validation/Cross Validation.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /cross-validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /cross-validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /cross-validation/Cross Validation.ipynb
+[NotebookApp | INFO] Starting buffering for 7b67abb8-8e81-42c0-91e4-78727d608c38:fa168fb813ab486e8ada21f3322bd6b5
+[NotebookApp | INFO] Kernel restarted: 7b67abb8-8e81-42c0-91e4-78727d608c38
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7b67abb8-8e81-42c0-91e4-78727d608c38
+[NotebookApp | INFO] Restoring connection for 7b67abb8-8e81-42c0-91e4-78727d608c38:fa168fb813ab486e8ada21f3322bd6b5
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Saving file at /cross-validation/Cross Validation.ipynb
+[NotebookApp | INFO] Saving file at /cross-validation/Cross Validation.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS534/final/source/cross-validation/Cross Validation.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | WARNING] Notebook loading-data-in-python/Loading Data in Python.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 03bab823-ebe8-405a-9255-8eac430acfd5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 03bab823-ebe8-405a-9255-8eac430acfd5
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] Notebook explore-data/explore_data.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d4acd1a4-53d5-40c3-b403-7bad9dbf62e6
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d4acd1a4-53d5-40c3-b403-7bad9dbf62e6
+[NotebookApp | WARNING] Notebook data-science-in-the-wild/Data Science in the Wild.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 7b511418-1156-4ebd-9799-3e79f6b12460
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7b511418-1156-4ebd-9799-3e79f6b12460
+[NotebookApp | INFO] Saving file at /explore-data/explore_data.ipynb
+[NotebookApp | INFO] Saving file at /data-science-in-the-wild/Data Science in the Wild.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5d0bdbf1-c5a1-4879-9da5-73839b5cd162
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | INFO] Saving file at /regression-trees/Regression_tree.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS534/final/source/regression-trees/Regression_tree.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Starting buffering for 03bab823-ebe8-405a-9255-8eac430acfd5:a2c65039b2094a0486d59f386985485a
+[NotebookApp | INFO] Starting buffering for 7b67abb8-8e81-42c0-91e4-78727d608c38:fa168fb813ab486e8ada21f3322bd6b5
