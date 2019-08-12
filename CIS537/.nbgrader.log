@@ -31,3 +31,136 @@
 [NotebookApp | INFO] Shutting down 1 kernel
 [NotebookApp | CRITICAL] received signal 2, stopping
 [NotebookApp | INFO] Kernel shutdown: a422e29b-6143-4286-a42b-2945d0d81fe2
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS537
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=a38c4f07de91cd6a39cb1296311f9777571408409473ca24
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-2532-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=a38c4f07de91cd6a39cb1296311f9777571408409473ca24
+[NotebookApp | INFO] Kernel started: 8aea68a5-fdff-4c56-b57c-c3c11dc4e291
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8aea68a5-fdff-4c56-b57c-c3c11dc4e291
+[NotebookApp | INFO] Starting buffering for 8aea68a5-fdff-4c56-b57c-c3c11dc4e291:9d983354a0f54c35b6f8bfcb3ce38518
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8aea68a5-fdff-4c56-b57c-c3c11dc4e291
+[NotebookApp | INFO] Kernel started: eb0d03da-a207-403d-8d1d-a4582fac0e4d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel eb0d03da-a207-403d-8d1d-a4582fac0e4d
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Creating new file in /source/ConvNet
+[NotebookApp | INFO] Saving file at /source/ConvNet/helper.py
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Kernel started: b7214d15-4b5f-4e19-a698-717894091dc1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b7214d15-4b5f-4e19-a698-717894091dc1
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS537/source/ConvNet/MNIST Classifier.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/helper.py
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS537/source/ConvNet/MNIST Classifier.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/helper.py
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/helper.py
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS537/source/ConvNet/MNIST Classifier.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | ERROR] Timeout waiting for execute reply (30s).
+[NotebookApp | ERROR] Interrupting kernel
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS537/source/ConvNet/MNIST Classifier.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | ERROR] Timeout waiting for execute reply (30s).
+[NotebookApp | ERROR] Interrupting kernel
+[NotebookApp | INFO] Starting buffering for eb0d03da-a207-403d-8d1d-a4582fac0e4d:856be9874b894f91880332a6507ed020
+[NotebookApp | INFO] Kernel restarted: eb0d03da-a207-403d-8d1d-a4582fac0e4d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel eb0d03da-a207-403d-8d1d-a4582fac0e4d
+[NotebookApp | INFO] Restoring connection for eb0d03da-a207-403d-8d1d-a4582fac0e4d:856be9874b894f91880332a6507ed020
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Starting buffering for 8aea68a5-fdff-4c56-b57c-c3c11dc4e291:d9dce005124544148fd924bb6e15318e
+[NotebookApp | INFO] Starting buffering for eb0d03da-a207-403d-8d1d-a4582fac0e4d:856be9874b894f91880332a6507ed020
+[NotebookApp | INFO] Starting buffering for b7214d15-4b5f-4e19-a698-717894091dc1:e578d4267b4148d78e15ddeb4ed49053
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel eb0d03da-a207-403d-8d1d-a4582fac0e4d
+[NotebookApp | INFO] Starting buffering for eb0d03da-a207-403d-8d1d-a4582fac0e4d:ef8c121a696f4b8f8962e616871f8715
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel eb0d03da-a207-403d-8d1d-a4582fac0e4d
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/helper.py
+[NotebookApp | INFO] Starting buffering for eb0d03da-a207-403d-8d1d-a4582fac0e4d:8a5c9ee8dd174c01b7200c6c918958e2
+[NotebookApp | INFO] Kernel restarted: eb0d03da-a207-403d-8d1d-a4582fac0e4d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel eb0d03da-a207-403d-8d1d-a4582fac0e4d
+[NotebookApp | INFO] Restoring connection for eb0d03da-a207-403d-8d1d-a4582fac0e4d:8a5c9ee8dd174c01b7200c6c918958e2
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Saving file at /source/ConvNet/MNIST Classifier.ipynb
+[NotebookApp | INFO] Starting buffering for eb0d03da-a207-403d-8d1d-a4582fac0e4d:8a5c9ee8dd174c01b7200c6c918958e2
+[NotebookApp | INFO] Saving file at /source/ConvNet/helper.py
