@@ -44,30 +44,15 @@ def iondata():
 
     return xTrIon, yTrIon, xTeIon, yTeIon
 
-def evalforest(trees, X, alphas=None):
-    
-    m = len(trees)
-    n,d = X.shape
-
-    if alphas is None:
-        alphas = np.ones(m) / len(trees)
-
-    pred = np.zeros(n)
-
-    for t in range(m):
-        pred += alphas[t] * np.sign(trees[t].predict(X))
-
-    return pred
-
 class TreeNode(object):
     """Tree class.
-
+    
     (You don't need to add any methods or fields here but feel
     free to if you like. Our tests will only reference the fields
     defined in the constructor below, so be sure to set these
     correctly.)
     """
-
+    
     def __init__(self, left, right, parent, cutoff_id, cutoff_val, prediction):
         self.left = left
         self.right = right
@@ -93,12 +78,12 @@ class RegressionTree(object):
 
     def sqsplit(self, xTr,yTr,weights=None):
         """Finds the best feature, cut value, and loss value.
-
+        
         Input:
             xTr:     n x d matrix of data points
             yTr:     n-dimensional vector of labels
             weights: n-dimensional weight vector for data points
-
+        
         Output:
             feature:  index of the best cut's feature
             cut:      cut-value of the best cut
@@ -113,30 +98,30 @@ class RegressionTree(object):
         bestloss = np.inf
         feature = np.inf
         cut = np.inf
-
-        # Begin Solution
+        
+        # Begin Solution 
         for d in range(D):
             ii = xTr[:,d].argsort() # sort data along that dimensions
             xs = xTr[ii,d] # sorted feature values
             ws = weights[ii] # sorted weights
             ys = yTr[ii] # sorted labels
-
+            
             # Initialize constants
             sL=0.0 # mean squared label on left side
             muL=0.0 # mean label on left side
             wL=0.0 # total weight on left side
-            sR=ws.dot(ys**2) #mean squared label on right
+            sR=ws.dot(ys**2) #mean squared label on right 
             muR=ws.dot(ys) # mean label on right
             wR=sum(ws) # weight on right
-
+            
             idif = np.where(np.abs(np.diff(xs, axis=0)) > np.finfo(float).eps * 100)[0]
             pj = 0
-
+            
             for j in idif:
                 deltas = np.dot(ys[pj:j+1]**2, ws[pj:j+1])
                 deltamu = np.dot(ws[pj:j+1], ys[pj:j+1])
                 deltaw = np.sum(ws[pj:j+1])
-
+                
                 sL += deltas
                 muL += deltamu
                 wL += deltaw
@@ -144,26 +129,26 @@ class RegressionTree(object):
                 sR -= deltas
                 muR -= deltamu
                 wR -= deltaw
-
+                
                 L = sL - muL**2 / wL
                 R = sR - muR**2 / wR
                 loss = L + R
-
+                
                 if loss < bestloss:
                     feature = d
                     cut = (xs[j]+xs[j+1])/2
                     bestloss = loss
-
+                
                 pj = j + 1
-
+            
         assert feature != np.inf and cut != np.inf
-
+        
         return feature, cut, bestloss
 
 
     def cart(self, xTr,yTr,depth=np.inf,weights=None):
         """Builds a CART tree.
-
+        
         The maximum tree depth is defined by "maxdepth" (maxdepth=2 means one split).
         Each example can be weighted with "weights".
 
@@ -181,7 +166,7 @@ class RegressionTree(object):
             w = np.ones(n) / float(n)
         else:
             w = weights
-
+        
         # Begin Solution
         index = np.arange(n)
         prediction = yTr.dot(w) / float(np.sum(w))
@@ -192,7 +177,7 @@ class RegressionTree(object):
             feature,cut,h = self.sqsplit(xTr,yTr,w)
             left_idx  = index[xTr[:,feature] <= cut]
             right_idx = index[xTr[:,feature] > cut]
-
+            
             left_w    = w[left_idx]
             right_w   = w[right_idx]
             left  = self.cart(xTr[left_idx,:],   yTr[left_idx],  depth=depth-1, weights=left_w)
@@ -200,16 +185,16 @@ class RegressionTree(object):
             currNode = TreeNode(left, right, None, feature, cut, prediction)
             left.parent  = currNode
             right.parent = currNode
-
+            
             return currNode
 
     def evaltree(self, root, xTe):
         """Evaluates xTe using decision tree root.
-
+        
         Input:
             root: TreeNode decision tree
             xTe:  n x d matrix of data points
-
+        
         Output:
             pred: n-dimensional vector of predictions
         """
@@ -217,20 +202,20 @@ class RegressionTree(object):
 
     def evaltreehelper(self, root, xTe, idx=[]):
         """Evaluates xTe using decision tree root.
-
+        
         Input:
             root: TreeNode decision tree
             xTe:  n x d matrix of data points
-
+        
         Output:
             pred: n-dimensional vector of predictions
         """
         assert root is not None
         n = xTe.shape[0]
         pred = np.zeros(n)
-
+        
         # TODO:
-        if len(idx)==0: idx=np.ones(n)==1
+        if len(idx)==0: idx=np.ones(n)==1 
 
         if root.left is None and root.right is None:
              return np.ones(sum(idx))*root.prediction
@@ -241,7 +226,7 @@ class RegressionTree(object):
         if root.left.left==None and root.left.right==None:
              pred[idxL]=root.left.prediction
         else:
-             pred[idxL]=self.evaltreehelper(root.left, xTe,idxL)
+             pred[idxL]=self.evaltreehelper(root.left, xTe,idxL) 
 
         idxR=idx & (xTe[:,feature]  > cutoff)
         if root.right.left==None and root.right.right==None:
