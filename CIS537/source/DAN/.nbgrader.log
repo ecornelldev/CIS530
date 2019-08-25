@@ -1,0 +1,114 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS537/source/DAN
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8889/?token=665d51b21d257bc352563c8be86fb652effe3058db816c4a
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-5822-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/?token=665d51b21d257bc352563c8be86fb652effe3058db816c4a
+[NotebookApp | INFO] Creating new file in 
+[NotebookApp | INFO] Saving file at /helper.py
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS537/source/DAN
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=30c57372d1a422af593636c8c34f60d0fe3f88ffdc81bb35
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-3206-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=30c57372d1a422af593636c8c34f60d0fe3f88ffdc81bb35
+[NotebookApp | INFO] Creating new notebook in 
+[NotebookApp | INFO] Kernel started: 47c342e4-5199-4eef-a94b-2a40ce2b16d5
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 47c342e4-5199-4eef-a94b-2a40ce2b16d5
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS537/source/DAN
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=ea64dafa2270f369a3314eab63749e1a1ac5d2dc327d0b71
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-9878-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=ea64dafa2270f369a3314eab63749e1a1ac5d2dc327d0b71
+[NotebookApp | INFO] Kernel started: 9233f56c-b36f-4fe4-844a-e8e60341f9c2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9233f56c-b36f-4fe4-844a-e8e60341f9c2
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Starting buffering for 9233f56c-b36f-4fe4-844a-e8e60341f9c2:599444034732421c85225f7fce882573
+[NotebookApp | INFO] Kernel restarted: 9233f56c-b36f-4fe4-844a-e8e60341f9c2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9233f56c-b36f-4fe4-844a-e8e60341f9c2
+[NotebookApp | INFO] Restoring connection for 9233f56c-b36f-4fe4-844a-e8e60341f9c2:599444034732421c85225f7fce882573
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Starting buffering for 9233f56c-b36f-4fe4-844a-e8e60341f9c2:599444034732421c85225f7fce882573
+[NotebookApp | INFO] Kernel restarted: 9233f56c-b36f-4fe4-844a-e8e60341f9c2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9233f56c-b36f-4fe4-844a-e8e60341f9c2
+[NotebookApp | INFO] Restoring connection for 9233f56c-b36f-4fe4-844a-e8e60341f9c2:599444034732421c85225f7fce882573
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Starting buffering for 9233f56c-b36f-4fe4-844a-e8e60341f9c2:599444034732421c85225f7fce882573
+[NotebookApp | INFO] Kernel restarted: 9233f56c-b36f-4fe4-844a-e8e60341f9c2
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9233f56c-b36f-4fe4-844a-e8e60341f9c2
+[NotebookApp | INFO] Restoring connection for 9233f56c-b36f-4fe4-844a-e8e60341f9c2:599444034732421c85225f7fce882573
+[NotebookApp | INFO] Replaying 6 buffered messages
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Starting buffering for 9233f56c-b36f-4fe4-844a-e8e60341f9c2:599444034732421c85225f7fce882573
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS537/source/DAN
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=a0360a0f6d2ad7a2fb089067a59ef4a570345c769d9a2388
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    To access the notebook, open this file in a browser:
+        file:///run/user/1000/jupyter/nbserver-4210-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=a0360a0f6d2ad7a2fb089067a59ef4a570345c769d9a2388
+[NotebookApp | INFO] Kernel started: 894db823-7d6f-43da-85cc-3fc70ff8cee3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 894db823-7d6f-43da-85cc-3fc70ff8cee3
+[NotebookApp | INFO] Starting buffering for 894db823-7d6f-43da-85cc-3fc70ff8cee3:be16227d3bd849798c94b266dae106e2
+[NotebookApp | INFO] Kernel restarted: 894db823-7d6f-43da-85cc-3fc70ff8cee3
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 894db823-7d6f-43da-85cc-3fc70ff8cee3
+[NotebookApp | INFO] Restoring connection for 894db823-7d6f-43da-85cc-3fc70ff8cee3:be16227d3bd849798c94b266dae106e2
+[NotebookApp | INFO] Replaying 3 buffered messages
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Saving file at /Deep Averaging Network.ipynb
+[NotebookApp | INFO] Starting buffering for 894db823-7d6f-43da-85cc-3fc70ff8cee3:be16227d3bd849798c94b266dae106e2
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Kernel shutdown: 894db823-7d6f-43da-85cc-3fc70ff8cee3
