@@ -44,18 +44,28 @@ def iondata():
 
     return xTrIon, yTrIon, xTeIon, yTeIon
 
+def forest(xTr, yTr, m, maxdepth=np.inf):
+        n, d = xTr.shape
+        trees = []
+        
+        for i in range(m):
+            indices = np.random.choice(n, n)
+            tree = RegressionTree(depth=maxdepth)
+            tree.fit(xTr[indices, :], yTr[indices])
+            trees.append(tree)
+        
+        return trees
+
 def evalforest(trees, X, alphas=None):
     
     m = len(trees)
     n,d = X.shape
-
-    if alphas is None:
-        alphas = np.ones(m) / len(trees)
+    alpha = 1/m
 
     pred = np.zeros(n)
 
     for t in range(m):
-        pred += alphas[t] * np.sign(trees[t].predict(X))
+        pred += alpha * trees[t].predict(X)
 
     return pred
 
@@ -249,3 +259,5 @@ class RegressionTree(object):
         else:
              pred[idxR]=self.evaltreehelper(root.right,xTe,idxR)
         return pred[idx]
+
+    
