@@ -12,6 +12,18 @@ def runtest(test, name):
         print('✖ Failed!\n Your code raises an exception. The following is the traceback of the failure:')
         print(' '.join(traceback.format_tb(sys.exc_info()[2])))
 
+def get_gt():
+    gt_raw = np.array([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+       0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2,
+       2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 4, 4])
+
+    gt = np.copy(gt_raw)
+
+    # convert the gt to binary
+    gt[gt > 0] = 1
+    return gt
+
+
 
 def load_data_grader(file='heart_disease_train.csv', label=True):
     '''
