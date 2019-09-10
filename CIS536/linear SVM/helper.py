@@ -27,6 +27,14 @@ def loss_grader(w, b, xTr, yTr, C):
 
     return loss_val
 
+def loss_grader_wrong(w, b, xTr, yTr, C):
+    loss_val = 0.0
+    
+    margin = yTr*(xTr @ w + b)
+    loss_val = w.T @ w + C*(np.sum(np.maximum(1 - margin, 0)))
+
+    return loss_val
+
 def grad_grader(w, b, xTr, yTr, C):
     n, d = xTr.shape
     
