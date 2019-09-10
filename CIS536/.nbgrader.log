@@ -1,153 +1,121 @@
 [NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
 [NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
-[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS536
+[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS536/KernelSVM
 [NotebookApp | INFO] The Jupyter Notebook is running at:
-[NotebookApp | INFO] http://localhost:8888/?token=e3581a3ea172e2beba06688340cbac773135a383112764da
+[NotebookApp | INFO] http://localhost:8889/?token=becc9c460d59f5e24a116e432b7654fb337ff55de553b041
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 [NotebookApp | CRITICAL] 
     
     To access the notebook, open this file in a browser:
-        file:///run/user/1000/jupyter/nbserver-18024-open.html
+        file:///run/user/1000/jupyter/nbserver-16603-open.html
     Or copy and paste one of these URLs:
-        http://localhost:8888/?token=e3581a3ea172e2beba06688340cbac773135a383112764da
-[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
-[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
-[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
-[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
-[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
-[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS536/source/./KernelSVM/.nbgrader.log -> /home/cheng/Desktop/CIS530/CIS536/release/./KernelSVM/.nbgrader.log
-[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS536/source/./KernelSVM/helper.py -> /home/cheng/Desktop/CIS530/CIS536/release/./KernelSVM/helper.py
-[NotebookApp | INFO] Updating/creating assignment 'KernelSVM': {}
-[NotebookApp | INFO] Converting notebook /home/cheng/Desktop/CIS530/CIS536/source/./KernelSVM/Kernel SVM.ipynb
-[NotebookApp | INFO] Writing 38173 bytes to /home/cheng/Desktop/CIS530/CIS536/release/./KernelSVM/Kernel SVM.ipynb
-[NotebookApp | INFO] Setting destination file permissions to 644
-[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
-[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
-[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS536/source/./LinearSVM/yinyang.png -> /home/cheng/Desktop/CIS530/CIS536/release/./LinearSVM/yinyang.png
-[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS536/source/./LinearSVM/.nbgrader.log -> /home/cheng/Desktop/CIS530/CIS536/release/./LinearSVM/.nbgrader.log
-[NotebookApp | INFO] Copying /home/cheng/Desktop/CIS530/CIS536/source/./LinearSVM/helper.py -> /home/cheng/Desktop/CIS530/CIS536/release/./LinearSVM/helper.py
-[NotebookApp | INFO] Updating/creating assignment 'LinearSVM': {}
-[NotebookApp | INFO] Converting notebook /home/cheng/Desktop/CIS530/CIS536/source/./LinearSVM/linearSVM.ipynb
-[NotebookApp | INFO] Writing 22096 bytes to /home/cheng/Desktop/CIS530/CIS536/release/./LinearSVM/linearSVM.ipynb
-[NotebookApp | INFO] Setting destination file permissions to 644
-[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
-[NotebookApp | WARNING] Notebook release/KernelSVM/Kernel SVM.ipynb is not trusted
-[NotebookApp | INFO] Kernel started: 7c61315e-7995-4aa9-ad29-245c70ec27f6
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7c61315e-7995-4aa9-ad29-245c70ec27f6
-[NotebookApp | WARNING] Notebook release/LinearSVM/linearSVM.ipynb is not trusted
-[NotebookApp | INFO] 302 GET /notebooks/release/LinearSVM/yinyang.png (127.0.0.1) 1.04ms
-[NotebookApp | INFO] Kernel started: ddf5095f-8639-4338-9fa2-187a753a2e54
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel ddf5095f-8639-4338-9fa2-187a753a2e54
-[NotebookApp | INFO] Starting buffering for ddf5095f-8639-4338-9fa2-187a753a2e54:27b1926c08a0466fb05837e95cfbc3a9
-[NotebookApp | INFO] Starting buffering for 7c61315e-7995-4aa9-ad29-245c70ec27f6:8a92fbfc8d3949f9830338ee3e722b09
-[NotebookApp | INFO] interrupted
-[NotebookApp | CRITICAL] received signal 2, stopping
-[NotebookApp | INFO] Shutting down 2 kernels
-[NotebookApp | CRITICAL] received signal 2, stopping
-[NotebookApp | INFO] Kernel shutdown: 7c61315e-7995-4aa9-ad29-245c70ec27f6
-[NotebookApp | INFO] Kernel shutdown: ddf5095f-8639-4338-9fa2-187a753a2e54
-[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
-[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
-[NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS536
-[NotebookApp | INFO] The Jupyter Notebook is running at:
-[NotebookApp | INFO] http://localhost:8889/?token=8cb36e8a80a214c500a49668b0303d115ed22df49e35040d
-[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[NotebookApp | CRITICAL] 
-    
-    To access the notebook, open this file in a browser:
-        file:///run/user/1000/jupyter/nbserver-9385-open.html
-    Or copy and paste one of these URLs:
-        http://localhost:8889/?token=8cb36e8a80a214c500a49668b0303d115ed22df49e35040d
-[NotebookApp | WARNING] Notebook linear SVM/linearSVM.ipynb is not trusted
-[NotebookApp | INFO] Kernel started: 7c0f2994-05e3-4f7c-bc36-53ab356a58b8
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 7c0f2994-05e3-4f7c-bc36-53ab356a58b8
-[NotebookApp | INFO] Starting buffering for 7c0f2994-05e3-4f7c-bc36-53ab356a58b8:85b107ee5d41439c8342ee663b22ad67
+        http://localhost:8889/?token=becc9c460d59f5e24a116e432b7654fb337ff55de553b041
+[NotebookApp | INFO] Kernel started: 1fbdae5b-7117-42ef-9504-1f2f3fc532be
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 4.64ms referer=http://localhost:8889/notebooks/Kernel%20SVM.ipynb
 [NotebookApp | INFO] interrupted
 [NotebookApp | CRITICAL] received signal 2, stopping
 [NotebookApp | INFO] Shutting down 1 kernel
 [NotebookApp | CRITICAL] received signal 2, stopping
-[NotebookApp | INFO] Kernel shutdown: 7c0f2994-05e3-4f7c-bc36-53ab356a58b8
+[NotebookApp | INFO] Kernel shutdown: 1fbdae5b-7117-42ef-9504-1f2f3fc532be
 [NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
 [NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
 [NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS536
 [NotebookApp | INFO] The Jupyter Notebook is running at:
-[NotebookApp | INFO] http://localhost:8888/?token=d639a99caaaab0340c2be6a8b0d9f294d7c76a81bdba5b86
+[NotebookApp | INFO] http://localhost:8888/?token=a98270deea02220bed7e15efb3d809112006822acea49bc4
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 [NotebookApp | CRITICAL] 
     
     To access the notebook, open this file in a browser:
-        file:///run/user/1000/jupyter/nbserver-10245-open.html
+        file:///run/user/1000/jupyter/nbserver-21625-open.html
     Or copy and paste one of these URLs:
-        http://localhost:8888/?token=d639a99caaaab0340c2be6a8b0d9f294d7c76a81bdba5b86
-[NotebookApp | WARNING] 404 GET /api/kernels/bb7f5835-d999-43d3-a87f-b8640083fa39/channels?session_id=6a8cf7575be045828edf1d2c4a5b9885 (127.0.0.1): Kernel does not exist: bb7f5835-d999-43d3-a87f-b8640083fa39
-[NotebookApp | WARNING] 404 GET /api/kernels/bb7f5835-d999-43d3-a87f-b8640083fa39/channels?session_id=6a8cf7575be045828edf1d2c4a5b9885 (127.0.0.1) 47.27ms referer=None
-[NotebookApp | WARNING] Notebook Codio Units/linear SVM/withoutSolutions.ipynb is not trusted
-[NotebookApp | INFO] Kernel started: 53147255-e89e-436e-bc22-e12cd12cdf95
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 53147255-e89e-436e-bc22-e12cd12cdf95
-[NotebookApp | INFO] Kernel started: c29d1832-b772-4b03-96fc-0cdc7c38bca4
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c29d1832-b772-4b03-96fc-0cdc7c38bca4
-[NotebookApp | WARNING] 404 GET /api/contents/Codio%20Units/linear%20SVM/withoutSolutions.ipynb?content=0&_=1566746321700 (127.0.0.1): No such file or directory: Codio Units/linear SVM/withoutSolutions.ipynb
-[NotebookApp | WARNING] No such file or directory: Codio Units/linear SVM/withoutSolutions.ipynb
-[NotebookApp | WARNING] 404 GET /api/contents/Codio%20Units/linear%20SVM/withoutSolutions.ipynb?content=0&_=1566746321700 (127.0.0.1) 1.46ms referer=http://localhost:8888/notebooks/Codio%20Units/linear%20SVM/withoutSolutions.ipynb
-[NotebookApp | INFO] Uploading file to /Codio Units/linear SVM/withoutSolutions.ipynb
-[NotebookApp | WARNING] Notebook Codio Units/linear SVM/withoutSolutions.ipynb is not trusted
-[NotebookApp | ERROR] Error while saving file: Codio Units/linear SVM/withoutSolutions.ipynb [Errno 2] No such file or directory: '/home/cheng/Desktop/CIS530/CIS536/Codio Units/linear SVM/withoutSolutions.ipynb'
-    Traceback (most recent call last):
-      File "/home/cheng/anaconda3/lib/python3.7/site-packages/notebook/services/contents/filemanager.py", line 471, in save
-        self._save_notebook(os_path, nb)
-      File "/home/cheng/anaconda3/lib/python3.7/site-packages/notebook/services/contents/fileio.py", line 293, in _save_notebook
-        with self.atomic_writing(os_path, encoding='utf-8') as f:
-      File "/home/cheng/anaconda3/lib/python3.7/contextlib.py", line 112, in __enter__
-        return next(self.gen)
-      File "/home/cheng/anaconda3/lib/python3.7/site-packages/notebook/services/contents/fileio.py", line 213, in atomic_writing
-        with atomic_writing(os_path, *args, log=self.log, **kwargs) as f:
-      File "/home/cheng/anaconda3/lib/python3.7/contextlib.py", line 112, in __enter__
-        return next(self.gen)
-      File "/home/cheng/anaconda3/lib/python3.7/site-packages/notebook/services/contents/fileio.py", line 108, in atomic_writing
-        fileobj = io.open(path, 'w', encoding=encoding, **kwargs)
-    FileNotFoundError: [Errno 2] No such file or directory: '/home/cheng/Desktop/CIS530/CIS536/Codio Units/linear SVM/withoutSolutions.ipynb'
-[NotebookApp | WARNING] 500 PUT /api/contents/Codio%20Units/linear%20SVM/withoutSolutions.ipynb (127.0.0.1): Unexpected error while saving file: Codio Units/linear SVM/withoutSolutions.ipynb [Errno 2] No such file or directory: '/home/cheng/Desktop/CIS530/CIS536/Codio Units/linear SVM/withoutSolutions.ipynb'
-[NotebookApp | WARNING] Unexpected error while saving file: Codio Units/linear SVM/withoutSolutions.ipynb [Errno 2] No such file or directory: '/home/cheng/Desktop/CIS530/CIS536/Codio Units/linear SVM/withoutSolutions.ipynb'
-[NotebookApp | ERROR] {
-      "Host": "localhost:8888",
-      "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0",
-      "Accept": "application/json, text/javascript, */*; q=0.01",
-      "Accept-Language": "en-US,en;q=0.5",
-      "Accept-Encoding": "gzip, deflate",
-      "Referer": "http://localhost:8888/notebooks/Codio%20Units/linear%20SVM/withoutSolutions.ipynb",
-      "Content-Type": "application/json",
-      "X-Xsrftoken": "2|266903b0|ac45660ae93b7f0dc28bb03a408f5762|1564769038",
-      "X-Requested-With": "XMLHttpRequest",
-      "Content-Length": "146482",
-      "Connection": "keep-alive",
-      "Cookie": "username-localhost-8890=\"2|1:0|10:1565634994|23:username-localhost-8890|44:ZmU0YWJiNzJlNGM3NDIyM2E4MzA4Y2M3OTcyNzg2MDQ=|474f6b5cb5aea3f0b944633afeccf5703c8cbb2bd97f8acd54b4a6e682edfac0\"; username-localhost-8889=\"2|1:0|10:1566745578|23:username-localhost-8889|44:NWM4ZWIwODI4ZTJiNGZiOGEyMmJlZDhkZTllMDcyZTI=|d3119ecc530a2c3f7bb61896c13fbe65c0d4e7e83f3d037f3adc7586204c8cd3\"; hibext_instdsigdipv2=1; username-localhost-8891=\"2|1:0|10:1565125768|23:username-localhost-8891|44:YWE1NThkMjViMGUwNDkwY2I4MWMxMTAzOWU0NjljZWM=|023ff708bae09332105ce1e0997ce80a155bdeaa29c392675b756c95d3d7c295\"; username-localhost-8888=\"2|1:0|10:1566746315|23:username-localhost-8888|44:MzA3NDg0YTNiYmVlNGY1NWE2ZjJlNDg4Y2IzYmY3MTQ=|c1a13cf341c684ecd7d2215cfdc579b7d7aaf210374289c497dd74dec5dfbcf4\"; _xsrf=2|266903b0|ac45660ae93b7f0dc28bb03a408f5762|1564769038"
-    }
-[NotebookApp | ERROR] 500 PUT /api/contents/Codio%20Units/linear%20SVM/withoutSolutions.ipynb (127.0.0.1) 30.78ms referer=http://localhost:8888/notebooks/Codio%20Units/linear%20SVM/withoutSolutions.ipynb
-[NotebookApp | INFO] Starting buffering for 53147255-e89e-436e-bc22-e12cd12cdf95:32f46b521c9b460fa43f59a85b390857
+        http://localhost:8888/?token=a98270deea02220bed7e15efb3d809112006822acea49bc4
+[NotebookApp | WARNING] Notebook KernelSVM/Kernel SVM.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 84970972-f8bd-4078-ac4d-684290434525
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 84970972-f8bd-4078-ac4d-684290434525
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 8.13ms referer=http://localhost:8888/notebooks/KernelSVM/Kernel%20SVM.ipynb
+[NotebookApp | INFO] Saving file at /KernelSVM/Kernel SVM.ipynb
+[NotebookApp | WARNING] Notebook KernelSVM/Kernel SVM.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /KernelSVM/Kernel SVM.ipynb
+[NotebookApp | WARNING] Notebook KernelSVM/Kernel SVM.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /KernelSVM/Kernel SVM.ipynb
+[NotebookApp | WARNING] Notebook KernelSVM/Kernel SVM.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /KernelSVM/Kernel SVM.ipynb
+[NotebookApp | WARNING] Notebook KernelSVM/Kernel SVM.ipynb is not trusted
+[NotebookApp | INFO] Saving file at /KernelSVM/Kernel SVM.ipynb
+[NotebookApp | WARNING] Notebook KernelSVM/Kernel SVM.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 84970972-f8bd-4078-ac4d-684290434525:28f048212d6d4cfc879e7908c286d6a9
+[NotebookApp | INFO] Kernel restarted: 84970972-f8bd-4078-ac4d-684290434525
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 84970972-f8bd-4078-ac4d-684290434525
+[NotebookApp | INFO] Restoring connection for 84970972-f8bd-4078-ac4d-684290434525:28f048212d6d4cfc879e7908c286d6a9
+[NotebookApp | INFO] Replaying 9 buffered messages
+[NotebookApp | INFO] Saving file at /KernelSVM/Kernel SVM.ipynb
+[NotebookApp | WARNING] Notebook KernelSVM/Kernel SVM.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 84970972-f8bd-4078-ac4d-684290434525:28f048212d6d4cfc879e7908c286d6a9
+[NotebookApp | INFO] Kernel restarted: 84970972-f8bd-4078-ac4d-684290434525
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 84970972-f8bd-4078-ac4d-684290434525
+[NotebookApp | INFO] Restoring connection for 84970972-f8bd-4078-ac4d-684290434525:28f048212d6d4cfc879e7908c286d6a9
+[NotebookApp | INFO] Replaying 10 buffered messages
+[NotebookApp | INFO] Starting buffering for 84970972-f8bd-4078-ac4d-684290434525:28f048212d6d4cfc879e7908c286d6a9
+[NotebookApp | INFO] Kernel restarted: 84970972-f8bd-4078-ac4d-684290434525
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 84970972-f8bd-4078-ac4d-684290434525
+[NotebookApp | INFO] Restoring connection for 84970972-f8bd-4078-ac4d-684290434525:28f048212d6d4cfc879e7908c286d6a9
+[NotebookApp | INFO] Replaying 5 buffered messages
+[NotebookApp | INFO] Saving file at /KernelSVM/Kernel SVM.ipynb
+[NotebookApp | INFO] Saving file at /KernelSVM/Kernel SVM.ipynb
+[NotebookApp | INFO] Saving file at /KernelSVM/Kernel SVM.ipynb
+[NotebookApp | INFO] Starting buffering for 84970972-f8bd-4078-ac4d-684290434525:28f048212d6d4cfc879e7908c286d6a9
+[NotebookApp | INFO] Kernel restarted: 84970972-f8bd-4078-ac4d-684290434525
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 84970972-f8bd-4078-ac4d-684290434525
+[NotebookApp | INFO] Restoring connection for 84970972-f8bd-4078-ac4d-684290434525:28f048212d6d4cfc879e7908c286d6a9
+[NotebookApp | INFO] Replaying 9 buffered messages
+[NotebookApp | INFO] Saving file at /KernelSVM/Kernel SVM.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS536/KernelSVM/Kernel SVM.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /KernelSVM/Kernel SVM.ipynb
+[NotebookApp | INFO] Starting buffering for 84970972-f8bd-4078-ac4d-684290434525:28f048212d6d4cfc879e7908c286d6a9
 [NotebookApp | INFO] interrupted
 [NotebookApp | CRITICAL] received signal 2, stopping
-[NotebookApp | INFO] Shutting down 2 kernels
-[NotebookApp | CRITICAL] received signal 2, stopping
-[NotebookApp | INFO] Kernel shutdown: 53147255-e89e-436e-bc22-e12cd12cdf95
-[NotebookApp | INFO] Kernel shutdown: c29d1832-b772-4b03-96fc-0cdc7c38bca4
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 84970972-f8bd-4078-ac4d-684290434525
 [NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
 [NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
 [NotebookApp | INFO] Serving notebooks from local directory: /home/cheng/Desktop/CIS530/CIS536
 [NotebookApp | INFO] The Jupyter Notebook is running at:
-[NotebookApp | INFO] http://localhost:8888/?token=5fed15269949bded28147c5c69c26c2e199978a3c6910610
+[NotebookApp | INFO] http://localhost:8888/?token=8ccef9e9a67fd71b37d25040755068a4b65c68825cd26283
 [NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
 [NotebookApp | CRITICAL] 
     
     To access the notebook, open this file in a browser:
-        file:///run/user/1000/jupyter/nbserver-10429-open.html
+        file:///run/user/1000/jupyter/nbserver-22088-open.html
     Or copy and paste one of these URLs:
-        http://localhost:8888/?token=5fed15269949bded28147c5c69c26c2e199978a3c6910610
-[NotebookApp | INFO] Kernel started: 8ae4fcdb-97e2-42ad-9425-385c819ad3de
-[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8ae4fcdb-97e2-42ad-9425-385c819ad3de
+        http://localhost:8888/?token=8ccef9e9a67fd71b37d25040755068a4b65c68825cd26283
+[NotebookApp | INFO] Kernel started: 34c78017-555e-4c04-8f1d-8c11c9d711ac
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 34c78017-555e-4c04-8f1d-8c11c9d711ac
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 4.40ms referer=http://localhost:8888/notebooks/KernelSVM/Kernel%20SVM.ipynb
+[NotebookApp | INFO] Kernel started: cfa6a96c-059c-473b-95fc-2602d292b250
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel cfa6a96c-059c-473b-95fc-2602d292b250
+[NotebookApp | WARNING] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (127.0.0.1) 2.21ms referer=http://localhost:8888/notebooks/linear%20SVM/linearSVM.ipynb
+[NotebookApp | INFO] Saving file at /KernelSVM/Kernel SVM.ipynb
+[NotebookApp | INFO] Starting buffering for 34c78017-555e-4c04-8f1d-8c11c9d711ac:1783a222c2c24819bc98d408f8922ca7
+[NotebookApp | INFO] Kernel restarted: 34c78017-555e-4c04-8f1d-8c11c9d711ac
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 34c78017-555e-4c04-8f1d-8c11c9d711ac
+[NotebookApp | INFO] Restoring connection for 34c78017-555e-4c04-8f1d-8c11c9d711ac:1783a222c2c24819bc98d408f8922ca7
+[NotebookApp | INFO] Replaying 5 buffered messages
 [NotebookApp | INFO] Saving file at /linear SVM/linearSVM.ipynb
-[NotebookApp | INFO] Starting buffering for 8ae4fcdb-97e2-42ad-9425-385c819ad3de:bb8eee18b6394f258b24564458b60abe
+[NotebookApp | INFO] Saving file at /KernelSVM/Kernel SVM.ipynb
+[NotebookApp | WARNING] No nbgrader_config.py file found. Rerun with DEBUG log level to see where nbgrader is looking.
+[NotebookApp | INFO] Validating '/home/cheng/Desktop/CIS530/CIS536/KernelSVM/Kernel SVM.ipynb'
+[NotebookApp | INFO] Executing notebook with kernel: python3
+[NotebookApp | INFO] Saving file at /KernelSVM/Kernel SVM.ipynb
+[NotebookApp | INFO] Starting buffering for 34c78017-555e-4c04-8f1d-8c11c9d711ac:1783a222c2c24819bc98d408f8922ca7
+[NotebookApp | INFO] Kernel restarted: 34c78017-555e-4c04-8f1d-8c11c9d711ac
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 34c78017-555e-4c04-8f1d-8c11c9d711ac
+[NotebookApp | INFO] Restoring connection for 34c78017-555e-4c04-8f1d-8c11c9d711ac:1783a222c2c24819bc98d408f8922ca7
+[NotebookApp | INFO] Replaying 12 buffered messages
 [NotebookApp | INFO] interrupted
 [NotebookApp | CRITICAL] received signal 2, stopping
-[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Shutting down 2 kernels
 [NotebookApp | CRITICAL] received signal 2, stopping
-[NotebookApp | INFO] Kernel shutdown: 8ae4fcdb-97e2-42ad-9425-385c819ad3de
+[NotebookApp | INFO] Kernel shutdown: 34c78017-555e-4c04-8f1d-8c11c9d711ac
+[NotebookApp | INFO] Kernel shutdown: cfa6a96c-059c-473b-95fc-2602d292b250
